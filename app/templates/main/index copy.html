@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% include 'partials/_head.html' %}
+    </head>
+    <body>
+        {% include 'partials/_flashes.html' %}
+
+        <div class="ui header headfloat"><h1><em>CATHAI</em></h1>
+          <div class="sub header"><h3>Cluster Analysis Tool for Healthcare-Associated Infections</h3></div>
+        </div>
+        <hr class="solid">
+        <div class="ui grid">
+            <div class="three wide column mainfloat">
+                <div class="two wide centered column">
+                    <p><h2><a class="black" href="#"><em>Download</em></a></h2></p>
+                    <p><h2><a class="black" href="{{ url_for('cathai.demo_base') }}"><em>Demo</em></a></h2></p>
+                    <p><h2><a class="black" href="{{ url_for('account.login') }}"><em>Login</em></a></h2></p>
+                </div>
+            </div>
+            <div class="thirteen wide column">
+                <img class="ui image mainimg" src="{{ url_for('static', filename='images/cathai_bg.png') }}">
+            </div>
+        </div>
+        <hr class="solid">
+
+        {% if csrf_token()|safe %}
+            <div style="visibility: hidden; display: none">
+              <input type="hidden" name="csrf_token" value="{{ csrf_token()|safe }}">
+            </div>
+        {% endif %}
+    </body>
+</html>

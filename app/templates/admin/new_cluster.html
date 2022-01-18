@@ -1,0 +1,226 @@
+{% extends 'layouts/base.html' %}
+{% import 'macros/labelled_form_macros.html' as f %}
+
+{% block content %}
+    <div class="ui stackable centered grid container">
+        <div class="twelve wide column">
+            {% if stand_alone != true %}
+                <a class="ui basic compact button" href="{{ url_for('admin.index') }}">
+                    <i class="caret left icon"></i>
+                    Back to dashboard
+                </a>
+            {% endif %}
+            <h2 class="ui header">
+                Add New Cluster
+                <div class="sub header">Create a new cluster</div>
+            </h2>
+
+            {% set flashes = {
+                'error':   get_flashed_messages(category_filter=['form-error']),
+                'warning': get_flashed_messages(category_filter=['form-check-email']),
+                'info':    get_flashed_messages(category_filter=['form-info']),
+                'success': get_flashed_messages(category_filter=['form-success'])
+            } %}
+
+            {{ f.begin_form(form, flashes) }}
+
+                <div class="three fields">
+                    {{ f.render_form_field(form.species) }}
+                    {{ f.render_form_field(form.sts) }}
+                    {{ f.render_form_field(form.name) }}
+                </div>
+
+                {{ f.render_form_field(form.members) }}
+
+                {{ f.form_message(flashes['error'], header='Something went wrong.', class='error') }}
+                {{ f.form_message(flashes['warning'], header='Check details', class='warning') }}
+                {{ f.form_message(flashes['info'], header='Information', class='info') }}
+                {{ f.form_message(flashes['success'], header='Success!', class='success') }}
+
+                {% for field in form | selectattr('type', 'equalto', 'SubmitField') %}
+                    {{ f.render_form_field(field) }}
+                {% endfor %}
+
+            {{ f.end_form() }}
+
+            <div>
+                {{ f.render_form(focus) }}
+                <br>
+            </div>
+            <div style="overflow-x: scroll;">
+                <table id="FocusTable" class="ui searchable sortable unstackable selectable celled table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Sample Date</th>
+                            <th>Hospital</th>
+                            <th>Clusters</th>
+                            <th>Distance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    {% for key,value in samples.iterrows() %}
+                        <tr class="focustablerow">
+                            <td class="sid">{{ value['Sample ID'] }}</td>
+                            <td>{{ value['sample date'] }}</td>
+                            <td>{{ value['Hospital'] }}</td>
+                            <td>{{ value['Clusters'] }}</td>
+                            <td class="distance"></td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <script type="text/javascript">
+        var distances={{ distances|safe }};
+
+        function updateDistances() {
+            var species = $( "#species option:selected" ).val();
+            var st = $( "#sts option:selected" ).val();
+
+            $.get("{{ url_for('admin.get_distances') }}", 
+                { 'species': species, 'st': st, 'csrf_token': "{{ csrf_token() }}"}, 
+                function (result) { 
+                    if (typeof result === 'object' && result !== null && 'distances' in result) {
+                        distances = JSON.parse(result['distances']);
+                    } else {
+                        console.log("bad distances!");
+                    }
+                }
+            )
+        }
+        
+        function updateST() {
+            var species = $( "#species option:selected" ).val();
+
+            $.get("{{ url_for('admin.get_sts') }}", 
+                { 'species': species, 'csrf_token': "{{ csrf_token() }}"}, 
+                function (result) { 
+                    if (typeof result === 'object' && result !== null && 'sts' in result) {
+                        $("#sts").empty();
+                        $.each(result['sts'], function(key, value) {
+                            $("#sts").append($("<option></option>").attr("value", value).text(value));
+                        });
+                        $("#sts").change();
+                    } else {
+                        console.log("bad sts!");
+                    }
+                }
+            )
+        }
+
+        function updateMembers() {
+            var species = $( "#species option:selected" ).val();
+            var st = $( "#sts option:selected" ).val();
+
+            $.get("{{ url_for('admin.get_members') }}", 
+                { 'species': species, 'st': st, 'csrf_token': "{{ csrf_token() }}"}, 
+                function (result) { 
+                    if (typeof result === 'object' && result !== null && 'members' in result) {
+                        $("#members").dropdown('clear');
+                        $("#members").empty();
+                        $("#samples").dropdown('clear');
+                        $("#samples").empty();
+                        $.each(result['members']['Sample ID'], function(key, value) {
+                            $("#members").append($("<option></option>").attr("value", value).text(value));
+                            $("#samples").append($("<option></option>").attr("value", value).text(value));
+                        });
+                        $("#samples").dropdown('clear');
+                        updateDistances();
+                    } else {
+                        console.log("bad members!");
+                    }
+                }
+            )
+        }
+
+        function updateMetadata() {
+            var species = $( "#species option:selected" ).val();
+            var st = $( "#sts option:selected" ).val();
+
+            $.get("{{ url_for('admin.get_metadata') }}", 
+                { 'species': species, 'st': st, 'csrf_token': "{{ csrf_token() }}"}, 
+                function (result) { 
+                    if (typeof result === 'object' && result !== null && 'metadata' in result) {
+                        $('#FocusTable tbody').empty();
+                        $.each(result['metadata'], function(key, value) {
+                            $('#FocusTable > tbody:last-child').append(`
+                            <tr class="focustablerow">
+                                <td class="sid">${value['Sample ID']}</td>
+                                <td>${value['sample date']}</td>
+                                <td>${value['Hospital']}</td>
+                                <td>${value['Clusters']}</td>
+                                <td class="distance"></td>
+                            </tr>
+                            `);
+                        });
+                    } else {
+                        console.log("bad metadata!");
+                    }
+                }
+            )
+        }
+
+        function setRowColours() {
+            $( "#FocusTable > tbody > tr" ).each(function(index, row) {
+                var $row = $(row);
+                $sid = $row.find('.sid');
+                sid = $sid.text();
+                if ($("#members").val().includes(sid)) {
+                    $row.addClass("positive");
+                } else {
+                    $row.removeClass("positive");
+                }
+            })
+        }
+
+        function setDistances() {
+            var focus = $( "#samples option:selected" ).val();
+            if (focus == null || focus == "") {
+                $( "#FocusTable > tbody > tr" ).each(function(index, row) {
+                    var $row = $(row);
+                    $distance = $row.find('.distance');
+                    $distance.html("");
+                })
+            } else {
+                $( "#FocusTable > tbody > tr" ).each(function(index, row) {
+                    var $row = $(row);
+                    $sid = $row.find('.sid');
+                    sid = $sid.text();
+                    $distance = $row.find('.distance');
+                    $distance.html(distances[focus][sid]);
+                })
+            }
+        }
+
+        function handleRowClick(e) {
+            var $row = $(e.target).closest('tr');
+            $sid = $row.find('.sid');
+            sid = $sid.text();
+            if ($("#members").val().includes(sid)) {
+                $("#members").dropdown("remove selected", sid);
+            } else {
+                $("#members").dropdown("set selected", sid);
+            }
+        }
+
+        function handleSTChange() {
+            updateMetadata();
+            updateDistances();
+            updateMembers();
+        }
+
+        $(document).ready(function () {
+            $("#species").change(updateST);
+            $("#sts").change(handleSTChange);
+            $("#samples").change(setDistances);
+            $("#members").change(setRowColours);
+            setRowColours();
+            $("#FocusTable").on('click', 'tr', function (e) {handleRowClick(e)});
+        })
+    </script>
+
+{% endblock %}

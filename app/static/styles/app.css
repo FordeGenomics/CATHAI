@@ -1,0 +1,59 @@
+@media -sass-debug-info{filename{}line{font-family:\000037}}
+nav {
+  margin-bottom: 40px !important;
+}
+
+@media -sass-debug-info{filename{}line{font-family:\0000312}}
+.ui.fixed.main.menu .right.menu > .item:last-of-type {
+  border-right: 1px solid rgba(34, 36, 38, 0.0980392);
+}
+
+@media -sass-debug-info{filename{}line{font-family:\0000318}}
+nav .mobile.only.row .ui.vertical.menu {
+  margin-top: 40px;
+  display: none;
+}
+
+@media -sass-debug-info{filename{}line{font-family:\0000325}}
+.flashes > .ui.message:last-of-type {
+  margin-bottom: 2rem;
+}
+
+@media -sass-debug-info{filename{}line{font-family:\0000330}}
+table.selectable tr:hover {
+  cursor: pointer !important;
+}
+
+hr.solid {
+  border: 0;
+  border-top: 12px solid #cccccc;
+  margin: 0px !important;
+}
+
+div.mainfloat {
+  padding-left: 8rem !important;
+  padding-top: 8rem !important;
+  background-image: url('../images/cathai_bg.png') !important;
+  background-image: linear-gradient(to right, rgba(255,255,255,1), rgba(255,255,255,0)) 20%, url('../images/cathai_bg.png') !important;
+  background-size: cover !important;
+  min-height: calc(100vh - 12rem) !important;
+}
+
+div.headfloat {
+  padding-left: 2rem !important;
+  padding-top: 2rem !important;
+  margin: 0 !important;
+}
+
+a.black {
+  color: black;
+}
+
+img.mainimg {
+  -webkit-gradient(linear, right 50%, left center, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
+}
+
+div.maingrid {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}

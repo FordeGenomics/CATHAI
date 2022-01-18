@@ -1,0 +1,203 @@
+{% extends 'layouts/base.html' %}
+{% import 'macros/labelled_form_macros.html' as f %}
+
+{% set deletion_endpoint = 'admin.delete_cluster_request' %}
+
+{% set endpoints = [
+    ('admin.cluster_info', 'Cluster information'),
+    ('admin.edit_cluster', 'Edit cluster'),
+    (deletion_endpoint, 'Delete cluster')
+] %}
+
+{% macro navigation(items) %}
+    <div class="ui vertical fluid secondary menu">
+        {% for route, name in items %}
+            {% set href = url_for(route, cluster_id=cluster_id) %}
+            <a class="item {% if request.endpoint == route %}active{% endif %}" href="{{ href }}">
+                {{ name }}
+            </a>
+        {% endfor %}
+    </div>
+{% endmacro %}
+
+{% macro cluster_info(cluster) %}
+    <table class="ui compact definition table">
+        <tr><td>Name</td><td>{{ cluster.CLUSTER }}</td></tr>
+        <tr><td>Species</td><td>{{ cluster.SPECIES }}</td></tr>
+        <tr><td>ST</td><td>{{ cluster.ST }}</td></tr>
+        <tr><td>Members</td><td>{{ cluster.MEMBERS.replace(";", ", ") }}</td></tr>
+    </table>
+{% endmacro %}
+
+{% block content %}
+    <div class="ui stackable centered grid container">
+        <div class="twelve wide column">
+            <a class="ui basic compact button" href="{{ url_for('admin.manage_clusters') }}">
+                <i class="caret left icon"></i>
+                Back to all clusters
+            </a>
+            <h2 class="ui header">
+                {{ cluster.CLUSTER }}
+                <div class="sub header">View and manage cluster {{ cluster.CLUSTER }}.</div>
+            </h2>
+        </div>
+        <div class="stretched divided very relaxed row">
+            <div class="four wide column">
+                {{ navigation(endpoints) }}
+            </div>
+            <div class="eight wide column">
+                {% if request.endpoint == deletion_endpoint %}
+                    <h3 class="ui red block header">
+                        <i class="warning circle icon"></i>
+                        <div class="content">
+                            This action is permanent
+                            <div class="sub header">
+                                Deleting a cluster is not a reversible change and cannot be recovered.
+                            </div>
+                        </div>
+                    </h3>
+
+                    <div class="ui form">
+                        <div class="inline field">
+                            <div class="ui deletion checkbox">
+                                <input type="checkbox" tabindex="0" class="hidden">
+                                <label>I understand that this action cannot be undone.</label>
+                            </div>
+                        </div>
+                        <a class="ui disabled negative deletion button">
+                            Delete this cluster
+                        </a>
+                    </div>
+                    </div>
+                {% elif form %}
+                    <div>
+                        {{ f.render_form(form) }}
+                        <br>
+                    </div>
+                    <div>
+                        {{ f.render_form(focus) }}
+                        <br>
+                    </div>
+                    <div>
+                        <form class="ui form">
+                            <label for="distT">Distance Threshold</label>
+                            <input value='25' disabled="true" name="distT" type="number" id="distT" min="0" max="100">
+                            <input id="distBtn" disabled="true" class="ui positive button" name="distBtn" type="submit" value= "Select All at Threshold">
+                        </form>
+                    </div>
+                    <div style="overflow-x: scroll;">
+                        <table id="FocusTable" class="ui searchable sortable unstackable selectable celled table">
+                            <thead>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Sample Date</th>
+                                    <th>Hospital</th>
+                                    <th>Distance</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            {% for key,value in samples.iterrows() %}
+                                <tr class="focustablerow">
+                                    <td class="sid">{{ value['Sample ID'] }}</td>
+                                    <td>{{ value['sample date'] }}</td>
+                                    <td>{{ value['Hospital'] }}</td>
+                                    <td class="distance"></td>
+                                </tr>
+                            {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+
+                {% else %}
+                    {{ cluster_info(cluster) }}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        {% if distances is defined %}
+        var distances={{ distances|safe }};
+        {% endif %}
+
+        $('.deletion.checkbox').checkbox({
+            onChecked: function() {
+                $('.deletion.button').removeClass('disabled')
+                        .attr("href", "{{ url_for('admin.delete_cluster', cluster_id=cluster_id) }}");
+            },
+            onUnchecked: function() {
+                $('.deletion.button').addClass('disabled').removeAttr('href');
+            }
+        });
+
+        function setRowColours() {
+            $( "#FocusTable > tbody > tr" ).each(function(index, row) {
+                var $row = $(row);
+                $sid = $row.find('.sid');
+                sid = $sid.text();
+                if ($("#members").val().includes(sid)) {
+                    $row.addClass("positive");
+                } else {
+                    $row.removeClass("positive");
+                }
+            })
+        }
+
+        function updateDistances() {
+            var focus = $( "#samples option:selected" ).val();
+            if (focus == null || focus == "") {
+                $( "#FocusTable > tbody > tr" ).each(function(index, row) {
+                    var $row = $(row);
+                    $distance = $row.find('.distance');
+                    $distance.html("");
+                });
+                $( "#distT" ).prop('disabled', true);
+                $( "#distBtn" ).prop('disabled', true);
+            } else {
+                $( "#FocusTable > tbody > tr" ).each(function(index, row) {
+                    var $row = $(row);
+                    $sid = $row.find('.sid');
+                    sid = $sid.text();
+                    $distance = $row.find('.distance');
+                    $distance.html(distances[focus][sid]);
+                });
+                $( "#distT" ).prop('disabled', false);
+                $( "#distBtn" ).prop('disabled', false);
+            }
+        }
+
+        function handleRowClick(e) {
+            var $row = $(e.target).closest('tr');
+            $sid = $row.find('.sid');
+            sid = $sid.text();
+            if ($("#members").val().includes(sid)) {
+                $("#members").dropdown("remove selected", sid);
+            } else {
+                $("#members").dropdown("set selected", sid);
+            }
+        }
+
+        function handleDistThreshold(e) {
+            e.preventDefault();
+            var distThres = $( "#distT" ).val();
+            var focus = $( "#samples option:selected" ).val();
+            $( "#FocusTable > tbody > tr" ).each(function(index, row) {
+                var $row = $(row);
+                var sidTd = $row.find('.sid');
+                var sid = sidTd.html();
+                if (distances[focus][sid] <= distThres) {
+                    $("#members").dropdown("set selected", sid);
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            $("#samples").change(updateDistances);
+            $("#members").change(setRowColours);
+            setRowColours();
+            $("#FocusTable").on('click', 'tr', function (e) {handleRowClick(e)});
+            $("#distBtn").on('click', function (e) {handleDistThreshold(e)});
+        })
+
+    </script>
+{% endblock %}

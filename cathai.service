@@ -1,0 +1,13 @@
+[Unit]
+Description=uWSGI instance to serve CATHAI
+After=network.target
+
+[Service]
+User=www-data
+Group=www-data
+WorkingDirectory=/var/www/cathai
+Environment="PATH=/sw/miniconda3/envs/cathai/bin"
+ExecStart=/sw/miniconda3/envs/cathai/bin/honcho start -e config.env -f Prod
+
+[Install]
+WantedBy=multi-user.target

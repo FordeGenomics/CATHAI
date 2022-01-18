@@ -1,0 +1,8 @@
+name: cathai
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.9.2
+- uwsgi=2.0.19.1
+- redis=5.0.3

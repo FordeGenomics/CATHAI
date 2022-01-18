@@ -1,0 +1,3 @@
+web: uwsgi --ini cathai.ini
+redis: redis-server
+worker: celery -A app.celery worker

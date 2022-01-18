@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% include 'partials/_head.html' %}
+    </head>
+    <body>
+        {% include 'partials/_flashes.html' %}
+
+        <div class="ui header headfloat"><h1><em>CATHAI</em></h1>
+          <div class="sub header"><h3>Cluster Analysis Tool for Healthcare-Associated Infections</h3></div>
+        </div>
+        <hr class="solid">
+        <div class="ui grid maingrid">
+            <div class="sixteen wide column mainfloat">
+                {% if standalone is defined %}
+                    <p><h2><a class="black" href="{{ url_for('cathai.index') }}"><em>Access CATHAI</em></a></h2></p>
+                    <p><h2><a class="black" href="{{ url_for('admin.manage_clusters') }}"><em>Manage Clusters</em></a></h2></p>
+                    <p><h2><a class="black" href="{{ url_for('admin.new_cluster') }}"><em>Add New Cluster</em></a></h2></p>
+                {% else %}
+                    {% if current_user.is_authenticated %}
+                    <p><h2><a class="black" href="{{ url_for('cathai.index') }}"><em>Access CATHAI</em></a></h2></p>
+                    <p><h2><a class="black" href="{{ url_for(current_user.role.index + '.index') }}"><em>Access Dashboard</em></a></h2></p>
+                    {% else %}
+                    <p><h2><a class="black" href="{{ url_for('account.login') }}"><em>Login</em></a></h2></p>
+                    <p><h2><a class="black" href="{{ url_for('cathai.demo_base') }}"><em>Demo</em></a></h2></p>
+                    {% endif %}
+                    <p><h2><a class="black" target="_blank" href="https://github.com/FordeGenomics/CATHAI"><em>Download</em></a></h2></p>
+                {% endif %}
+                
+            </div>
+        </div>
+        <hr class="solid">
+
+        {% if csrf_token()|safe %}
+            <div style="visibility: hidden; display: none">
+              <input type="hidden" name="csrf_token" value="{{ csrf_token()|safe }}">
+            </div>
+        {% endif %}
+        <footer>
+        </footer>
+    </body>
+</html>

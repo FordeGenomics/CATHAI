@@ -1,0 +1,49 @@
+{% extends 'layouts/base.html' %}
+
+{% macro dashboard_option(title, endpoint, description=None, icon=None) %}
+    <a class="column" href="{{ url_for(endpoint) }}">
+        <div class="ui padded segment">
+            <h3 class="ui header">
+                {% if icon is not none %}
+                    <i class="{{ icon }}"></i>
+                {% endif %}
+                <div class="content">
+                    {{ title }}
+                    {% if description is not none %}
+                        <div class="sub header">
+                            {{ description }}
+                        </div>
+                    {% endif %}
+                </div>
+            </h3>
+        </div>
+    </a>
+{% endmacro %}
+
+{% block content %}
+    <div class="ui stackable centered grid container">
+        <div class="twelve wide column">
+            <h2 class="ui header">
+                Admin Dashboard
+            </h2>
+            <div class="ui two column stackable grid">
+                {{ dashboard_option('Manage Users', 'admin.manage_users',
+                                    description='View and manage user accounts', icon='users icon') }}
+                {{ dashboard_option('Manage Groups', 'admin.manage_groups',
+                                    description='View and manage user groups', icon='calendar icon') }}
+                {{ dashboard_option('Add New User', 'admin.new_user',
+                                    description='Create a new user account', icon='add user icon') }}
+                {{ dashboard_option('Invite New User', 'admin.invite_user',
+                                    description='Invites a new user to create their own account', icon='add user icon') }}
+                {{ dashboard_option('Add New Group', 'admin.new_group',
+                                    description="Create a new user group", icon='calendar plus icon') }}
+                {{ dashboard_option('Manage Clusters', 'admin.manage_clusters',
+                                    description="View and manage existing clusters", icon='viruses icon') }}
+                {{ dashboard_option('Add Cluster', 'admin.new_cluster',
+                                    description="Add new cluster", icon='biohazard icon') }}
+                {{ dashboard_option('Export Clusters', 'admin.export_clusters',
+                                    description="Manual backup", icon='save icon') }}
+            </div>
+        </div>
+    </div>
+{% endblock %}

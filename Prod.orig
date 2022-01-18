@@ -1,0 +1,2 @@
+web: ./bootstrap.sh && uwsgi --ini cathai.ini
+redis: redis-server
