@@ -1,0 +1,2729 @@
+Sample ID,sample date,site,Env. Site,Species,MLST (ST),Admission date
+M86171_2,2018-06-23,Rectal swab,,Escherichia coli,10,
+M98884,2019-08-27,Rectal Swab,,Enterococcus faecium,78,2019-08-15
+M94402,2019-04-08,Nasal Swab,,Staphylococcus aureus,5213,2019-03-21
+M13353,2021-03-23,Rectal Swab,,Enterococcus faecium,1424,2021-03-05
+M811163,2018-12-03,Rectal Swab,,Enterobacter hormaechei,415,2018-11-20
+M99263,2019-09-09,Rectal Swab,,Escherichia coli,73,2019-08-10
+M98147,2019-07-30,Rectal Swab,,Enterococcus faecium,78,2019-07-04
+M04955,2020-03-09,Rectal Swab,,Enterococcus faecium,80,2020-03-06
+M810890,2018-11-22,Urine,,Enterobacter hormaechei,90,2018-11-05
+M912098,2019-12-09,Nasal Swab,,Staphylococcus aureus,78,2019-12-05
+M89283,2018-10-04,Rectal,,Enterobacter hormaechei,133,2018-10-04
+M96910,2019-06-23,Left Arm Swab,,Staphylococcus aureus,22,2019-06-21
+M910478,2019-10-23,Rectal Swab,,Enterococcus faecium,78,2019-10-22
+M99394,2019-09-17,Urine,,Escherichia coli,69,
+M99418,2019-09-16,Urine,,Escherichia coli,648,2019-09-17
+M97579,2019-07-15,Toe Wound Swab,,Staphylococcus aureus,1,2019-07-14
+M94408_R,2019-04-11,Rectal Swab,,N/A,N/A,2019-03-08
+M97758,2019-07-14,Urine,,Escherichia coli,131,2019-07-14
+M13796,2021-04-08,Environmental Swab,Room 6 Drains and Bathroom,Enterobacter hormaechei,269,
+M97945,2019-07-22,Rectal Swab,,Enterococcus faecium,78,2019-07-05
+M910262,2019-10-18,Abscess Swab,,Staphylococcus aureus,30,2019-10-17
+M99063,2019-09-03,Urine,,Escherichia coli,131,
+M86171_1,2018-06-23,Rectal swab,,N/A,N/A,
+M94412,2019-04-10,Nasal Swab,,Staphylococcus aureus,6,
+M93923,2019-03-30,Nasal Swab,,Staphylococcus aureus,5,2019-03-30
+M8827,2018-01-24,Rectal swab,,Escherichia coli,58,2018-01-21
+M05111,2020-04-29,Blood,,Pseudomonas aeruginosa,794,2020-04-02
+M99622,2019-09-25,Nasal Swab,,Staphylococcus aureus,93,2019-09-24
+M910036,2019-10-14,Rectal Swab,,Escherichia coli,131,2019-10-05
+M14314,2021-05-07,Rectal Swab,,Enterococcus faecium,1424,2021-05-01
+M88420,2018-09-10,Rectal swab,,Staphylococcus aureus,22,
+M00958,2020-01-20,Rectal Swab,,Escherichia coli,1722,2020-01-16
+M93116,2019-03-08,Toe Wound Swab,,Staphylococcus aureus,1617,
+M86925,2018-07-20,Rectal swab,,Klebsiella pneumoniae,307,2018-07-20
+M85343,2018-06-02,Wound / skin / soft tissue,,Staphylococcus aureus,93,2018-05-29
+M87653,2016-12-04,Other,,Klebsiella pneumoniae,678,
+M96475,2019-06-03,Perianal Swab,,Klebsiella quasipneumoniae,2604,2019-05-28
+M99255,2019-09-08,Nasal Swab,,Staphylococcus aureus,1,2019-09-07
+M911166,2019-11-13,Rectal Swab,,Staphylococcus aureus,8,
+M00970,2020-01-11,Rectum Swab,,Klebsiella quasipneumoniae,1528,2020-01-11
+M910660,2019-10-29,Urine,,Escherichia coli,131,
+M99411,2019-09-17,Nasal Swab,,Staphylococcus aureus,59,
+M98344,2019-08-05,Rectal Swab,,Enterococcus faecium,1421,2019-07-27
+M98877,2019-08-29,Swab,Room 4 Shower Floor Trap,Enterobacter bugandensis,599,
+M13355,2021-03-25,Perianal Swab,,Enterococcus faecium,555,2021-03-24
+M05997,2020-02-28,Blood,,Pseudomonas aeruginosa,N/A,2020-02-18
+M87132,2018-07-26,Environmental Swab,"""SWAB 4C (Bath1F1)""",Klebsiella oxytoca,88,2018-07-26
+M86379,2018-01-02,Urine,,Enterococcus faecium,NF,
+M93369,2019-03-14,Rectal Swab,,Enterococcus faecium,1421,2019-03-06
+M99390,2019-09-16,Rectal Swab,,Enterococcus faecium,262,2019-07-26
+M89494_R,2018-10-18,Perianal,,N/A,N/A,2018-10-18
+M01240,2020-01-21,Urine,,Staphylococcus aureus,5,
+M94960,2019-04-03,Rectal Swab,,Klebsiella pneumoniae,48,
+M1965,2021-01-04,Rectal Swab,,Enterococcus faecium,NF,2020-12-22
+M94962,2019-04-29,Perianal Swab,,Escherichia coli,141,2019-04-28
+M99406,2019-09-23,Blood,,Klebsiella pneumoniae,3194,
+M86167,2018-07-01,Rectal swab,,Staphylococcus aureus,1,2018-07-01
+M96917,2019-06-18,Perineum Swab,,Escherichia coli,648,2019-06-15
+M99826,2019-10-03,Rectal Swab,,Enterococcus faecium,78,2019-09-14
+M89067,2018-09-24,? Collection,,Escherichia coli,131,2018-09-24
+M01235,2020-01-15,Rectal Swab,,Enterococcus faecium,78,
+M09088,2020-11-20,Urine,,Escherichia coli,1284,
+M01239,2020-01-21,Urine,,Escherichia coli,1193,2020-01-21
+M05848,2020-05-30,Rectal Swab,,Escherichia coli,167,2020-05-30
+M98699,2019-08-18,Urine,,Escherichia coli,131,
+M00943,2020-01-08,Rectal Swab,,Enterococcus faecium,78,2020-01-03
+M07326,2020-08-26,Nephrostomy Urine,,Enterobacter hormaechei,133,2020-08-04
+M85991,2018-06-23,Wound / skin / soft tissue,,Staphylococcus aureus,93,2018-07-16
+M12162,2021-02-19,Ventilator Swab Internal,ICU Bed 17,Pseudomonas aeruginosa,3118,
+M04929_1,2020-02-09,Blood,,Klebsiella pneumoniae,348,
+M910656,2019-10-27,Urine,,Escherichia coli,131,2019-10-27
+M88212,2018-09-07,Urine,,Escherichia coli,131,2018-09-07
+M04920,2020-02-09,Blood,,Staphylococcus aureus,239,2020-02-04
+M910674,2019-10-30,Knee Tissue,,Enterococcus faecium,17,2019-10-09
+M98187,2019-07-22,Isolate,,Staphylococcus aureus,872,
+M911594,2019-11-26,Pus Swab,,Staphylococcus aureus,93,
+M95739,2019-05-15,Rectal Swab,,Klebsiella pneumoniae,20,2019-05-04
+M97759,2019-07-15,Urine,,Escherichia coli,38,2019-07-15
+M92821,2019-02-25,Rectal Swab,,Escherichia coli,6143,2019-02-18
+M00686,2020-01-06,Buttock Abscess Swab,,Staphylococcus aureus,93,2020-01-06
+M86653,2018-07-09,Urine,,Proteus mirabilis,-,
+M92502,2019-02-18,Rectal Swab,,Enterococcus faecium,555,2019-02-07
+M87350,2018-07-29,Rectal swab,,Escherichia coli,131,
+M810379,2018-11-17,Rectum Swab,,Enterobacter hormaechei,204,2018-11-17
+M88034,2018-08-24,Urine,,Escherichia coli,131,2018-08-24
+M05436,2020-05-23,Mediastinum Swab,,Klebsiella pneumoniae,2623,2020-05-07
+M96919_2,2019-06-19,Rectal Swab,,Klebsiella variicola,1947,2019-05-16
+M93099,2019-03-05,Urine,,Escherichia coli,131,2019-03-05
+M95773,2019-05-20,Rectal Swab,,Escherichia coli,131,2019-05-20
+M912103,2019-12-11,Rectal Swab,,Enterococcus faecium,78,2019-12-11
+M00059,2019-12-22,Rectal Swab,,Enterococcus faecium,1421,2019-12-16
+M89910,2018-11-01,Rectal Swab,,Enterococcus faecium,203,2018-10-19
+M04909,2020-03-04,Rectal Swab,,Klebsiella pneumoniae,17,2020-03-04
+M94201,2019-04-03,Nasal Swab,,Staphylococcus aureus,1,2019-04-02
+M83126,2018-03-28,Rectal swab,,Escherichia coli,141,2018-03-19
+M92511,2019-02-21,Leg Wound Swab,,Staphylococcus aureus,59,2019-01-31
+M95527,2019-05-06,Rectal Swab,,Enterococcus faecium,1424,2019-03-27
+M86172,2018-07-02,Respiratory,,Staphylococcus aureus,834,2018-06-18
+M92518_1,2019-02-24,Rectal Swab,,Escherichia coli,167,2019-02-22
+M84011,2018-04-05,Rectal swab,,Escherichia coli,141,2018-04-05
+M96260_2,2019-05-26,Urine,,Proteus mirabilis,-,
+M88410,2018-09-11,Rectal swab,,Staphylococcus aureus,78,
+M91528,2019-01-14,Rectal Swab,,Escherichia coli,648,2018-12-28
+M911143,2019-11-12,Rectal Swab,,Enterococcus faecium,80,2019-11-12
+M82626,2018-03-08,Other,"""Milk Room PAEDS""",Klebsiella michiganensis,-,
+M00085,2019-12-25,Urine,,Escherichia coli,131,
+M86353,2018-03-26,Urine,,Enterococcus faecium,78,2018-03-26
+M91864,2019-01-29,Perianal Swab,,Enterococcus faecium,1424,2019-01-28
+M14171_1,2021-04-29,Post Nasal Space Tissue,,Staphylococcus aureus,1649,2021-04-19
+M911376,2019-11-23,Rectal Swab,,Enterobacter hormaechei,62,2019-10-22
+M83127,2018-03-30,Rectal swab,,Escherichia coli,131,2018-03-27
+M912090,2019-12-09,Rectal Swab,,Escherichia coli,38,2019-11-30
+M8635,2018-01-12,Urine,,Enterobacter hormaechei,415,2017-11-13
+M94221,2019-03-21,Sputum Isolate,,Enterobacter hormaechei,742,
+M91506_1,2019-01-21,Rectal Swab,,Klebsiella pneumoniae,16,2019-01-21
+M910683,2019-10-26,Rectal Swab,,Citrobacter portucalensis,-,2019-10-25
+M86437,2018-07-06,Rectal swab,,Enterococcus faecium,78,2018-07-06
+M99402,2019-09-22,Rectal Swab,,Enterococcus faecium,78,2019-09-15
+M91532,2019-01-28,Peritoneal Fluid Swab,,Escherichia coli,131,2018-12-27
+M98885,2019-08-23,Rectal Swab,,Staphylococcus haemolyticus,25,2019-08-23
+M94928_R,2019-04-25,Rectal Swab,,N/A,N/A,2019-04-24
+M81644,2018-02-15,Rectal swab,,Escherichia coli,38,2018-02-13
+M910659,2019-10-23,Urine,,Citrobacter amalonaticus,-,2019-10-16
+M91518,2018-12-17,Urine,,Enterobacter cloacae,513,2018-10-16
+M01225_2,2019-02-03,Blood,,Enterococcus faecium,17,
+M09440,2020-12-14,Blood,,Escherichia coli,131,
+M12161,2021-02-24,Sink Swab,ICU Room11,Pseudomonas aeruginosa,155,
+M96237,2019-06-02,Perianal Swab,,Escherichia coli,131,2019-06-02
+M96919_1,2019-06-19,Rectal Swab,,Escherichia coli,607,2019-05-16
+M99242,2019-09-16,Rectal Swab,,Escherichia coli,349,
+M97930_1,2019-07-24,Abdominal Fluid,,Escherichia coli,457,2019-07-01
+M91529,2018-12-19,Perianal Swab,,Escherichia coli,38,
+M85139,2018-05-27,Rectal swab,,Escherichia coli,354,2018-05-27
+M01531,2019-12-30,Venous Blood,,Escherichia coli,131,
+M912112,2019-12-09,Cellulitis Swab,,Staphylococcus aureus,5,2019-12-09
+M91415,2019-01-11,Pharynx Tissue,,Enterococcus faecium,1424,2019-01-08
+M12159_2,2021-02-17,Endotracheal Aspirate,,Pseudomonas aeruginosa,381,2021-02-12
+M00963,2020-01-20,Urine,,Escherichia coli,38,
+M94406,2019-04-11,Nasal Swab,,Staphylococcus aureus,5,2019-04-11
+M911620,2019-11-25,Rectal Swab,,Enterococcus faecium,78,2019-11-12
+M97076,2019-06-24,Nasal Swab,,Staphylococcus aureus,97,2019-06-21
+M85774,2018-06-17,Respiratory,,Klebsiella pneumoniae,22,2018-06-05
+M13780,2021-04-12,Rectal Swab,,Enterococcus faecium,NF,2021-04-09
+M8634,2018-01-04,Urine,,Enterobacter hormaechei,415,2017-12-14
+M911618,2019-11-20,Environmental Swab,Room13.2 Swab Toilet Top,Enterococcus faecium,1283,
+M8440,2017-12-03,Wound / skin / soft tissue,,Klebsiella michiganensis,-,2017-12-03
+M12957,2021-03-17,Urine,,Enterobacter hormaechei,66,2021-03-15
+M88663_2,2018-09-24,Rectal swab,,Escherichia coli,131,
+M98875_2,2019-08-28,Upper Lip Swab,,Staphylococcus aureus,93,
+M16216,2021-07-24,Rectal Swab,,Enterococcus faecium,1424,2021-07-19
+M99620,2019-09-23,Rectal Swab,,Klebsiella pneumoniae,2060,2019-06-06
+M01224_2,2019-03-06,Blood,,Enterococcus faecium,992,2019-01-30
+M96697_2,2019-06-07,Eye Swab,,Corynebacterium striatum,-,
+M85339,2018-05-29,Blood,,Klebsiella oxytoca,NF,2018-03-11
+M89670,2018-10-21,"Abscess,Left Neck Tissue",,Staphylococcus aureus,Princess Alexandra Hospital
+M91531,2018-12-19,Perianal Swab,,Escherichia coli,10,2018-12-19
+M91509,2018-12-17,Rectal Swab,,Enterobacter hormaechei,133,2018-12-02
+M05994,2020-03-25,Blood,,Pseudomonas aeruginosa,N/A,2020-03-13
+M82654,2018-03-05,Urine,,Escherichia coli,10,2018-03-05
+M99634,2019-09-30,Rectal Swab,,Escherichia coli,141,2019-09-14
+M910030,2019-10-10,Rectal Swab,,Escherichia coli,NF,
+M85344,2018-03-29,Blood,,Staphylococcus aureus,5,2018-03-22
+M84018,2018-04-09,Wound / skin / soft tissue,,Enterobacter hormaechei,90,2018-03-01
+M94945_R,2019-04-19,Right Arm Burn Swab,,N/A,N/A,
+M84253_2,2018-04-23,Rectal swab,,Klebsiella pneumoniae,1303,2018-04-22
+M83132,2018-03-26,Wound / skin / soft tissue,,Staphylococcus aureus,93,2018-03-15
+M97558,2019-07-10,Rectal Swab,,Escherichia coli,NF,2019-07-08
+M83143,2018-03-26,Rectal swab,,Escherichia coli,106,2018-03-25
+M06617,2020-07-20,Endotracheal Aspirate,,Burkholderia insecticola,-,2020-07-17
+M97571,2019-07-09,Perianal Swab,,Escherichia coli,38,2019-07-09
+M13993,2021-04-16,Rectal Swab,,Enterococcus faecium,1424,2021-04-15
+M13345,2021-03-29,Perianal Swab,,Escherichia coli,131,2021-03-29
+M910667,2019-10-31,Perianal Swab,,Escherichia coli,131,2019-10-31
+M81099,2018-01-30,Rectal swab,,Escherichia coli,69,2017-08-21
+M97086,2019-06-20,Urine,,Klebsiella pneumoniae,258,
+M910934,2019-11-08,Urine,,Klebsiella pneumoniae,215,
+M91485,2018-12-17,Perianal Swab,,Escherichia coli,349,2018-11-20
+M910664,2019-11-01,Rectal Swab,,Escherichia coli,131,2019-11-01
+M8435R,2017-12-26,Rectal swab,,Citrobacter freundii,98,2017-12-26
+M91514,2019-01-08,Nasal Swab,,Staphylococcus aureus,1,2019-01-07
+M92190,2019-02-14,Rectal Swab,,Escherichia coli,617,2019-02-12
+M95138,2019-05-02,Face Swab,,Staphylococcus aureus,93,
+M98512,2019-08-12,Rectal Swab,,Acinetobacter nosocomialis,1066,2019-07-04
+M99618,2019-09-27,Rectal Swab,,Klebsiella pneumoniae,664,2019-09-24
+M97940,2019-07-27,Urine,,Escherichia coli,131,2019-07-27
+M99415,2019-09-17,Rectal Swab,,Klebsiella pneumoniae,999,
+M87888,2018-08-23,Rectal swab,,Staphylococcus aureus,NF,2018-08-23
+M05854,2020-06-08,Blood,,Escherichia coli,1193,
+M86374,2018-06-14,Rectal swab,,Enterococcus faecium,80,
+M84017_1,2018-04-17,Rectal swab,,Escherichia coli,156,2018-04-17
+M91414,2019-01-24,Rectal Swab,,Enterococcus faecium,78,2019-01-04
+M8439,2017-12-19,Urine,,Escherichia coli,131,2017-12-19
+M89499,2018-10-22,Perianal Swab,,Escherichia coli,131,2018-09-28
+M91869,2019-02-04,Perianal Swab,,Staphylococcus aureus,5,2019-01-28
+M06508,2020-07-19,Blood,,Escherichia coli,131,
+M911616,2019-12-02,Nasal Swab,,Staphylococcus aureus,97,2019-12-01
+M98700,2019-08-23,Nasal Swab,,Staphylococcus aureus,5,2019-08-22
+M79332,2017-11-12,Wound / skin / soft tissue,,Enterobacter hormaechei,151,2017-10-18
+M01523,2020-01-08,Blood,,Escherichia coli,131,
+M14173_2,2021-04-30,Rectal Swab,,Klebsiella pneumoniae,-,2021-04-30
+M13578,2021-04-08,Environmental Swab,Room 20 Toilet Drain,Klebsiella pneumoniae,13,
+M13350_1,2021-04-01,Urine,,Escherichia coli,457,2021-03-28
+M97083,2019-07-01,Nasal Swab,,Staphylococcus aureus,45,2019-06-24
+M94963,2019-04-30,Rectal Swab,,Escherichia coli,1193,2019-04-30
+M13992,2021-04-19,Rectal Swab,,Enterococcus faecium,1424,2021-04-12
+M96236,2019-06-02,Perianal Swab,,Escherichia coli,457,2019-06-01
+M98151,2019-07-31,Nasal Swab,,Staphylococcus aureus,5,2019-07-27
+M91875,2018-10-01,Sternal Wound,,Klebsiella oxytoca,NF,
+M06976,2020-08-11,Blood,,Escherichia coli,73,
+M12157,2020-12-31,Rectal Swab,,Enterococcus faecium,1424,2020-12-28
+M94956,2019-04-25,Rectal Swab,,Escherichia coli,38,2019-04-25
+M99619,2019-09-23,Rectal Swab,,Escherichia coli,648,2019-09-12
+M00944,2020-01-11,Rectum Swab,,Enterococcus faecium,1421,2020-01-11
+M810889,2018-11-20,Urine,,Escherichia coli,371,2018-11-20
+M99820,2019-10-04,Nasal Swab,,Staphylococcus aureus,93,2019-10-04
+M98873,2019-08-31,Urine,,Escherichia coli,648,
+M96926,2019-06-20,Perianal Swab,,Escherichia coli,131,2019-06-18
+M94413,2019-04-10,Nasal Swab,,Staphylococcus aureus,93,
+M86346,2017-12-14,Rectal swab,,Enterococcus faecium,80,
+M00381,2020-01-03,Nasal Swab,,Staphylococcus aureus,22,2019-12-31
+M09431,2020-12-07,Screening Swab,7C Room 14 Outside Bed Area,Enterobacter hormaechei,415,
+M86365,2018-05-19,Rectal swab,,Enterococcus faecium,17,
+M87654,2017-04-19,Urine,,Enterobacter asburiae,250,2018-07-27
+M88203,2018-09-02,Urine,,Escherichia coli,131,2018-09-02
+M06371,2020-07-03,Clean Catch Urine,,Enterobacter hormaechei,415,2020-06-24
+M910878,2019-11-04,Breast Wound Swab,,Klebsiella pneumoniae,348,2019-10-10
+M96923,2019-06-20,Rectal Swab,,Escherichia coli,450,2019-06-19
+M97561,2019-07-10,Blood,,Escherichia coli,131,2019-07-08
+M84000,2018-04-18,Wound / skin / soft tissue,,Staphylococcus aureus,6,2018-04-10
+M810144,2018-11-05,Mid stream Urine,,Escherichia coli,131,
+M88204,2018-09-03,Rectal swab,,Citrobacter freundii,185,
+M810148,2018-10-19,Blood,,Klebsiella pneumoniae,268,
+M96014,2019-05-18,Urine,,Citrobacter portucalensis,63,2019-05-12
+M910657,2019-10-26,Urine,,Escherichia coli,12,2019-10-23
+M910028,2019-10-10,Rectal Swab,,Escherichia coli,131,
+M810885,2018-11-28,Rectal Swab,,Enterococcus faecium,78,2018-11-28
+M88658,2018-09-19,Rectal swab,,Escherichia coli,6303,
+M06514,2020-07-14,Rectal Swab,,Enterobacter cloacae,513,2020-06-24
+M88202,2018-09-07,Respiratory,,Staphylococcus aureus,6,
+M98341,2019-08-05,Nasal Swab,,Staphylococcus aureus,1,
+M13988,2021-04-22,Rectum Swab,,Enterococcus faecium,1424,2021-04-16
+M912084,2019-12-09,Urine,,Escherichia coli,131,
+M99630,2019-09-28,Thigh Swab,,Staphylococcus aureus,30,2019-09-27
+M00082,2019-12-17,Rectal Swab,,Escherichia coli,770,
+M912111,2019-12-10,Breast Wound Swab,,Staphylococcus aureus,838,
+M84896,2018-05-15,Rectal swab,,Escherichia coli,73,2018-05-15
+M8432,2017-10-10,Rectal swab,,Klebsiella michiganensis,-,2017-10-05
+M98338,2019-08-09,Nasal Swab,,Staphylococcus aureus,1,2019-08-08
+M811191,2018-12-05,Nasal Swab,,Staphylococcus aureus,5,2018-12-04
+M06373_2,2020-06-29,Blood,,Pseudomonas aeruginosa,244,2020-06-29
+M85788,2018-06-18,Rectal swab,,Escherichia coli,131,2018-06-18
+M94940,2019-04-26,Buttock Abscess Swab,,Staphylococcus aureus,93,2019-04-26
+M93373,2019-03-12,Urine,,Enterococcus faecium,1421,2019-03-10
+M93097,2019-03-04,Rectal Swab,,Enterococcus faecium,555,2019-03-03
+M14311_1,2021-05-03,Rectal Swab,,Enterococcus faecium,1424,2021-05-03
+M99636,2019-09-23,Foot Tissue,,Staphylococcus aureus,93,2019-09-23
+M14306,2021-05-05,Rectal Swab,,Escherichia coli,69,
+M1960,2021-01-12,Rectal Swab,,Escherichia coli,2659,2021-01-05
+M88417,2018-09-16,Rectal swab,,Escherichia coli,648,2018-09-16
+M01229_2,2019-07-10,Blood,,Enterococcus faecium,1424,2019-07-04
+M00058,2019-12-19,Nasopharynx Swab,,Staphylococcus aureus,1930,2019-12-17
+M91858,2019-02-06,Perineum Swab,,Escherichia coli,1193,2019-02-06
+M911601,2019-12-01,Rectal Swab,,Escherichia coli,642,2019-11-30
+M13792,2021-04-13,Rectal Swab,,Enterococcus faecium,NF,2021-03-23
+M97084,2019-07-01,Left Olecranon Bursa Tissue,,Staphylococcus aureus,93,2019-07-01
+M88209,2018-09-07,Rectal swab,,Escherichia coli,131,2018-09-07
+M96916,2019-06-17,Drain Swab,"Bathroom Drain Room 9-10, Ward 6 West",Enterobacter hormaechei,Redcliffe Hospital
+M95131,2019-04-29,Nasal Swab,,Staphylococcus aureus,5,2019-04-28
+M85338,2018-05-29,Rectal swab,,Escherichia coli,1193,2018-05-22
+M86434_2,2018-07-09,Rectal swab,,Escherichia coli,NF,2018-07-09
+M98865,2019-08-27,Perianal Swab,,Escherichia coli,131,2019-08-26
+M89915,2018-10-29,Rectal Swab,,Enterococcus faecium,17,2018-10-03
+M12152,2021-02-16,Endotracheal Aspirate,,Pseudomonas aeruginosa,257,2021-02-13
+M00079,2019-12-15,Rectal Swab,,Klebsiella pneumoniae,13,2019-12-13
+M910267,2019-10-13,Nasal Swab,,Staphylococcus aureus,93,2019-10-13
+M93379,2019-03-12,Perianal Swab,,Staphylococcus aureus,834,2019-03-12
+M91416,2019-01-14,Perianal Swab,,Enterococcus faecium,1424,2019-01-08
+M05715,2020-06-09,Blood,,Staphylococcus aureus,78,2020-06-05
+M87334,2018-07-22,Wound / skin / soft tissue,,Acinetobacter baumannii,1490,
+M00070,2019-12-24,Urine,,Escherichia coli,131,2019-09-07
+M93374,2019-03-17,Blood,,Escherichia coli,131,2019-02-20
+M82251R,2018-02-28,Rectal swab,,N/A,N/A,2018-02-26
+M96258,2019-05-23,Perianal Swab,,Escherichia coli,131,2019-05-23
+M00091,2019-12-19,Nasal Swab,,Staphylococcus aureus,22,2019-12-19
+M99248,2019-09-11,Rectal Swab,,Enterobacter hormaechei,415,2019-08-03
+M8835,2018-01-23,Rectal swab,,Escherichia coli,10,2017-10-03
+M94217,2019-04-08,Rectal Swab,,Escherichia coli,69,2019-04-05
+M911164,2019-11-13,Cheek Swab,,Staphylococcus aureus,NF,
+M91879,2019-02-11,Endotracheal Aspirate,,Staphylococcus aureus,188,2019-02-06
+M86444,2018-07-09,Blood,,Klebsiella pneumoniae,86,
+M91484_1,2018-12-31,Rectal Swab,,Citrobacter rodentium,-,2018-12-28
+M13359,2021-03-31,Rectal Swab,,Enterococcus faecium,17,2021-03-31
+M16340,2021-07-09,Blood,,Staphylococcus aureus,109,
+M82756,2018-03-16,Urine,,Klebsiella pneumoniae,1308,2018-03-09
+M01237,2019-02-01,Blood,,Enterococcus faecium,17,2019-01-27
+M04918,2020-04-19,Blood,,Escherichia coli,131,
+M910012,2019-10-04,Rectal Swab,,Morganella morganii,-,2019-10-04
+M88426,2018-09-10,Rectal swab,,Escherichia coli,155,
+M79657,2017-12-04,Rectal swab,,Escherichia coli,131,2017-11-22
+M06511,2020-07-15,Blood,,Escherichia coli,1193,2020-07-04
+M93382,2019-03-13,Nasal Swab,,Staphylococcus aureus,22,2019-03-13
+M910874,2019-11-05,Rectal Swab,,Klebsiella pneumoniae,37,2019-11-03
+M84278,2018-04-25,Urine,,Citrobacter freundii,125,2018-04-24
+M91492,2019-01-13,Forehead Wound Swab,,Staphylococcus aureus,5,2019-01-13
+M06000,2019-08-24,Venous Blood,,Pseudomonas aeruginosa,N/A,2019-08-18
+M13339,2021-03-22,No Site specified Swab,,Klebsiella pneumoniae,13,2021-02-22
+M810881,2018-11-26,Stoma Swab,,Enterococcus faecium,17,2018-11-26
+M00962,2020-01-16,Urine,,Escherichia coli,1722,2020-01-16
+M95772,2019-05-20,Rectal Swab,,Escherichia coli,131,2019-05-15
+M91493,2019-01-15,Nasal Swab,,Staphylococcus aureus,22,2019-01-14
+M92817,2019-03-01,Rectal Swab,,Escherichia coli,38,2019-03-01
+M93661,2019-03-25,Rectal Swab,,Klebsiella pneumoniae,45,2019-03-21
+M87330,2018-08-02,Blood,,Escherichia coli,131,2018-08-02
+M8631,2018-01-18,Rectal swab,,Escherichia coli,131,2018-01-17
+M05991,2019-06-12,Room 11 Drain,Surveillance Swab,Enterobacter hormaechei,90,
+M16209,2021-07-31,Blood,,Enterococcus faecium,1424,2021-07-15
+M00078,2019-12-28,Elbow Wound Swab,,Staphylococcus aureus,59,2019-12-26
+M96924,2019-06-22,Urine,,Escherichia coli,73,2019-06-22
+M00673,2020-01-09,Rectal Swab,,Escherichia coli,9586,2020-01-08
+M910025,2019-10-09,Leg Swab,,Staphylococcus aureus,834,2019-10-09
+M07824,2020-09-21,Rectal Swab,,Enterococcus faecium,78,2020-09-05
+M06513,2020-07-03,Urine,,Klebsiella oxytoca,NF,
+M910658,2019-10-28,Urine,,Klebsiella pneumoniae,133,2019-10-28
+M97091,2019-06-28,Perianal Swab,,Escherichia coli,1193,2019-06-17
+M85993,2018-06-25,Wound Swab,,Staphylococcus aureus,15,2018-06-11
+M01614,2020-01-30,Nasal Swab,,Staphylococcus aureus,6,2020-01-29
+M00380,2020-01-03,Nasal Swab,,Staphylococcus aureus,5,2020-01-02
+M93656,2019-03-26,Rectal Swab,,Escherichia coli,405,2019-03-16
+M89055,2018-10-05,Wound Swab,,Staphylococcus aureus,97,2018-10-05
+M06247,2020-07-06,Rectal Swab,,Klebsiella pneumoniae,13,2020-06-15
+M86375,2018-06-11,Rectal swab,,Enterococcus faecium,1421,2018-06-09
+M06372_1,2020-07-06,Metatarsal Bone,,Enterobacter hormaechei,415,2020-06-04
+M91516,2019-01-11,Right Leg Graft Swab,,Staphylococcus aureus,22,2019-01-11
+M84020,2018-04-14,Rectal swab,,Escherichia coli,6770,2018-04-14
+M91872,2019-02-07,Perineum Swab,,Escherichia coli,205,2019-02-07
+M911619,2019-11-27,Rectal Swab,,Enterococcus faecium,78,2019-11-17
+M86356,2018-03-28,Wound / skin / soft tissue,,Enterococcus faecium,17,2018-03-22
+M96019,2019-04-17,Blood,,Staphylococcus aureus,953,2019-04-16
+M99071,2019-09-09,Perianal Swab,,Escherichia coli,410,2019-08-21
+M86434_1,2018-07-09,Rectal swab,,Klebsiella pneumoniae,45,2018-07-09
+M98870,2019-08-28,Fluid,,Acinetobacter baumannii,1377,2019-07-26
+M94936,2019-04-23,Nasal Swab,,Staphylococcus aureus,1,2019-04-20
+M89284,2018-10-02,Perianal,,Klebsiella pneumoniae,54,2018-06-27
+M96250,2019-03-08,Disc Tissue,,Burkholderia cenocepacia,1626,
+M85994,2018-06-25,Respiratory,,Staphylococcus aureus,1,
+M12433,2021-03-01,Environmental Swab,7A Room 2-5 Shower Only,Enterobacter cloacae,513,
+M99824,2019-10-04,Rectal Swab,,Enterococcus faecium,78,2019-10-04
+M92834,2019-02-26,Nasal Swab,,Staphylococcus aureus,97,2019-02-26
+M98524,2019-08-11,Nasal Swab,,Staphylococcus aureus,188,2019-08-06
+M00677,2020-01-13,Rectal Swab,,Escherichia coli,38,2020-01-12
+M911141,2019-11-12,Environmental Swab,Room 52 Toilet,Enterococcus faecium,800,
+M16070,2021-07-23,Rectal Swab,,Escherichia coli,457,2021-07-23
+M13570,2021-04-09,Rectal Swab,,Klebsiella pneumoniae,1521,2021-04-08
+M92828,2019-03-03,Perianal Swab,,Escherichia coli,141,2019-02-18
+M97943_2,2019-07-19,Rectal Swab,,Enterococcus faecium,1421,2019-06-12
+M91848,2019-02-04,Rectal Swab,,Escherichia coli,349,2019-02-04
+M1231,2020-12-17,Environmental Swab,5F Room 27,Enterobacter hormaechei,831,
+M12436,2021-03-05,Rectal Swab,,Enterobacter hormaechei,830,2021-03-04
+M05998,2020-01-27,Blood,,Pseudomonas aeruginosa,N/A,2020-01-27
+M91515,2018-12-20,Nasal Swab,,Staphylococcus aureus,5,
+M98890,2019-08-28,Urine,,Escherichia coli,405,2019-08-27
+M911363,2019-11-18,Rectal Swab,,Enterococcus faecium,1424,2019-10-23
+M91508,2019-01-28,Rectal Swab,,Klebsiella pneumoniae,1805,2019-01-03
+M15798,2021-07-06,Rectum Swab,,Enterococcus faecium,1424,2021-06-12
+M12955_2,2021-03-15,Rectal Swab,,Enterobacter hormaechei,113,2021-03-15
+M86329,2018-01-19,Rectal swab,,Enterococcus faecium,1422,2018-01-19
+M13361,2021-04-01,Rectal Swab,,Enterococcus faecium,1424,2020-07-23
+M97928,2019-07-21,Urine,,Escherichia coli,131,2019-07-19
+M94946,2019-04-22,Nasal Swab,,Staphylococcus aureus,5,2019-04-21
+M92818,2019-02-25,Rectal Swab,,Klebsiella pneumoniae,1787,2019-02-25
+M84466,2018-05-02,Rectal swab,,Escherichia coli,10,
+M96899_2,2019-06-16,Rectal Swab,,Enterococcus faecalis,28,2019-06-16
+M79656,2017-12-04,Rectal swab,,Escherichia coli,648,2017-11-25
+M86651,2018-07-10,Rectal swab,,Staphylococcus aureus,45,2018-07-06
+M99638_2,2019-09-25,Abdomen Tissue,,Escherichia coli,131,2019-09-19
+M01530,2019-05-14,Blood,,Escherichia coli,131,
+M00370,2020-01-03,Urine,,Escherichia coli,131,
+M81643,2018-02-15,Rectal swab,,Escherichia coli,1193,2018-02-15
+M97298,2019-07-02,Rectal Swab,,Enterococcus faecium,761,2019-07-02
+M93657,2019-03-26,Rectal Swab,,Klebsiella pneumoniae,15,2019-03-25
+M01603,2020-01-24,Rectal Swab,,Enterococcus faecium,78,2020-01-24
+M15795,2021-06-28,Rectal Swab,,Enterococcus faecium,1424,2021-06-16
+M99062,2019-08-29,Rectal Swab,,Klebsiella pneumoniae,881,
+M911859,2019-12-01,Urine,,Escherichia coli,349,2019-12-01
+M81378,2018-02-11,Rectal swab,,Klebsiella michiganensis,-,2018-01-30
+M910037,2019-10-13,Rectal Swab,,Klebsiella pneumoniae,348,2019-10-04
+M96918,2019-06-19,Rectal Swab,,Escherichia coli,1193,2019-06-18
+M86919,2018-07-20,Urine,,Escherichia coli,457,2018-06-05
+M1235,2020-12-18,Blood,,Escherichia coli,543,2020-12-15
+M99261,2019-09-13,Urine,,Escherichia coli,38,
+M00063,2019-12-12,Nasal Swab,,Staphylococcus aureus,22,2019-12-10
+M01219_3,2019-12-12,Blood,,Enterococcus faecium,80,2019-12-03
+M06003,2020-06-13,Trachea Swab,,Enterococcus faecium,N/A,2020-05-09
+M97578,2019-07-12,Nasal Swab,,Staphylococcus aureus,78,2019-07-12
+M98347,2019-08-07,Stoma Swab,,Klebsiella pneumoniae,36,2019-08-06
+M99254,2019-09-16,Nasal Swab,,Staphylococcus aureus,93,
+M95758,2019-05-14,Peritoneal Dialysis Fluid,,Empedobacter brevis,-,
+M12158,2021-01-31,Rectal Swab,,Enterococcus faecium,1424,2021-01-07
+M04954,2020-03-17,Blood,,Escherichia coli,1193,2020-03-05
+M89671,2018-10-25,Nasal Swab,,Staphylococcus aureus,508,2018-10-25
+M87651,2016-11-14,Wound / skin / soft tissue,,Raoultella ornithinolytica,-,
+M97929,2019-07-22,Rectal Swab,,Klebsiella pneumoniae,1697,2019-07-10
+M13997,2021-04-25,Rectal Swab,,Enterococcus faecium,1424,2021-04-14
+M911161,2019-11-17,Rectal Swab,,Klebsiella pneumoniae,14,2019-10-16
+M81385,2018-02-02,Urine,,Enterobacter hormaechei,175,2018-02-02
+M84679,2018-05-10,Rectal swab,,Escherichia coli,131,2018-05-10
+M86333,2018-01-30,Rectal swab,,Enterococcus faecium,1421,
+M810155,2018-11-07,Rectal Swab,,Enterococcus faecium,80,2018-11-07
+M83144,2015-06-24,Urine,,Enterobacter hormaechei,90,2018-03-14
+M95141,2019-04-30,Rectal Swab,,Escherichia coli,1193,2019-04-30
+M82245,2018-02-26,Rectal swab,,Escherichia coli,131,2018-02-26
+M810156_R,2018-11-04,Rectal Swab,,N/A,N/A,2018-11-04
+M14312,2021-05-07,Rectal Swab,,Enterococcus faecium,17,2021-05-07
+M04916,2020-04-16,Perianal Swab,,Klebsiella pneumoniae,17,2020-04-16
+M89503,2018-10-08,Perianal Swab,,Klebsiella aerogenes,-,2018-09-28
+M04935,2020-03-23,Rectal Swab,,Enterococcus faecium,78,2020-03-02
+M97938,2019-07-24,Stoma Swab,,Escherichia coli,38,2019-07-24
+M13352,2021-03-15,Rectal Swab,,Enterococcus faecium,1424,2021-03-06
+M92196,2019-02-14,Hip Swab,,Staphylococcus aureus,93,
+M13356,2021-03-29,Faeces,,Enterococcus faecium,1424,
+M912085,2019-12-16,Perianal Swab,,Escherichia coli,457,2019-12-05
+M911860,2019-11-30,Urine,,Escherichia coli,69,
+M98146,2019-07-26,Humerus Tissue,,Enterococcus faecium,78,2019-07-10
+M95539,2019-05-12,Urine,,Escherichia coli,1193,2019-05-12
+M911840,2019-12-06,Rectal Swab,,Klebsiella pneumoniae,133,2019-12-06
+M79334,2017-11-15,Rectal swab,,Klebsiella pneumoniae,26,2017-11-15
+M91507_R,2019-01-27,Urine,,Enterobacter cloacae,513,2019-01-27
+M86378,2018-06-18,Urine,,Enterococcus faecium,1424,
+M16071,2021-07-21,Isolate,,Enterococcus faecium,78,
+M84004,2018-04-16,Rectal swab,,Escherichia coli,38,2018-04-07
+M13990,2021-04-12,Urine,,Klebsiella oxytoca,179,
+M83134_2,2018-03-09,Urine,,Enterobacter bugandensis,599,2018-02-07
+M06246,2020-06-15,Rectal Swab,,Klebsiella pneumoniae,15,2020-05-31
+M07585,2020-09-15,Urine,,Escherichia coli,N/A,
+M01514,2019-11-21,Blood,,Escherichia coli,131,2019-11-11
+M98155,2019-07-29,Urine,,Escherichia coli,73,2019-07-29
+M15789,2021-06-10,Rectal Swab,,Enterococcus faecium,1424,2021-06-09
+M92507,2019-02-20,Rectal Swab,,Klebsiella pneumoniae,336,2019-02-19
+M810375,2018-11-16,Rectal Swab,,Enterococcus faecium,203,2018-11-11
+M05999,2019-10-10,Blood,,Pseudomonas aeruginosa,N/A,
+M81383,2018-02-12,Rectal swab,,Escherichia coli,349,2018-02-09
+M01245,2020-01-24,Rectal Swab,,Klebsiella pneumoniae,1017,2020-01-24
+M95529,2019-05-09,Nasal Swab,,Staphylococcus aureus,5,2019-05-08
+M88415,2018-09-14,Blood,,Escherichia coli,428,2018-09-13
+M01217,2019-10-03,Blood,,Enterococcus faecium,80,
+M95145,2019-04-29,Perianal Swab,,Escherichia coli,69,2019-04-28
+M93928,2019-03-26,Rectal Swab,,Enterococcus faecium,1424,2019-03-26
+M05847,2020-05-10,Rectal Swab,,Enterococcus faecium,78,2020-05-09
+M00964,2020-01-19,Rectal Swab,,Escherichia coli,394,2020-01-09
+M99635,2019-09-23,Epidural Tissue,,Staphylococcus aureus,93,2019-09-23
+M04938,2020-02-20,Knee Fluid,,Staphylococcus aureus,1,2020-02-12
+M83147,2018-03-26,Rectal swab,,Klebsiella pneumoniae,NF,2018-03-26
+M910872,2019-11-02,Ascitic Fluid,,Enterobacter hormaechei,135,
+M95757,2019-05-16,Blood,,Escherichia coli,131,2019-04-08
+M81386,2018-02-05,Urine,,Escherichia coli,131,
+M05849,2020-06-05,Rectal Swab,,Enterococcus faecium,1424,2020-06-05
+M92192,2019-02-10,Nasal Swab,,Staphylococcus aureus,5,2019-02-10
+M911158,2019-11-14,Rectal Swab,,Escherichia coli,131,2019-11-14
+M99391,2019-09-20,Rectal Swab,,Enterococcus faecium,17,2019-09-19
+M05990,2019-06-12,Room 8 Drain,Surveillance Swab,Enterobacter hormaechei,66,
+M05856,2020-06-15,Blood,,Escherichia coli,131,2020-06-15
+M910504,2019-10-28,Rectal Swab,,Klebsiella pneumoniae,1454,2019-10-25
+M86920,2018-07-17,Perianal swab,,Klebsiella pneumoniae,54,
+M81381,2018-02-06,Rectal swab,,Escherichia coli,38,2018-02-04
+M84683,2018-05-13,Wound / skin / soft tissue,,Staphylococcus aureus,97,2018-05-03
+M00674,2020-01-09,Perianal Swab,,Escherichia coli,1193,2020-01-09
+M86429,2018-07-07,Blood,,Klebsiella oxytoca,NF,
+M98861,2019-08-20,Rectal Swab,,Enterobacter hormaechei,NF,2019-08-19
+M92193,2019-02-09,Skin Swab,,Staphylococcus aureus,93,
+M98186,2019-07-21,Isolate,,Staphylococcus aureus,5,
+M94937,2019-04-25,Axillary Abscess Swab,,Staphylococcus aureus,93,2019-04-25
+M911621,2019-11-29,Rectal Swab,,Klebsiella pneumoniae,1865,2019-11-30
+M85136,2018-05-24,Rectal swab,,Klebsiella pneumoniae,3113,2018-05-24
+M8849,2018-01-23,Other,"""Baby bath drain""",Escherichia coli,131,
+M99837,2019-09-30,Nasal Swab,,Staphylococcus aureus,239,2019-09-26
+M86380,2018-01-08,Urine,,Enterococcus faecium,80,
+M06252,2020-07-03,Blood,,Escherichia coli,131,
+M99056,2019-09-05,Rectum Swab,,Enterococcus faecium,203,2019-09-04
+M95744,2019-03-26,Blood,,Escherichia coli,349,2019-03-26
+M98185,2019-06-30,Isolate,,Staphylococcus aureus,5,
+M912086,2019-12-07,Nasal Swab,,Staphylococcus aureus,93,2019-12-01
+M86438,2018-06-29,Rectal swab,,Enterococcus faecium,1421,2018-06-29
+M16217,2021-07-25,Rectal Swab,,Enterococcus faecium,1424,2021-07-01
+M01218,2019-11-20,Blood,,Enterococcus faecium,17,2019-11-10
+M84473,2018-05-05,Rectal swab,,Escherichia coli,131,2018-05-03
+M83998,2018-03-29,Blood,,Staphylococcus aureus,5,2018-03-22
+M00670,2020-01-07,Rectal Swab,,Escherichia coli,131,2020-01-01
+M910489,2019-10-21,Abscess Swab,,Staphylococcus aureus,1232,2019-10-21
+M04950,2020-02-15,Abscess Fluid,,Staphylococcus aureus,93,2020-02-13
+M86649,2018-07-13,Respiratory,,Staphylococcus aureus,30,2018-07-13
+M94222_2,2019-03-25,Groin Isolate,,Klebsiella pneumoniae,873,
+M85547,2018-06-11,Rectal swab,,Escherichia coli,1193,2018-06-06
+M91507,2019-01-27,Urine,,Escherichia coli,513,2019-01-27
+M88005,2018-08-27,Blood,,Staphylococcus aureus,239,2018-08-27
+M00087,2019-12-14,Rectal Swab,,Klebsiella pneumoniae,39,2019-12-14
+M1229,2020-12-14,Environmental Swab,7D Room 6 Toilet,Enterobacter hormaechei,90,
+M910008,2019-10-11,Faeces,,Escherichia coli,69,
+M99637,2019-09-24,Perianal Skin Tissue,,Klebsiella pneumoniae,1412,2019-09-10
+M13996,2021-04-16,Rectal Swab,,Enterococcus faecium,1424,2021-03-29
+M93103,2019-03-04,Perianal Swab,,Escherichia coli,1193,2019-02-26
+M99389,2019-09-23,Perianal Swab,,Escherichia coli,131,2019-09-07
+M98518_1,2019-08-13,Shin Tissue,,Escherichia coli,131,2019-08-10
+M15796,2021-06-28,Rectal Swab,,Enterococcus faecium,78,2021-06-17
+M87881,2018-08-24,Rectal swab,,Enterococcus faecium,NF,2018-08-24
+M810631,2018-11-24,Nasal Swab,,Staphylococcus aureus,1,2018-11-23
+M8847,2018-01-21,Other,,Escherichia coli,1193,2018-01-20
+M99070,2019-09-07,Perianal Swab,,Escherichia coli,1193,2019-08-29
+M84244,2018-04-20,Rectal swab,,Escherichia coli,131,2018-04-20
+M89667,2018-10-25,Perianal Swab,,Escherichia coli,14,2018-10-24
+M91490,2019-01-14,Thigh Swab,,Staphylococcus aureus,93,2019-01-14
+M811156,2018-12-05,Nasal Swab,,Staphylococcus aureus,1,2018-12-02
+M8844,2018-01-22,Rectal swab,,Escherichia coli,131,2018-01-10
+M88407_2,2018-09-11,Rectal swab,,Staphylococcus aureus,78,
+M910480_2,2019-10-24,Humerus Tissue,,Enterococcus faecium,78,2019-10-23
+M911365,2019-11-11,Rectal Swab,,Enterobacter hormaechei,62,2019-11-03
+M911850,2019-12-02,Nasal Swab,,Staphylococcus argenteus,2250,2019-12-02
+M01243,2020-01-24,Rectal Swab,,Klebsiella pneumoniae,753,2020-01-23
+M05995,2020-03-05,Blood,,Pseudomonas aeruginosa,N/A,2020-02-23
+M810146,2018-11-09,Urine,,Escherichia coli,131,
+M911371,2019-11-23,Catheter Urine,,Escherichia coli,38,
+M83123,2018-03-28,Rectal swab,,Escherichia coli,131,2018-03-27
+M88206,2018-09-10,Rectal swab,,Escherichia coli,7901,2018-09-14
+M97305,2019-07-05,Rectal Swab,,Klebsiella pneumoniae,1307,2019-07-05
+M95752,2019-05-13,Foot Tissue,,Corynebacterium striatum,-,
+M94203_1,2019-04-01,Endotracheal Aspirate,,Klebsiella pneumoniae,70,2019-03-27
+M911366,2019-11-25,Rectal Swab,,Klebsiella pneumoniae,711,2019-11-06
+M810629,2018-11-18,Nasal Swab,,Staphylococcus aureus,6,2018-11-15
+M87895,2018-08-24,Rectal swab,,Escherichia coli,155,
+M92841,2019-03-02,Thigh Swab,,Staphylococcus aureus,93,2019-02-27
+M13783,2021-04-10,Rectal Swab,,Enterococcus faecium,612,2021-04-10
+M06366,2020-07-08,Urine,,Enterobacter hormaechei,415,2020-07-08
+M09092,2020-11-20,Urine,,Enterobacter hormaechei,90,
+M96246,2019-06-03,Perianal Swab,,Staphylococcus aureus,72,2019-04-25
+M98864,2019-08-29,Rectal Swab,,Escherichia coli,70,2019-08-29
+M01511,2019-07-16,Blood,,Escherichia coli,131,2019-06-21
+M00971,2020-01-13,Rectal Swab,,Escherichia coli,648,2019-12-28
+M08258,2020-10-24,Rectal Swab,,Klebsiella pneumoniae,983,2020-10-24
+M00689,2019-12-30,Rectal Swab,,Enterobacter hormaechei,415,2019-10-18
+M83125,2018-03-28,Rectal swab,,Klebsiella pneumoniae,17,2018-03-28
+M81641,2018-02-13,Rectal swab,,Escherichia coli,963,2018-02-01
+M00086_2,2019-12-12,Hip Tissue,,Klebsiella pneumoniae,13,2019-12-09
+M12434_2,2021-02-28,Blood,,Pseudomonas aeruginosa,395,2021-02-05
+M1961,2021-01-08,Rectal Swab,,Enterobacter hormaechei,66,2020-12-09
+M98872,2019-08-30,Perianal Swab,,Escherichia coli,131,2019-08-28
+M8831,2018-01-29,Rectal swab,,Escherichia coli,131,2017-08-09
+M89285,2018-10-07,Perianal,,Escherichia coli,131,2018-10-07
+M14302_2,2021-05-04,Perianal Swab,,Escherichia coli,1193,2021-04-07
+M86430,2018-07-04,Rectal swab,,Escherichia coli,131,
+M912101,2019-12-09,Abdomen Fluid,,Enterococcus faecium,17,2019-10-18
+M95541,2019-05-14,Peritoneal Dial. Fluid,,Acinetobacter baumannii,234,2019-05-14
+M09432,2020-12-08,Screening Swab,7D Room 2 Toilet,Enterobacter hormaechei,415,
+M07098,2020-08-22,Blood,,Enterococcus faecium,N/A,
+M910479,2019-10-23,Rectal Swab,,Enterococcus faecium,78,2019-10-05
+M910500,2019-10-21,Rectal Swab,,Klebsiella pneumoniae,515,2019-09-24
+M95740_1,2019-05-18,Abdomen Fluid,,Escherichia coli,69,2019-05-05
+M86334,2018-01-29,Rectal swab,,Enterococcus faecium,1424,
+M911612,2019-12-01,Nasal Swab,,Staphylococcus aureus,1649,2019-12-01
+M87134,2018-07-26,Environmental Swab,"""SWAB 4C (Bath2 Floor Trap)""",Enterobacter hormaechei,415,2018-07-26
+M04944,2020-01-29,Foot Ulcer Swab,,Enterobacter hormaechei,68,2020-01-28
+M911862_2,2019-12-02,Rectal Swab,,Escherichia coli,95,2019-11-08
+M89920,2018-10-31,Urine,,Escherichia coli,131,2018-10-30
+M86445,2018-07-05,Blood,,Klebsiella pneumoniae,86,
+M84005,2018-04-17,Rectal swab,,Escherichia coli,131,2018-04-16
+M91527,2018-12-23,Left Metatarsal Bone Tissue,,Enterobacter bugandensis,599,2018-12-21
+M86159,2018-06-30,Rectal swab,,Enterococcus faecium,78,2018-06-29
+M89912,2018-10-29,Nasal Swab,,Staphylococcus aureus,22,2018-10-29
+M09259,2020-12-01,Rectal Swab,,Escherichia coli,131,2020-11-18
+M12153,2021-02-23,Rectal Swab,,Escherichia coli,1882,2021-02-23
+M911364,2019-11-21,Foot Tissue,,Enterococcus faecium,78,2019-10-21
+M91425,2019-01-15,Rectal Swab,,Enterococcus faecium,80,2019-01-15
+M96473,2019-05-30,Urine,,Enterobacter hormaechei,90,2019-04-08
+M00952,2020-01-20,Ankle Abscess Swab,,Staphylococcus aureus,30,
+M88211,2018-09-03,Blood,,Escherichia coli,131,2018-09-04
+M97556,2019-07-15,Perianal Swab,,Escherichia coli,131,2019-07-14
+M09436,2020-12-10,Perianal Swab,,Escherichia coli,69,2020-12-10
+M96247,2019-06-03,Nasal Swab,,Staphylococcus aureus,72,2019-04-25
+M910496,2019-10-27,Nasal Swab,,Staphylococcus aureus,45,2019-10-27
+M91484_2,2018-12-31,Rectal Swab,,Klebsiella pneumoniae,147,2018-12-28
+M08911,2020-09-29,Rectal Swab,,Enterococcus faecium,1424,2020-10-07
+M99413,2019-09-18,Blood,,Staphylococcus aureus,5,
+M87652,2016-05-06,Urine,,Escherichia coli,399,
+M910051,2019-09-10,Blood,,Enterococcus faecium,17,2019-08-14
+M04914,2020-02-23,Peritoneal Dialysis Fluid,,Staphylococcus aureus,1,2020-02-23
+M99396,2019-09-18,Rectal Swab,,Escherichia coli,69,
+M98887,2019-08-28,Blood,,Escherichia coli,73,2019-08-28
+M85780,2018-06-18,Rectal swab,,Acinetobacter baumannii,1050,2018-04-15
+M98342,2019-08-05,Nasal Swab,,Staphylococcus aureus,22,2019-07-27
+M910876_1,2019-11-06,Biliary Drain Fluid,,Enterococcus faecium,1424,2019-11-01
+M85134_2,2018-05-22,Rectal swab,,Escherichia coli,131,2018-05-21
+M88416,2018-09-17,Rectal swab,,Escherichia coli,1314,2018-09-11
+M11451,2021-02-06,Blood,,Escherichia coli,131,2021-02-06
+M910271,2019-10-20,Abscess Swab,,Staphylococcus aureus,59,2019-10-19
+M95746,2019-05-20,Nasal Swab,,Staphylococcus aureus,93,2019-05-17
+M96909,2019-06-22,Endotracheal Aspirate,,Staphylococcus aureus,45,2019-06-10
+M94932,2019-04-11,Rectal Swab,,Enterococcus faecium,1424,2019-04-11
+M87893,2018-08-23,Rectal swab,,Escherichia coli,131,2018-08-23
+M95762,2019-05-06,Thigh Tissue,,Corynebacterium striatum,-,
+M81091,2018-01-31,Other,"""Dishwashing Liquid Volunteer Flower Service""",Klebsiella michiganensis,-,
+M97740,2019-07-16,Rectal Swab,,Escherichia coli,73,2019-07-16
+M04945,2020-04-08,Rectal Swab,,Escherichia coli,69,
+M94200,2019-04-01,Perianal Swab,,Staphylococcus aureus,93,2019-02-24
+M15946,2021-07-22,Rectal Swab,,Enterococcus faecium,1424,2021-07-20
+M00061_1,2019-12-13,Abdominal Fluid,,Enterococcus faecium,80,2019-11-28
+M01234,2020-01-17,Rectal Swab,,Enterococcus faecium,78,2020-01-17
+M99631,2019-09-28,Foot Swab,,Acinetobacter baumannii,NF,2019-09-28
+M00965_1,2020-01-14,Urine,,Escherichia coli,10,2020-01-14
+M12955_1,2021-03-15,Rectal Swab,,Enterobacter hormaechei,536,2021-03-15
+M94947,2019-04-25,Rectal Swab,,Staphylococcus aureus,2725,2019-04-24
+M86926,2018-07-21,Respiratory,,Staphylococcus aureus,5,
+M84680,2018-05-04,Urine,,Enterobacter hormaechei,45,2018-03-20
+M93372_R,2019-03-15,Perianal Swab,,N/A,N/A,2019-03-15
+M94930,2019-04-26,Rectal Swab,,Enterococcus faecium,1424,2019-03-04
+M87893_R,2018-08-23,Rectal swab,,N/A,N/A,2018-08-23
+M84258_1,2018-04-29,Respiratory,,Streptococcus pyogenes,6,2018-03-26
+M96263,2019-05-27,Rectal Swab,,Escherichia coli,38,2019-05-19
+M97093,2019-07-02,Blood,,Escherichia coli,131,2019-07-02
+M00385,2019-12-30,Scalp Swab,,Staphylococcus aureus,93,
+M04921,2020-02-10,Mandible Bone,,Staphylococcus aureus,93,2020-02-10
+M91483,2019-01-15,Urine,,Enterococcus faecalis,396,2018-12-28
+M911615,2019-11-29,Lumbar Tissue,,Staphylococcus aureus,5,2019-11-28
+M96467,2019-06-04,Nasal Swab,,Staphylococcus aureus,59,2019-06-02
+M810633,2018-11-21,Urine,,Escherichia coli,131,2018-11-09
+M96903,2019-06-24,Rectal Swab,,Enterococcus faecium,80,2019-06-22
+M00071,2019-12-25,Urine,,Escherichia coli,131,
+M811161,2018-12-05,Urine,,Enterobacter hormaechei,175,2018-11-01
+M1241_2,2020-12-29,Rectal Swab,,Enterobacter hormaechei,66,2020-12-24
+M12154,2021-02-25,Urine,,Escherichia coli,2998,
+M09083,2020-11-27,Perianal Swab,,Escherichia coli,131,2020-11-27
+M910893,2019-11-05,Perianal Swab,,Escherichia coli,295,2019-11-04
+M08912,2020-02-05,Rectal Swab,,Enterococcus faecium,80,2020-01-25
+M99617,2019-09-23,Nasal Swab,,Staphylococcus aureus,5,2019-09-23
+M97937,2019-07-24,Perianal Swab,,Escherichia coli,648,2019-07-24
+M04934,2020-03-02,Sputum,,Pseudomonas aeruginosa,3140,2020-02-27
+M94408,2019-04-11,Rectal Swab,,Escherichia coli,38,2019-03-08
+M96707,2019-06-11,Urine,,Escherichia coli,12,
+M910265,2019-10-17,Nasal Swab,,Staphylococcus aureus,834,2019-10-16
+M911163,2019-11-12,Environmental Swab,Room 51 Toilet,Enterococcus faecium,328,
+M01522,2019-12-27,Blood,,Escherichia coli,131,
+M97942_1,2019-07-29,Rectal Swab,,Escherichia coli,69,2019-07-28
+M96695,2019-06-06,Leg Swab,,Corynebacterium striatum,-,
+M93649,2019-02-21,Blood,,Escherichia coli,127,2019-02-18
+M99614,2019-09-26,Chest Fluid,,Staphylococcus aureus,149,2019-09-25
+M810891,2018-12-01,Endotracheal Aspirate,,Acinetobacter baumannii,784,2018-12-01
+M911605,2019-11-28,Rectal Swab,,Escherichia coli,6215,
+M93381,2019-03-14,Nasal Swab,,Staphylococcus aureus,672,2019-03-14
+M13351_1,2021-03-26,Endotracheal Aspirate,,Acinetobacter baumannii,2,2021-03-25
+M81642,2018-02-13,Rectal swab,,Escherichia coli,38,2018-02-13
+M88419,2018-09-12,Rectal swab,,Enterococcus faecium,555,2018-08-29
+M92515,2019-02-23,Rectal Swab,,Escherichia coli,95,2019-02-23
+M01232,2020-01-26,Rectal Swab,,Escherichia coli,131,2020-01-24
+M01508,2019-01-20,Venous Blood,,Escherichia coli,131,
+M98352,2019-08-07,Nasal Swab,,Staphylococcus aureus,5,2019-08-07
+M98526,2019-08-17,Nasal Swab,,Staphylococcus aureus,5,2019-08-17
+M86358,2018-04-07,Urine,,Enterococcus faecium,1421,
+M90674_1,2018-11-06,Rectal Swab,,Escherichia coli,167,2018-11-05
+M92180,2019-02-19,Blood,,Escherichia coli,141,2019-02-15
+M86332,2018-01-30,Rectal swab,,Enterococcus faecium,1421,
+M96241,2019-05-20,Nasal Swab,,Staphylococcus aureus,93,2019-05-20
+M98508,2019-08-11,Rectal Swab,,Enterococcus faecium,17,2019-07-18
+M811168,2018-12-03,Anal Swab,,Escherichia coli,349,2018-11-28
+M92179,2019-02-16,Blood,,Acinetobacter baumannii,229,2019-02-16
+M88208,2018-09-06,Rectal swab,,Escherichia coli,131,2018-09-03
+M97947,2019-07-28,Nasal Swab,,Staphylococcus aureus,1,2019-07-28
+M811154,2018-12-09,Rectal Swab,,Enterococcus faecium,203,2018-12-09
+M87663,2018-08-14,Urine,,Escherichia coli,131,2018-08-14
+M12679,2021-03-12,Rectal Swab,,Enterococcus faecium,1424,2021-02-27
+M12676,2021-03-06,Rectal Swab,,Enterococcus faecium,1424,2021-03-03
+M910492_2,2019-10-24,Perianal Swab,,Klebsiella pneumoniae,17,
+M09438,2020-12-08,Rectal Swab,,Escherichia coli,1193,2020-12-07
+M98525,2019-08-16,Rectum Swab,,Enterococcus faecium,17,2019-08-16
+M87137,2018-07-24,Rectal swab,,Enterococcus faecium,203,2018-07-19
+M86161,2018-06-27,Rectal swab,,Staphylococcus aureus,78,
+M09261,2020-12-03,Urine,,Enterobacter hormaechei,204,2020-11-20
+M96474_1,2019-06-03,Rectal Swab,,Citrobacter farmeri,-,2019-05-24
+M96255,2019-05-29,Nasal Swab,,Staphylococcus aureus,93,2019-05-29
+M00390,2019-12-27,Nasal Swab,,Staphylococcus aureus,59,2019-12-27
+M98869,2019-08-30,Sternum Swab,,Acinetobacter nosocomialis,-,2019-07-28
+M99250,2019-09-09,Rectal Swab,,Enterococcus faecium,78,2019-08-17
+M01594,2020-01-30,Rectal Swab,,Klebsiella pneumoniae,469,2020-01-30
+M13573,2021-04-06,Rectal Swab,,Enterococcus faecium,1424,2021-03-25
+M94954,2019-04-18,Blood,,Escherichia coli,131,2019-04-18
+M87129,2018-07-23,Rectal swab,,Klebsiella pneumoniae,NF,2018-07-20
+M86435,2018-07-01,Urine,,Escherichia coli,131,2018-07-01
+M910255,2019-10-16,Rectal Swab,,Escherichia coli,NF,
+M910011,2019-09-30,Rectal Swab,,Klebsiella oxytoca,NF,2019-07-01
+M85789,2018-06-11,Rectal swab,,Escherichia coli,95,
+M810623,2018-11-19,Rectal Swab,,Enterococcus faecium,17,2018-08-31
+M91482,2018-12-13,Rectal Swab,,Escherichia coli,69,2018-12-13
+M83138,2018-03-21,Rectal swab,,Escherichia coli,1193,2018-03-20
+M93926,2019-03-27,Rectal Swab,,Enterococcus faecium,1424,2019-03-12
+M85540,2018-06-05,Rectal swab,,Escherichia coli,131,2018-06-05
+M99399,2019-09-21,Urine,,Escherichia coli,131,2019-09-20
+M04942,2020-03-23,Rectal Swab,,Enterococcus faecium,78,2020-03-17
+M96254,2019-06-03,Rectal Swab,,Enterococcus faecium,1424,2019-05-28
+M91862,2019-02-03,Nasal Swab,,Staphylococcus aureus,1,2019-02-03
+M93662,2019-03-25,Rectal Swab,,Klebsiella pneumoniae,36,2019-03-22
+M911378,2019-11-19,Perianal Swab,,Escherichia coli,131,2019-11-18
+M84894,2018-05-21,Blood,,Klebsiella pneumoniae,13,2018-05-21
+M94959,2019-04-24,Perianal Swab,,Escherichia coli,131,2019-04-13
+M912088,2019-11-25,Foot Wound Swab,,Corynebacterium striatum,-,
+M13574,2021-03-31,Rectal Swab,,Enterococcus faecium,78,2021-03-31
+M15800,2021-07-04,Isolate,,Enterococcus faecium,78,
+M01236,2020-01-16,Rectal Swab,,Enterococcus faecium,78,2020-01-16
+M94210,2019-04-03,Perineum Swab,,Escherichia coli,540,2019-04-03
+M94417,2019-04-09,Perianal Swab,,Escherichia coli,414,2019-04-09
+M89914,2018-10-25,Rectal Swab,,Enterococcus faecium,1421,2018-10-25
+M96262,2019-05-27,Perianal Swab,,Escherichia coli,1193,2019-05-26
+M85137,2018-05-28,Rectal swab,,Escherichia coli,131,2018-05-28
+M911140,2019-11-12,Environmental Swab,Room 35 Comode in toilet,Enterococcus faecium,78,
+M87656_1_R,2017-05-17,Urine,,Enterobacter bugandensis,-,2018-05-17
+M89939,2018-10-27,Urine,,Escherichia coli,410,2018-10-27
+M87673,2018-08-07,Rectal swab,,Enterococcus faecium,1424,2018-08-07
+M81098,2018-01-30,Rectal swab,,Escherichia coli,131,2017-09-09
+M910890_1,2019-11-04,Rectal Swab,,Escherichia coli,457,2019-11-02
+M84476,2018-04-30,Rectal swab,,Klebsiella pneumoniae,17,2018-04-21
+M87133,2018-07-26,Environmental Swab,"""SWAB 4C (Bath1Floor Trap)""",Enterobacter hormaechei,254,2018-07-26
+M13343,2021-03-29,Rectal Swab,,Escherichia coli,131,2021-03-19
+M92202,2019-02-11,Abscess Swab,,Staphylococcus aureus,93,2019-02-10
+M16338,2021-06-17,Blood,,Staphylococcus aureus,5189,2021-05-26
+M92833,2019-02-25,Rectal Swab,,Enterococcus faecium,17,2019-02-25
+M83122,2018-03-13,Rectal swab,,Enterobacter roggenkampii,702,2018-02-27
+M07968,2020-10-08,Rectal Swab,,Klebsiella pneumoniae,37,2020-10-07
+M94211,2019-03-31,Rectal Swab,,Enterococcus faecium,78,2019-01-13
+M84468,2018-05-03,Wound / skin / soft tissue,,Staphylococcus aureus,30,2018-05-03
+M910898,2019-11-04,Thumb Swab,,Staphylococcus aureus,93,2019-11-03
+M06368,2020-07-09,Rectal Swab,,Enterobacter hormaechei,415,2017-10-19
+M81097,2018-01-30,Rectal swab,,Escherichia coli,5699,2017-07-26
+M98878,2019-08-26,Rectal Swab,,Klebsiella pneumoniae,870,2019-08-19
+M86170,2018-06-28,Respiratory,,N/A,N/A,2018-06-21
+M00098,2019-12-22,Nasal Swab,,Staphylococcus aureus,5,2019-12-22
+M87332,2018-08-05,Blood,,Staphylococcus aureus,5,2018-07-31
+M811155,2018-12-05,Nose Swab,,Staphylococcus aureus,78,2018-12-05
+M87342,2018-08-03,Rectal swab,,Escherichia coli,3910,
+M11704,2021-02-13,"Right,Knee Fluid",,Klebsiella pneumoniae,Royal Brisbane & Womens Hospital
+M91847,2019-02-05,Rectal Swab,,Escherichia coli,10,2019-02-05
+M84258_2,2018-03-29,Respiratory,,Staphylococcus aureus,6,2018-03-26
+M87335,2018-07-23,Rectal swab,,Enterococcus faecium,1421,2018-07-09
+M911361,2019-11-20,Nasal Swab,,Staphylococcus aureus,59,2019-11-20
+M89492,2018-10-17,Rectal,,Klebsiella pneumoniae,35,2018-10-17
+M87664,2018-08-14,Urine,,Escherichia coli,131,2018-07-27
+M99832,2019-10-07,Urine,,Proteus mirabilis,-,
+M81379,2018-02-05,Rectal swab,,Klebsiella pneumoniae,4415,2018-01-08
+M91494,2019-01-17,Nasal Swab,,Staphylococcus aureus,93,2019-01-16
+M811151,2018-12-03,Rectal Swab,,Enterococcus faecium,341,2018-12-02
+M912080,2019-12-08,Urine,,Escherichia coli,448,2019-11-23
+M85349,2018-05-31,Rectal swab,,Escherichia coli,1485,2018-05-31
+M910259,2019-10-21,Rectal Swab,,Klebsiella pneumoniae,39,2019-10-15
+M911849,2019-12-04,Axilla Abscess Swab,,Staphylococcus aureus,93,2019-12-04
+M91537,2018-12-30,Blood,,Klebsiella pneumoniae,13,2018-12-31
+M83145,2018-03-16,Rectal swab,,Escherichia coli,206,2018-03-16
+M810626,2018-11-26,Rectal Swab,,Enterococcus faecium,1421,2018-11-19
+M12439,2021-03-02,Perianal Swab,,Escherichia coli,1722,2021-02-26
+M89500,2018-10-13,Blood,,Staphylococcus aureus,72,2018-09-26
+M910673,2019-10-28,Unspecified Site Swab,,Enterococcus faecium,NF,2019-10-28
+M81645,2018-02-15,Rectal swab,,Escherichia coli,648,2018-02-15
+M89279,2018-10-10,Abscess,,Staphylococcus aureus,93,2018-10-10
+M86360,2018-04-16,Blood,,Enterococcus faecium,1424,2017-10-05
+M09258,2020-12-01,Rectal Swab,,Escherichia coli,131,2020-11-21
+M910035,2019-10-14,Rectal Swab,,Escherichia coli,131,2019-10-03
+M97568,2019-07-03,Rectal Swab,,Enterobacter hormaechei,90,2019-07-02
+M910495_1,2019-10-25,Rectal Swab,,Staphylococcus aureus,93,2019-10-25
+M13351_2,2021-03-26,Endotracheal Aspirate,,Enterobacter hormaechei,111,2021-03-25
+M93658,2019-03-25,Rectal Swab,,Escherichia coli,559,
+M08775,2020-11-02,Rectal Swab,,Klebsiella pneumoniae,17,2020-11-01
+M08916,2020-04-21,Blood,,Enterococcus faecium,1424,
+M86083,2018-04-23,Blood,,Staphylococcus aureus,93,2018-04-22
+M910671,2019-11-01,Rectal Swab,,Escherichia coli,69,2019-10-31
+M810387,2018-11-15,Blood,,Escherichia coli,38,2018-11-15
+M97078,2019-06-28,Nasal Swab,,Staphylococcus aureus,5,2019-06-28
+M01536,2019-10-19,Blood,,Escherichia coli,131,
+M910662,2019-10-18,Arm Swab,,Corynebacterium striatum,-,
+M86442,2018-07-05,Rectal swab,,Enterococcus faecium,1421,2018-06-13
+M01520,2019-02-09,Blood,,Escherichia coli,131,
+M12147,2021-02-07,Rectal Swab,,Enterococcus faecium,78,2021-01-29
+M99821,2019-10-04,Nasal Swab,,Staphylococcus aureus,45,2019-10-03
+M910022,2019-10-09,Nasal Swab,,Staphylococcus aureus,5,2019-10-08
+M05578,2020-05-30,Blood,,Escherichia coli,3014,
+M08920,2020-08-08,Urine,,Enterococcus faecium,80,2020-08-08
+M93380,2019-03-11,Nasal Swab,,Staphylococcus aureus,30,2019-03-10
+M01535,2019-10-03,"White,Lumen Blood",,Escherichia coli,Townsville Hospital
+M01227_1,2019-03-10,Blood,,Enterococcus faecium,17,2019-03-10
+M04948,2020-02-11,Knee Fluid,,Staphylococcus aureus,5,2020-02-03
+M00069,2019-12-23,Foot Tissue,,Corynebacterium striatum,-,
+M96702_2,2019-06-09,Scalp Wound Swab,,Klebsiella pneumoniae,15,2019-05-16
+M85776,2018-06-14,Blood,,Klebsiella pneumoniae,22,2018-06-05
+M910896,2019-11-05,Rectal Swab,,Enterococcus faecium,80,2019-11-04
+M00384,2019-12-31,Hickmans Site Swab,,Staphylococcus aureus,8,2019-12-31
+M84246_1,2018-04-21,Rectal swab,,Escherichia coli,405,2018-04-21
+M85133,2018-05-23,Rectal swab,,Escherichia coli,10,2018-05-23
+M01627,2020-02-01,Blood,,Klebsiella pneumoniae,NF,
+M97555,2019-07-11,Abscess Swab,,Staphylococcus aureus,93,2019-07-11
+M86080,2017-12-31,Blood,,Staphylococcus aureus,22,2017-12-31
+M91535,2018-12-29,Blood,,Escherichia coli,131,2018-12-30
+M92200,2019-02-12,Thigh Wound Swab,,Staphylococcus aureus,93,
+M910895,2019-11-06,Nasal Swab,,Staphylococcus aureus,97,
+M85140,2018-05-28,Rectal swab,,Escherichia coli,648,2018-05-16
+M911368,2019-11-12,Urine,,Enterobacter hormaechei,415,2019-11-04
+M97944,2019-07-21,Rectal Swab,,Enterococcus faecium,78,2019-06-28
+M911853,2019-12-04,Nasal Swab,,Staphylococcus aureus,239,2019-12-03
+M92503,2019-02-18,Rectal Swab,,Enterococcus faecium,80,2019-02-11
+M910015,2019-10-07,Rectal Swab,,Enterococcus faecium,80,2019-10-07
+M89674,2018-10-23,Rectal Swab,,Klebsiella pneumoniae,45,2018-10-16
+M910052,2019-08-29,Blood,,Enterococcus faecium,17,2019-08-07
+M912104,2019-12-08,Nasal Swab,,Staphylococcus aureus,97,2019-12-08
+M95137,2019-05-01,Boil Wound Swab,,Staphylococcus aureus,93,
+M97930_2,2019-07-24,Abdominal Fluid,,Klebsiella pneumoniae,1213,2019-07-01
+M8836,2018-01-25,Rectal swab,,Escherichia coli,131,2018-01-24
+M84249,2018-04-25,Rectal swab,,Escherichia coli,4553,2018-04-25
+M96472,2019-06-11,Lung Lower Lobe Tissue,,Staphylococcus argenteus,2250,
+M910495_2,2019-10-25,Rectal Swab,,Escherichia coli,648,
+M910040,2019-10-03,Pancreatic Tissue,,Proteus mirabilis,-,2019-08-07
+M06741,2020-07-31,Blood,,Escherichia coli,95,2020-07-31
+M96902,2019-06-16,Rectal Swab,,Enterococcus faecium,78,2019-06-16
+M84895,2018-05-16,Rectal swab,,Escherichia coli,131,2018-05-16
+M83124,2018-03-28,Rectal swab,,Escherichia coli,5150,2018-03-27
+M86650,2018-07-09,Respiratory,,Staphylococcus aureus,834,2018-07-09
+M98876,2019-08-26,Perianal Swab,,Escherichia coli,131,2019-08-20
+M8830,2018-01-29,Rectal swab,,Escherichia coli,131,2018-01-14
+M911604,2019-11-28,Perianal Swab,,Escherichia coli,100,2019-11-28
+M00688,2020-01-09,Leg Swab,,Staphylococcus aureus,22,
+M910039,2019-10-14,Rectal Swab,,Enterococcus faecium,78,2019-09-05
+M87127_2,2018-07-18,Urine,,Enterobacter kobei,125,2018-07-18
+M07966,2020-10-02,Rectal Swab,,Enterobacter hormaechei,175,2020-10-02
+M86655,2018-07-10,Perianal swab,,Klebsiella pneumoniae,15,2018-07-10
+M01540,2019-07-28,Venous Blood,,Escherichia coli,131,
+M92178_2,2019-02-11,Rectal Swab,,Acinetobacter baumannii,451,2018-12-28
+M84012,2018-04-06,Rectal swab,,Escherichia coli,1722,2018-04-05
+M05112,2020-02-24,Perianal Swab,,Klebsiella pneumoniae,313,2020-02-08
+M910254,2019-10-15,Urine,,Escherichia coli,1193,2019-10-14
+M93933_2,2019-03-23,Urine,,Klebsiella pneumoniae,1777,2019-03-21
+M99612,2019-09-26,Blood,,Staphylococcus aureus,5,2019-09-23
+M13348,2021-03-22,Environmental Swab,Rooms 7-10 Toilet-floor Drain,Enterobacter hormaechei,93,
+M99416,2019-09-23,Rectal Swab,,Klebsiella pneumoniae,429,2019-09-10
+M96713_1,2019-06-05,Rectal Swab,,Klebsiella aerogenes,-,2019-06-05
+M00065,2019-12-16,Rectal Swab,,Enterococcus faecium,78,2019-12-04
+M98522,2019-08-14,Rectal Swab,,Escherichia coli,131,2019-08-13
+M83146_2,2018-03-26,Rectal swab,,Klebsiella pneumoniae,37,2018-03-23
+M07970,2020-10-07,Bronchoalveolar Lavage,,Enterobacter hormaechei,415,2020-10-07
+M93648,2018-12-14,Urine,,Escherichia coli,354,2018-12-09
+M95766,2019-05-07,Rectal Swab,,Klebsiella pneumoniae,15,2018-04-18
+M15945,2021-07-21,Rectal Swab,,Enterococcus faecium,1424,2021-07-19
+M88656,2018-09-20,Wound / skin / soft tissue,,Staphylococcus aureus,NF,2018-09-16
+M96706,2019-06-05,Urine,,Escherichia coli,421,2019-06-04
+M96004,2019-03-06,Faeces,,Enterococcus faecium,1424,
+M08257,2020-08-30,Blood,,Staphylococcus aureus,5,2020-08-04
+M86335,2018-02-09,Urine,,Enterococcus faecium,1424,
+M910492_3,2019-10-24,Perianal Swab,,Staphylococcus aureus,5,2019-10-23
+M88038,2018-08-28,Wound / skin / soft tissue,,Acinetobacter baumannii,1050,2018-08-14
+M911852,2019-12-09,Axilla Abscess Swab,,Staphylococcus aureus,93,2019-12-07
+M910483,2019-10-22,Synovial Fluid,,Staphylococcus aureus,30,2019-10-20
+M87679,2018-07-30,Respiratory,,Klebsiella pneumoniae,11,
+M88039,2018-08-27,Wound / skin / soft tissue,,Acinetobacter baumannii,1050,2018-08-14
+M15944,2021-07-18,Rectal Swab,,Enterococcus faecium,1424,2021-07-17
+M07699,2020-09-24,Blood,,Escherichia coli,73,
+M91883,2019-02-07,Sputum,,Acinetobacter baumannii,1050,2019-02-07
+M98191,2019-07-22,Isolate,,Staphylococcus aureus,97,
+M85990,2018-06-24,Blood,,Escherichia coli,131,2018-06-07
+M08913,2020-02-18,Rectal Swab,,Enterococcus faecium,80,2020-02-10
+M84257,2018-04-30,Rectal swab,,Escherichia coli,1722,2018-04-29
+M910019,2019-10-08,Nasal Swab,,Staphylococcus aureus,45,2019-07-24
+M99055,2019-09-03,Rectal Swab,,Enterococcus faecium,80,2019-08-08
+M88035_2,2018-08-27,Rectal swab,,Klebsiella pneumoniae,1307,2018-08-24
+M97080,2019-07-01,Buttock Abscess Swab,,Staphylococcus aureus,93,2019-06-30
+M92825,2019-02-23,Rectal Swab,,Enterococcus faecium,1421,2019-02-23
+M94227,2019-04-02,Nasal Swab,,Staphylococcus aureus,93,2019-04-02
+M06842,2020-07-28,Rectal Swab,,Enterobacter hormaechei,88,2020-07-28
+M94411,2019-04-08,Nasal Swab,,Staphylococcus aureus,1,2019-04-08
+M83140,2018-03-25,Urine,,Acinetobacter baumannii,1821,2018-03-06
+M08259,2020-10-13,Rectal Swab,,Klebsiella variicola,2594,2020-10-13
+M98150,2019-07-29,Toe Swab,,Staphylococcus aureus,30,2019-07-18
+M91418,2018-12-31,Rectal Swab,,Enterococcus faecium,1421,2018-12-15
+M82648,2018-03-14,Urine,,Klebsiella pneumoniae,45,2018-03-14
+M82243,2018-02-25,Other,,Escherichia coli,131,2018-02-25
+M95770,2019-05-17,Rectal Swab,,Staphylococcus aureus,5,2019-05-16
+M99244,2019-09-14,Wound Swab,,Enterobacter hormaechei,415,
+M12165,2021-02-02,Rectal Swab,,Enterococcus faecium,1424,2021-02-02
+M1238,2021-01-03,Blood,,Escherichia coli,131,2020-11-23
+M87661,2018-08-09,Urine,,Escherichia coli,131,2018-08-09
+M97752,2019-07-17,Nasal Swab,,Staphylococcus aureus,72,2019-07-17
+M910682,2019-10-31,Nasal Swab,,Staphylococcus aureus,30,2019-10-28
+M97082,2019-06-26,Toe Bone Tissue,,Staphylococcus aureus,97,2019-06-21
+M86656,2018-07-15,Blood,,Escherichia coli,131,2018-07-15
+M09085,2020-11-26,Rectal Swab,,Klebsiella pneumoniae,307,2020-11-21
+M910875,2019-11-06,Urine,,Escherichia coli,131,
+M11453,2021-02-04,Rectal Swab,,Enterobacter hormaechei,204,2021-02-04
+M811167,2018-12-03,Anal Swab,,Escherichia coli,12,2018-11-20
+M910873,2019-11-04,Nasal Swab,,Staphylococcus aureus,5,2019-10-29
+M92181,2019-02-11,Leg Wound Swab,,Acinetobacter baumannii,451,2018-12-28
+M01507,2019-07-01,Blood,,Escherichia coli,44,
+M96259_2,2019-05-25,Urine,,Escherichia coli,131,
+M88205,2018-09-06,Urine,,Escherichia coli,69,2018-09-06
+M98872_R,2019-08-30,Perianal Swab,,N/A,N/A,2019-08-28
+M91525,2019-01-10,Urine,,Enterobacter hormaechei,415,2019-01-08
+M97574,2019-07-08,Nasal Swab,,Staphylococcus aureus,78,2019-07-07
+M95134,2019-04-20,Right Neck LN Aspirate,,Staphylococcus aureus,5491,2019-04-18
+M92842,2019-03-02,Nasal Swab,,Staphylococcus aureus,30,2019-03-02
+M911386,2019-11-20,Carbuncle Tissue,,Staphylococcus aureus,772,2019-11-19
+M96699,2019-06-13,Nasal Swab,,Staphylococcus aureus,1,2019-06-13
+M01598,2020-01-29,Urine,,Escherichia coli,648,
+M82252R,2018-02-26,Rectal swab,,N/A,N/A,2018-02-22
+M97090_2,2019-06-29,Right Leg Fluid,,Escherichia coli,1193,2019-06-28
+M00954,2020-01-14,Abdominal Abscess Swab,,Staphylococcus aureus,93,
+M99408,2019-09-17,Nasal Swab,,Staphylococcus aureus,149,
+M98888,2019-08-24,Rectum Swab,,Enterococcus faecium,761,2019-08-17
+M810372,2018-11-12,Rectal Swab,,Enterococcus faecium,1421,2018-11-02
+M98520_1,2019-08-13,Blood,,Escherichia coli,69,2019-08-11
+M95531,2019-05-08,Cheek Wound Swab,,Staphylococcus aureus,5,
+M911372,2019-11-24,Urine,,Escherichia coli,354,
+M84008,2018-04-13,Rectal swab,,Escherichia coli,131,2018-04-13
+M91853,2019-02-07,Perianal Swab,,Escherichia coli,1193,2019-02-07
+M910884,2019-11-04,Rectal Swab,,Klebsiella pneumoniae,1676,2019-11-02
+M87880,2018-08-13,Rectal swab,,Enterococcus faecium,1424,2018-08-07
+M84474,2018-05-05,Wound / skin / soft tissue,,Staphylococcus aureus,97,2018-05-01
+M94941,2019-04-29,Liver Abscess Fluid,,Staphylococcus aureus,93,2019-04-25
+M82244,2018-02-24,Rectal swab,,Klebsiella pneumoniae,11,2018-02-23
+M96705,2019-06-15,Urine,,Escherichia coli,69,2019-06-12
+M910024,2019-10-09,Rectal Swab,,Enterococcus faecium,80,2019-10-08
+M88428,2018-09-13,Rectal swab,,Escherichia coli,648,2018-09-13
+M86426,2018-07-06,Urine,,Escherichia coli,131,2018-07-06
+M91496,2018-12-24,Renal Abscess Fluid,,Staphylococcus aureus,93,2018-12-21
+M82239,2018-03-06,Rectal swab,,Escherichia coli,963,2018-02-07
+M85783,2018-06-14,Rectal swab,,Escherichia coli,131,2018-06-13
+M910938_3,2019-10-29,Rectal Swab,,Klebsiella pneumoniae,163,2019-10-29
+M8632_1,2017-12-17,Urine,,Enterobacter hormaechei,830,2017-11-16
+M07096,2020-08-18,Rectal Swab,,Enterobacter hormaechei,415,2020-08-18
+M05576,2020-05-18,Rectal Swab,,Klebsiella oxytoca,-,2020-05-17
+M87346,2018-08-03,Urine,,Klebsiella pneumoniae,37,2018-07-27
+M96925,2019-06-24,Perianal Swab,,Klebsiella pneumoniae,1864,2019-06-24
+M96244,2019-06-03,Perianal Swab,,Escherichia coli,457,2019-05-25
+M911858_2,2019-12-02,Rectal Swab,,Enterobacter hormaechei,536,2019-11-26
+M1555,2020-09-22,Perianal Swab,,Escherichia coli,131,
+M00378,2020-01-05,Urine,,Escherichia coli,131,2020-01-05
+M05992,2020-06-12,Blood,,Pseudomonas aeruginosa,N/A,2020-06-10
+M82628,2018-03-08,Other,"""PAEDS Detergent""",Klebsiella michiganensis,-,
+M05286,2020-05-12,Axilla Tissue,,Klebsiella pneumoniae,54,2020-05-12
+M88661,2018-09-22,Rectal swab,,Escherichia coli,131,2018-09-22
+M86327,2018-01-13,Urine,,Enterococcus faecium,1424,
+M87883,2018-08-20,Respiratory,,Staphylococcus aureus,45,2018-08-18
+M85773,2018-06-15,Other,,Klebsiella pneumoniae,22,2018-06-05
+M14313_1,2021-05-02,Rectal Swab,,Enterococcus faecium,1424,2021-04-29
+M89911,2018-10-29,Perianal Swab,,Staphylococcus aureus,93,2018-10-11
+M910499,2019-10-21,Rectal Swab,,Klebsiella pneumoniae,348,2019-04-16
+M09262,2020-12-02,Rectal Swab,,Klebsiella pneumoniae,469,2020-12-02
+M910017,2019-10-08,Rectal Swab,,Escherichia coli,349,2019-10-02
+M97566,2019-07-11,Rectal Swab,,Klebsiella quasipneumoniae,3028,2019-07-10
+M81635_2,2018-02-17,Rectal swab,,Escherichia coli,10,2018-02-17
+M00675,2020-01-09,Rectal Swab,,Escherichia coli,394,2020-01-07
+M91860,2019-02-08,Perinephric Abscess Fluid,,Staphylococcus aureus,93,2019-02-07
+M01505,2019-06-16,Venous Blood,,Escherichia coli,1193,2019-05-21
+M93927,2019-03-25,Rectal Swab,,Enterococcus faecium,203,2019-03-17
+M96010,2019-05-21,Nasal Swab,,Staphylococcus aureus,1,2019-05-21
+M810371,2018-11-12,Rectal Swab,,Enterococcus faecium,1421,2018-10-22
+M93669,2019-03-19,Rectal Swab,,Enterococcus faecium,1421,2019-01-30
+M910890_2,2019-11-04,Rectal Swab,,Escherichia coli,457,2019-11-02
+M01595,2020-01-25,Urine,,Escherichia coli,131,
+M911153_1,2019-11-12,Skin Tissue,,Staphylococcus aureus,97,2019-11-09
+M12438,2021-03-02,Rectal Swab,,Klebsiella pneumoniae,36,2021-02-09
+M17321,2021-10-07,Perianal Swab,,Escherichia coli,131,2021-08-10
+M01238,2020-01-15,Rectal Swab,,Enterococcus faecium,1424,2020-01-14
+M84007,2018-04-08,Rectal swab,,Escherichia coli,354,2018-04-06
+M05993,2020-04-13,Blood,,Pseudomonas aeruginosa,N/A,2020-03-30
+M87885_R,2018-08-21,Respiratory,,N/A,N/A,2018-08-16
+M00684,2020-01-04,Nasal Swab,,Staphylococcus aureus,859,2020-01-03
+M00073,2019-12-23,Perianal Swab,,Escherichia coli,131,2019-12-20
+M1243,2020-12-22,Rectal Swab,,Klebsiella oxytoca,NF,2020-12-21
+M89057,2018-09-26,,,Escherichia coli,1193,2018-09-26
+M91861,2019-01-18,Blood,,Staphylococcus aureus,22,2019-01-18
+M98351,2019-07-29,Rectal Swab,,Enterobacter hormaechei,415,2019-06-14
+M98712_1,2019-08-25,Urine,,Escherichia coli,131,2019-08-20
+M94226,2019-03-30,Nasal Swab,,Staphylococcus aureus,5,2019-03-30
+M92513,2019-02-21,Buttock Abscess Swab,,Staphylococcus aureus,22,
+M8629,2018-01-08,Rectal swab,,Klebsiella pneumoniae,15,2018-01-08
+M8842,2017-12-12,Rectal swab,,Escherichia coli,517,2017-12-03
+M810389,2018-11-17,Perianal Swab,,Escherichia coli,131,2018-11-17
+M09434,2020-12-08,Screening Swab,7D Room 6 Shower and Toilet,Enterobacter hormaechei,415,
+M09267,2020-12-02,Perianal Swab,,Escherichia coli,349,2020-11-30
+M09263,2020-12-01,Perianal Swab,,Klebsiella pneumoniae,17,2020-11-30
+M00951,2020-01-18,Humerus Bone Tissue,,Staphylococcus aureus,93,2020-01-18
+M95769,2019-05-17,Rectal Swab,,Enterococcus faecium,555,2019-05-17
+M01628,2020-02-03,Rectal Swab,,Escherichia coli,131,2020-01-30
+M13994,2021-04-18,Rectal Swab,,Enterococcus faecium,1424,2021-04-16
+M84021,2018-04-16,Rectal swab,,Escherichia coli,69,2018-04-10
+M05716,2020-06-04,Rectal Swab,,Klebsiella pneumoniae,711,2020-05-05
+M13342,2021-03-27,Urine,,Escherichia coli,131,
+M87331,2018-08-04,Blood,,Escherichia coli,1485,2018-08-02
+M05292_1,2020-04-25,Hip Tissue,,Serratia marcescens,-,2020-03-21
+M04919_1,2020-02-05,Toe Tissue,,Staphylococcus aureus,1,2020-02-04
+M00691,2020-01-06,Rectal Swab,,Klebsiella pneumoniae,15,2019-12-23
+M01611,2020-01-26,Nasal Swab,,Staphylococcus aureus,78,2020-01-24
+M911145,2019-11-13,Rectal Swab,,Enterococcus faecium,555,
+M00372,2020-01-04,Blood,,Escherichia coli,131,
+M912110,2019-12-11,Rectal Swab,,Enterobacter hormaechei,90,2019-10-02
+M86355,2018-03-27,Blood,,Enterococcus faecium,1424,2018-03-09
+M911369,2019-11-19,Rectal Swab,,Klebsiella pneumoniae,13,2019-10-24
+M13981,2021-04-19,Rectal Swab,,Enterococcus faecium,1424,2021-03-15
+M99401,2019-09-23,Rectal Swab,,Enterococcus faecium,1424,2019-09-09
+M87671,2018-08-09,Blood,,Staphylococcus aureus,1,2018-07-31
+M910277,2019-10-12,Rectal Swab,,Escherichia coli,131,2019-10-12
+M92820,2019-02-26,Rectal Swab,,Klebsiella pneumoniae,323,2019-02-15
+M98511,2019-08-15,Blood,,Enterococcus faecium,17,2019-08-02
+M96694,2019-06-04,ALT Donor Site Swab,,Corynebacterium striatum,-,
+M97074,2019-06-26,Rectal Swab,,Enterococcus faecium,17,2019-06-18
+M14316,2021-05-10,Rectal Swab,,Klebsiella pneumoniae,15,2021-05-06
+M89496,2018-10-19,Rectal,,Escherichia coli,38,2018-10-18
+M11450,2021-02-01,Endotracheal Aspirate,,Klebsiella pneumoniae,13,2021-01-31
+M92198,2019-02-14,Nose Swab,,Staphylococcus aureus,NF,2019-02-03
+M810883,2018-11-26,Nasal Swab,,Staphylococcus aureus,121,2018-11-26
+M911841,2019-11-30,Urine,,Acinetobacter baumannii,229,2019-11-28
+M96471,2019-06-06,Wound Swab,,Staphylococcus aureus,93,2019-05-23
+M06248,2020-06-22,Rectal Swab,,Acinetobacter baumannii,1050,
+M98883,2019-08-27,Hand Swab,,Staphylococcus aureus,93,2019-08-27
+M99633,2019-09-30,Rectal Swab,,Escherichia coli,131,2019-09-27
+M82256,2018-03-05,Other,"""Detergent Milk Room""",Klebsiella michiganensis,-,
+M96007,2019-05-10,Faeces,,Enterococcus faecium,1424,2019-05-08
+M92519,2019-02-25,Rectal Swab,,Escherichia coli,1193,
+M910669,2019-10-25,Urine,,Escherichia coli,131,2019-10-25
+M99412,2019-09-17,Perianal Swab,,Staphylococcus aureus,5,2019-09-16
+M86433,2018-07-09,Rectal swab,,Enterobacter hormaechei,45,2018-03-20
+M98516,2019-08-17,Rectal Swab,,Enterococcus faecium,78,2019-07-08
+M00377,2020-01-05,Urine,,Klebsiella pneumoniae,48,
+M88427,2018-09-10,Rectal swab,,Klebsiella pneumoniae,188,
+M96704,2019-06-14,Urine,,Escherichia coli,131,2019-06-15
+M94407,2019-04-09,Rectal Swab,,Escherichia coli,131,2019-04-09
+M99638_1,2019-09-25,Abdomen Tissue,,Escherichia coli,131,2019-09-19
+M91871,2019-02-07,Perianal Swab,,Escherichia coli,38,2019-02-07
+M910887_1,2019-11-05,Abscess Swab,,Staphylococcus aureus,93,
+M09435,2020-12-09,Rectal Swab,,Enterobacter hormaechei,175,2020-12-08
+M98527,2019-08-17,Rectal Swab,,Klebsiella pneumoniae,147,2019-08-16
+M86085,2018-06-23,Blood,,Staphylococcus aureus,239,2018-06-22
+M94212,2019-04-02,Urine,,Escherichia coli,131,2019-02-06
+M00362,2020-01-01,Rectal Swab,,Enterococcus faecium,78,2019-12-14
+M81638,2018-02-19,Blood,,Escherichia coli,131,2018-02-14
+M810368,2018-11-12,Nasal Swab,,Staphylococcus aureus,22,2018-10-14
+M99822,2019-10-07,Nasal Swab,,Staphylococcus aureus,72,2019-09-02
+M13341,2021-03-26,Urine,,Escherichia coli,998,
+M810884,2018-11-28,Nostril Swab,,Staphylococcus aureus,5,2018-11-27
+M96479,2019-06-06,Rectal Swab,,Escherichia coli,69,2019-06-06
+M81093_1,2018-01-31,Rectal swab,,Escherichia coli,38,2018-01-31
+M16069,2021-07-21,Rectal Swab,,Enterobacter hormaechei,88,2021-07-19
+M94933_R,2019-04-22,Nasal Swab,,N/A,N/A,2019-03-18
+M96018,2019-03-28,Blood,,Staphylococcus aureus,93,2019-03-06
+M810149,2018-11-12,Rectal Swab,,Klebsiella pneumoniae,273,2018-11-10
+M15801,2021-07-08,Isolate,,Enterococcus faecium,78,
+M911152,2019-08-08,Blood,,Proteus mirabilis,-,2019-08-07
+M99247,2019-09-05,Anal Swab,,Enterobacter hormaechei,415,2019-05-30
+M910670,2019-10-25,Urine,,Escherichia coli,127,2019-10-24
+M910032,2019-10-11,Rectum Swab,,Citrobacter farmeri,-,2019-10-11
+M06375_2,2020-07-01,Sputum,,Enterobacter hormaechei,604,2020-06-05
+M87344,2018-08-06,Rectal swab,,Klebsiella pneumoniae,22,2018-06-05
+M01615,2020-01-27,Nasal Swab,,Staphylococcus aureus,NF,2020-01-27
+M96481,2019-06-11,Floor Trap Bathroom Room 1 Swab,,Enterobacter hormaechei,45,
+M01528,2019-04-28,Venous Blood,,Escherichia coli,131,
+M96256,2019-01-17,Blood,,Burkholderia cenocepacia,1626,
+M81100,2018-01-30,Rectal swab,,Escherichia coli,963,2017-12-17
+M911142,2019-11-07,Rectal Swab,,Enterococcus faecium,78,2019-11-06
+M82255,2018-02-27,Rectal swab,,Klebsiella michiganensis,-,2018-02-16
+M95771,2019-05-17,Rectal Swab,,Escherichia coli,95,2019-05-17
+M85997,2018-06-16,Urine,,Enterobacter hormaechei,415,2018-06-13
+M98706,2019-07-30,Blood,,Staphylococcus hominis,49,
+M00694,2020-01-08,Urine,,Klebsiella pneumoniae,13,2020-01-06
+M83997,2018-04-15,Wound / skin / soft tissue,,Staphylococcus aureus,5,2018-03-26
+M912081,2019-12-14,Urine,,Escherichia coli,131,
+M08917,2020-11-17,Screening Swab,,Escherichia coli,648,
+M911851,2019-12-09,Joint Swab,,Staphylococcus aureus,93,2019-12-08
+M82248,2018-02-27,Rectal swab,,Escherichia coli,131,2018-02-24
+M910046,2019-10-07,Blood,,Escherichia coli,131,2019-10-03
+M93372,2019-03-15,Perianal Swab,,Escherichia coli,410,2019-03-15
+M96017,2019-03-08,Venous Blood,,Staphylococcus aureus,6,2019-02-10
+M99829,2019-10-02,Blood,,Escherichia coli,648,
+M96016,2019-05-26,Urine,,Escherichia coli,10,2019-05-26
+M911165_1,2019-11-18,Breast Tissue,,Staphylococcus aureus,45,2019-11-04
+M84465,2018-05-02,Wound / skin / soft tissue,,Staphylococcus aureus,97,2018-05-01
+M87336_2_R,2018-08-02,Rectal swab,,N/A,N/A,2018-07-22
+M1237,2020-12-26,Blood,,Escherichia coli,131,2020-12-25
+M12686,2021-03-05,Environmental Swab,6C Bed Shower Toilet,Enterobacter hormaechei,145,
+M911156,2019-11-08,Rectal Swab,,Enterobacter hormaechei,90,2019-11-01
+M91881,2019-02-07,Nasal Swab,,Staphylococcus aureus,5,2019-01-15
+M96691,2019-05-27,Tracheostomy Site Swab,,Corynebacterium striatum,-,
+M85347,2018-06-01,Wound / skin / soft tissue,,Staphylococcus aureus,5,2018-05-25
+M89663_1,2018-10-22,Perianal Swab,,Klebsiella pneumoniae,147,2018-07-10
+M93098,2019-03-05,Rectal Swab,,Enterococcus faecium,992,2019-03-05
+M85786,2018-06-13,Rectal swab,,Escherichia coli,428,2018-05-29
+M85552,2018-05-01,Blood,,Serratia marcescens,-,2018-03-08
+M87890,2018-08-28,Respiratory,,Staphylococcus aureus,1,
+M99825,2019-10-02,Skull Bone,,Enterococcus faecium,78,2019-09-23
+M09094,2020-11-24,Rectal Swab,,Escherichia coli,131,2020-11-21
+M910486,2019-10-26,Abscess Swab,,Staphylococcus aureus,93,
+M09265,2020-11-30,Perianal Swab,,Escherichia coli,636,2020-10-20
+M07969,2020-10-07,Blood,,Enterococcus faecium,1424,2020-10-01
+M911148,2019-11-15,Isolate,,Escherichia coli,3036,
+M12677,2021-03-02,Wound Swab,,Enterococcus faecium,1424,2020-12-20
+M96240,2019-05-29,Rectal Swab,,Escherichia coli,131,2019-05-26
+M01619,2020-02-03,Hand Wound Swab,,Staphylococcus aureus,93,2020-02-02
+M83146_1,2018-03-26,Rectal swab,,Escherichia coli,940,2018-03-23
+M94934,2019-04-22,Nasal Swab,,Staphylococcus aureus,5,2019-04-07
+M06845,2020-08-03,Rectal Swab,,Klebsiella pneumoniae,15,2020-06-27
+M91417,2019-01-28,Rectal Swab,,Enterococcus faecium,1424,2019-01-25
+M86373,2018-06-05,Urine,,Enterococcus faecium,80,
+M93652,2019-03-24,Nasal Swab,,Staphylococcus aureus,1232,
+M91856,2019-02-06,Rectal Swab,,Klebsiella pneumoniae,101,2019-02-06
+M97565,2019-07-02,Rectal Swab,,Klebsiella pneumoniae,13,2019-07-01
+M86427,2018-07-07,Urine,,Escherichia coli,131,2018-06-21
+M91505,2019-01-21,Endotracheal Aspirate,,Klebsiella pneumoniae,16,2019-01-21
+M88423,2018-09-15,Respiratory,,Klebsiella pneumoniae,983,2018-09-15
+M98153,2019-08-03,Hand Swab,,Staphylococcus aureus,93,2019-08-02
+M93370,2019-03-12,Rectal Swab,,Enterococcus faecium,78,2019-03-03
+M98716,2019-08-19,Rectal Swab,,Acinetobacter baumannii,NF,2019-05-31
+M93666,2019-03-22,Rectal Swab,,Escherichia coli,9694,2019-03-22
+M16335,2021-03-17,Blood,,Staphylococcus aureus,789,2021-03-17
+M86366,2018-05-20,Rectal swab,,Enterococcus faecium,1421,
+M05113,2020-04-10,Urine,,Pseudomonas aeruginosa,664,
+M91420,2019-01-08,Rectal Swab,,Enterococcus faecium,17,2019-01-08
+M86156,2018-06-27,Rectal swab,,Escherichia coli,131,
+M13983,2021-04-20,Rectal Swab,,Enterococcus faecium,1424,
+M92838,2019-03-01,Elbow Swab,,Staphylococcus aureus,30,2019-03-01
+M12440,2021-03-06,Perianal Swab,,Klebsiella pneumoniae,281,2021-03-05
+M86340,2018-06-18,Rectal swab,,Enterococcus faecium,1421,2018-05-16
+M06512,2020-07-13,Blood,,Escherichia coli,131,
+M86654,2018-07-10,Rectal swab,,Escherichia coli,636,
+M95765,2019-05-16,Rectal Swab,,Enterococcus faecium,555,2019-05-16
+M99405,2019-09-24,Rectal Swab,,Klebsiella pneumoniae,133,2019-09-23
+M12682,2021-03-07,Urine,,Klebsiella pneumoniae,13,2021-03-03
+M81384,2018-02-12,Rectal swab,,Klebsiella pneumoniae,219,2018-02-12
+M97764,2019-07-16,Urine,,Escherichia coli,131,2019-07-16
+M01230,2019-06-12,Blood,,Enterococcus faecium,NF,
+M810880,2018-11-25,Nasal Swab,,Staphylococcus aureus,22,2018-11-23
+M99057,2019-09-02,Rectal Swab,,Enterococcus faecium,17,2019-09-02
+M91870,2019-02-04,Nasal Swab,,Staphylococcus aureus,93,2019-01-15
+M94213,2019-04-02,Right Ear Swab,,Escherichia coli,1193,2019-04-01
+M95534,2019-05-07,Foot Tissue,,Acinetobacter baumannii,1050,2019-05-01
+M15793,2021-06-21,Rectal Swab,,Enterococcus faecium,1424,2021-06-11
+M86363,2018-05-04,Other,,Enterococcus faecium,1543,
+M86342,2017-12-05,Rectal swab,,Enterococcus faecium,1421,2017-11-28
+M911613,2019-11-25,Nasal Swab,,Staphylococcus aureus,78,2019-11-07
+M1551,2021-01-05,Rectal Swab,,Escherichia coli,543,2020-12-31
+M00948,2020-01-17,Perianal Abscess Swab,,Staphylococcus aureus,93,2020-01-16
+M99243,2019-09-07,Wound Swab,,Enterobacter hormaechei,415,
+M12431,2021-02-22,Environmental Swab,ICU Room 8 Outsie Bed Area Down Sink Drain,Enterobacter asburiae,250,
+M92501,2019-02-18,Rectal Swab,,Klebsiella pneumoniae,30,2019-02-11
+M1232,2020-12-15,Rectal Swab,,Enterobacter chengduensis,414,2020-11-30
+M79331,2017-11-04,Rectal swab,,Citrobacter amalonaticus,-,2017-11-04
+M911374,2019-11-07,Rectal Swab,,Enterococcus faecium,78,
+M96920,2019-06-19,Perianal Swab,,Escherichia coli,1193,2019-06-19
+M96915,2019-06-21,Urine,,Escherichia coli,131,2019-06-21
+M910494,2019-10-25,Perianal Swab,,Staphylococcus aureus,5,2019-10-24
+M98163,2019-08-05,Rectal Swab,,Escherichia coli,131,2019-05-20
+M8833_1,2018-01-22,Rectal swab,,Escherichia coli,617,2018-01-17
+M98510,2019-08-18,Throat Swab,,Staphylococcus aureus,762,2019-08-15
+M86160,2018-06-26,Rectal swab,,Staphylococcus aureus,NF,
+M86168,2018-06-26,Respiratory,,Acinetobacter baumannii,878,2018-06-26
+M04924,2020-03-30,Rectal Swab,,Klebsiella pneumoniae,45,2020-03-30
+M98515,2019-08-12,Rectal Swab,,Enterococcus faecium,80,2019-08-12
+M07218,2020-08-20,W3C Shower Sink Room,ENVCPA250820,Pseudomonas aeruginosa,620,
+M81101,2018-01-29,Rectal swab,,Escherichia coli,1193,2018-01-18
+M00095,2019-12-26,Nasal Swab,,Staphylococcus aureus,22,2019-12-25
+M01226,2019-03-21,Blood,,Enterococcus faecium,361,2016-12-01
+M91876,2018-04-10,Blood,,Enterobacter hormaechei,90,
+M911843,2019-12-08,Urine,,Escherichia coli,131,2019-12-08
+M00388,2019-12-31,Nasal Swab,,Staphylococcus aureus,1,2019-12-31
+M05119,2020-04-29,Rectal Swab,,Klebsiella pneumoniae,37,2020-04-28
+M96692,2019-05-28,Toe Bone,,Corynebacterium striatum,-,
+M01609,2020-01-27,Rectal Swab,,Enterococcus faecium,78,2019-12-27
+M00373,2019-12-28,Pus Swab,,Klebsiella pneumoniae,219,
+M08921,2020-10-01,Rectal Swab,,Enterococcus faecium,1424,2020-09-14
+M94951,2019-04-16,Rectal Swab,,Acinetobacter baumannii,229,2019-03-27
+M910668_1,2019-10-28,Nasal Swab,,Staphylococcus aureus,872,2019-10-16
+M89281,2018-10-08,Nasal,,Staphylococcus aureus,NF,2018-07-10
+M810162,2018-11-07,Rectal Swab,,Klebsiella pneumoniae,133,2018-11-07
+M86082,2018-04-14,Blood,,Staphylococcus aureus,1,2018-04-13
+M91867,2019-02-02,Rectal Swab,,Enterococcus faecium,1421,2019-01-30
+M98189,2019-06-10,Isolate,,Staphylococcus aureus,5,
+M96253,2019-06-03,Rectal Swab,,Enterococcus faecium,203,2019-05-16
+M11206,2021-01-26,Rectal Swab,,Citrobacter freundii,185,2021-01-26
+M85995_2,2018-06-25,Rectal swab,,Klebsiella pneumoniae,37,
+M911157,2019-11-15,Rectal Swab,,Escherichia coli,88,2019-11-14
+M81096,2018-01-31,Urine,,Klebsiella pneumoniae,NF,2017-11-11
+M92835,2019-03-02,Leg Swab,,Staphylococcus aureus,93,2019-03-02
+M01231,2020-01-26,Rectal Swab,,Escherichia coli,10,2020-01-27
+M912106,2019-12-11,Rectal Swab,,Enterococcus faecium,78,2019-12-04
+M00682,2020-01-06,Rectal Swab,,Enterococcus faecium,780,2019-11-23
+M86370,2018-05-31,Rectal swab,,Enterococcus faecium,80,2018-05-31
+M810634,2018-11-25,Urine,,Escherichia coli,69,
+M84014,2018-04-10,Rectal swab,,Klebsiella pneumoniae,45,2018-04-09
+M85996,2018-06-15,Urine,,Citrobacter koseri,-,
+M87338,2018-08-02,Wound / skin / soft tissue,,Staphylococcus aureus,93,
+M97576,2019-07-14,Buttock Abscess Swab,,Staphylococcus aureus,93,2019-07-14
+M00681,2020-01-03,Rectal Swab,,Enterococcus faecium,80,2020-01-02
+M00966,2020-01-13,Rectal Swab,,Escherichia coli,354,
+M07215,2020-08-28,Faeces,,Klebsiella pneumoniae,496,
+M1234,2020-12-23,Abdominal Tissue,,Klebsiella pneumoniae,20,2020-12-12
+M92516,2019-02-23,Perianal Swab,,Escherichia coli,38,2019-02-22
+M912105,2019-12-07,Abscess Tissue,,Staphylococcus aureus,93,2019-12-06
+M1747,2021-01-11,Perianal Swab,,Staphylococcus aureus,93,2020-12-28
+M911596,2019-12-02,Axilla Abscess Swab,,Staphylococcus aureus,93,2019-11-30
+M88033,2018-08-29,Rectal swab,,Enterococcus faecium,17,2018-07-20
+M912100,2019-12-05,Catheter Urine,,Serratia marcescens,-,2016-03-23
+M83999,2018-04-01,Blood,,Staphylococcus aureus,5,2018-12-31
+M95768,2019-05-18,Rectal Swab,,Enterococcus faecium,78,2019-05-16
+M00090,2019-12-23,Leg Swab,,Staphylococcus aureus,1,
+M13989,2021-04-20,Rectal Swab,,Enterococcus faecium,555,2021-04-10
+M99069_R,2019-09-05,Rectal Swab,,N/A,N/A,
+M86364,2018-05-09,Rectal swab,,Enterococcus faecalis,179,
+M910268,2019-10-15,Perianal Swab,,Staphylococcus aureus,5,2019-09-19
+M05287,2020-05-14,Blood,,Escherichia coli,1193,2020-04-30
+M94219,2019-04-08,Rectal Swab,,Escherichia coli,10,2019-04-08
+M99838,2019-10-01,Abscess Swab,,Staphylococcus aureus,93,
+M8433,2018-01-02,Rectal swab,,Klebsiella michiganensis,-,2017-12-18
+M88032,2018-08-31,Respiratory,,Staphylococcus aureus,5,2018-08-31
+M86164,2018-06-28,Respiratory,,Staphylococcus aureus,1,2018-06-29
+M12442,2021-02-18,Environmental Swab,4F Room 14-17 Toilet,Enterobacter asburiae,24,
+M01517_1,2019-12-20,Venous Blood,,Escherichia coli,131,
+M87882,2018-08-24,Wound / skin / soft tissue,,Staphylococcus aureus,5,2018-08-24
+M82754,2018-03-16,Blood,,Enterobacter hormaechei,133,
+M93657_R,2019-03-26,Rectal Swab,,N/A,N/A,2019-03-25
+M01510,2019-01-22,Venous Blood,,Escherichia coli,131,
+M84256,2018-04-29,Blood,,Escherichia coli,141,2018-03-19
+M910047,2019-10-04,Blood,,Klebsiella pneumoniae,13,2019-10-03
+M98709,2019-08-25,Rectal Swab,,Escherichia coli,10,2019-08-24
+M00367,2020-01-02,Urine,,Escherichia coli,127,
+M84471,2018-05-04,Wound / skin / soft tissue,,Staphylococcus aureus,93,
+M12432,2021-02-25,Environmental Swab,ICU Room 7 Outer Bed Sink Drain Hose,Enterobacter asburiae,250,
+M86935,2018-07-20,Respiratory,,Staphylococcus aureus,88,
+M00692,2020-01-06,Rectal Swab,,Enterobacter hormaechei,415,2019-11-25
+M84002,2018-04-03,Rectal swab,,Klebsiella pneumoniae,NF,2018-03-20
+M88825,2018-09-28,Environmental Swab,"""Room 36 Antechamber Environment""",Acinetobacter baumannii,1050,
+M910020,2019-10-08,Rectal Swab,,Escherichia coli,38,2019-10-08
+M84245_1,2018-04-21,Rectal swab,,Escherichia coli,167,2018-04-21
+M92830,2019-02-28,Nasal Swab,,Staphylococcus aureus,672,2019-02-19
+M84017_2,2018-04-17,Rectal swab,,Klebsiella pneumoniae,152,2018-04-17
+M810888,2018-12-02,Rectal Swab,,Enterococcus faecium,1421,2018-12-01
+M16208,2021-07-27,Rectal Swab,,Enterococcus faecium,1424,2021-07-27
+M79333,2017-11-13,Rectal swab,,Enterobacter hormaechei,108,2017-11-11
+M910260,2019-10-20,Cellulitis Swab,,Staphylococcus aureus,1,
+M98862,2019-08-28,Urine,,Escherichia coli,73,
+M85541,2018-06-11,Rectal swab,,Escherichia coli,131,2018-06-06
+M05435,2020-05-19,Blood,,Escherichia coli,131,2020-05-19
+M82246,2018-02-27,Rectal swab,,Klebsiella pneumoniae,17,2018-02-07
+M87885,2018-08-21,Respiratory,,Staphylococcus aureus,97,2018-08-16
+M98509,2019-08-11,Urine,,Escherichia coli,131,
+M00363,2019-12-31,Rectal Swab,,Enterococcus faecium,78,2019-12-31
+M88207,2018-09-06,Rectal swab,,Escherichia coli,131,
+M910503,2019-10-23,Urine,,Escherichia coli,1193,
+M99616,2019-09-23,Rectal Swab,,Enterococcus faecium,17,2019-09-22
+M91874,2019-01-29,Isolate,,Enterobacter hormaechei,90,
+M8435,2017-12-26,Rectal swab,,Citrobacter freundii,98,2017-12-26
+M98711_2,2019-08-23,Rectal Swab,,Klebsiella pneumoniae,35,2019-08-21
+M98159,2019-08-02,Urine,,Escherichia coli,7401,
+M92499,2019-02-15,Leg Wound Swab,,Staphylococcus aureus,239,2019-02-01
+M96483,2019-06-07,Rectal Isolate,,Escherichia coli,10,
+M97750,2019-07-16,Urine,,Enterococcus faecium,78,2019-06-12
+M93654,2019-03-16,Nasal Swab,,Staphylococcus aureus,1,2019-03-16
+M01524,2019-03-02,Blood,,Escherichia coli,131,
+M99417,2019-09-16,Rectal Swab,,Klebsiella pneumoniae,1547,2019-08-30
+M910045,2019-10-08,Blood,,Acinetobacter nosocomialis,-,2019-09-14
+M82251,2018-02-28,Rectal swab,,Escherichia coli,315,2018-02-26
+M811152,2018-12-03,Rectal Swab,,Enterococcus faecium,80,2018-12-03
+M99066,2019-09-02,Perianal Swab,,Escherichia coli,1193,2019-08-02
+M810390_1,2018-11-16,Urine,,Enterobacter hormaechei,415,2018-11-13
+M13579,2021-04-06,Rectal Swab,,Enterococcus faecium,1424,2021-03-29
+M81103,2018-01-31,Rectal swab,,Escherichia coli,744,2018-01-31
+M99410,2019-09-17,Sinus Swab,,Staphylococcus aureus,93,2019-09-17
+M00961_2,2020-01-16,Urine,,Escherichia coli,131,
+M811169,2018-12-03,Perianal Swab,,Escherichia coli,1193,2018-09-04
+M84893,2018-05-21,Rectal swab,,Escherichia coli,NF,2018-05-16
+M96693,2019-06-03,Ankle Tissue,,Corynebacterium striatum,-,
+M86079,2018-01-29,Blood,,Staphylococcus aureus,97,2018-01-20
+M8441,2018-01-09,Rectal swab,,Klebsiella aerogenes,113,2017-12-16
+M09091,2020-11-23,Rectal Swab,,Enterobacter hormaechei,415,2020-11-23
+M83131,2018-03-26,Respiratory,,Staphylococcus aureus,5,2018-03-22
+M1556_2,2020-12-25,Urine,,Enterobacter bugandensis,599,2020-12-12
+M1557,2021-01-05,Environmental Swab,5F Room 1 Outside Bed Area Sink Drain Hole,Enterobacter hormaechei,269,
+M83139,2018-03-24,Rectal swab,,Escherichia coli,131,2018-03-24
+M99831,2019-10-06,Urine,,Escherichia coli,127,2019-10-06
+M99621,2019-09-24,Nasal Swab,,Staphylococcus aureus,93,2019-09-23
+M84253_1,2018-04-23,Rectal swab,,Escherichia coli,10,2018-04-22
+M13978,2021-04-21,Rectal Swab,,Enterococcus faecium,1424,2021-04-13
+M910038,2019-10-14,Rectal Swab,,Escherichia coli,95,2019-10-09
+M1552,2021-01-11,Rectal Swab,,Klebsiella pneumoniae,25,2021-01-09
+M95750,2019-05-15,Nasal Swab,,Staphylococcus aureus,764,2019-05-15
+M810383,2018-11-16,Nasal Swab,,Staphylococcus aureus,22,2018-11-16
+M911609,2019-11-24,Rectal Swab,,Escherichia coli,1485,
+M04922,2020-04-14,Sputum,,Elizabethkingia anophelis,-,2020-04-14
+M89669,2018-10-18,Rectal Swab,,Enterococcus faecium,1421,2018-10-17
+M97935,2019-07-28,Urine,,Escherichia coli,131,2019-07-18
+M89668,2018-10-25,Rectal Swab,,Escherichia coli,131,2018-10-25
+M00376,2020-01-06,Calf Wound Swab,,Acinetobacter baumannii,451,2019-12-27
+M13357,2021-04-01,Rectal Swab,,Enterococcus faecium,80,2021-02-24
+M811162,2018-12-10,Rectal Swab,,Enterobacter hormaechei,415,2018-12-05
+M12954,2021-03-19,Blood,,Staphylococcus aureus,1,2021-03-19
+M87658,2016-11-19,Rectal swab,,Klebsiella pneumoniae,392,
+M13995,2021-04-15,Rectal Swab,,Enterococcus faecium,78,2021-03-26
+M96238,2019-06-02,Blood,,Escherichia coli,131,2019-05-30
+M91866,2019-02-01,Rectal Swab,,Enterococcus faecium,17,2019-02-01
+M95760,2019-05-20,Urine,,Escherichia coli,442,
+M86330,2018-01-27,Rectal swab,,Enterococcus faecium,60,
+M07216,2020-08-28,Blood,,Escherichia coli,131,
+M911155,2019-11-16,Perianal Swab,,Escherichia coli,131,2019-11-15
+M86371,2018-06-02,Rectal swab,,Enterococcus faecium,1424,
+M93101,2019-03-09,Urine,,Escherichia coli,131,2019-03-09
+M911160,2019-11-11,Rectal Swab,,Klebsiella pneumoniae,15,2019-11-10
+M910871_2,2019-10-29,Drain Fluid,,Proteus mirabilis,-,2019-10-16
+M87894,2018-08-27,Rectal swab,,Escherichia coli,131,2018-08-20
+M04928,2020-04-07,Blood,,Klebsiella pneumoniae,45,
+M13788,2021-04-15,Rectal Swab,,Klebsiella pneumoniae,17,2021-04-13
+M07586_2,2020-09-15,Sputum,,Enterobacter hormaechei,N/A,2020-09-12
+M17322,2021-10-04,Rectal Swab,,Escherichia coli,131,2021-09-24
+M04913,2020-03-06,Rectal Swab,,Klebsiella pneumoniae,16,
+M98702,2019-08-22,Rectal Swab,,Enterococcus faecium,17,2019-07-29
+M85538,2018-05-16,Rectal swab,,Enterobacter hormaechei,175,2018-05-07
+M94403,2019-04-12,Rectal Swab,,Staphylococcus aureus,93,
+M86937,2018-07-16,Rectal swab,,Enterococcus faecium,555,2018-07-16
+M96476,2019-06-03,Perianal Swab,,Escherichia coli,648,2019-05-24
+M95734,2019-05-15,Perianal Swab,,Staphylococcus aureus,93,2019-05-10
+M12166,2021-02-04,Rectal Swab,,Enterococcus faecium,1424,2021-01-19
+M99419,2019-09-17,Rectal Swab,,Escherichia coli,744,2019-09-14
+M89671_R,2018-10-25,Nasal Swab,,N/A,N/A,2018-10-25
+M01607_1,2020-02-01,In/Out Catheter Urine,,Enterococcus faecium,80,2020-01-20
+M95140,2019-04-29,Blood,,Escherichia coli,131,2019-04-29
+M911375,2019-11-18,Rectal Swab,,Enterococcus faecium,78,2019-11-14
+M99251,2019-09-09,Rectal Swab,,Enterococcus faecium,780,2019-08-22
+M910900,2019-11-04,Rectal Swab,,Escherichia coli,1193,2019-11-03
+M97089,2019-06-29,Urine,,Escherichia coli,69,2019-06-27
+M12680,2021-03-09,Rectal Swab,,Enterococcus faecium,17,2021-03-09
+M82658,2018-02-27,Rectal swab,,Enterobacter hormaechei,528,
+M97743,2019-07-22,Perineal Swab,,Escherichia coli,131,2019-07-21
+M911848,2019-12-03,Nasal Swab,,Staphylococcus aureus,93,2019-12-02
+M810161,2018-11-06,Nasal Swab,,Staphylococcus aureus,5,2018-11-03
+M04912_1,2020-02-24,Rectal Swab,,Klebsiella pneumoniae,17,2020-02-04
+M92191,2019-02-13,Rectal Swab,,Escherichia coli,349,
+M95747,2019-05-17,Abscess Fluid,,Staphylococcus aureus,22,2019-05-15
+M8431,2017-09-26,Rectal swab,,Klebsiella michiganensis,-,2017-09-15
+M95130,2019-05-01,Rectal Swab,,Enterococcus faecium,555,2019-04-30
+M00099,2019-12-13,Urine,,Escherichia coli,131,
+M05121,2020-05-11,Blood,,Enterococcus faecium,17,2020-05-11
+M98156_2,2019-07-28,Flank Skin Tissue,,Citrobacter koseri,-,2019-07-25
+M910675,2019-10-26,Abdominal Mesh,,Enterococcus faecium,17,2019-10-26
+M04943,2020-03-16,Rectal Swab,,Escherichia coli,410,2020-03-13
+M00679,2020-01-14,Rectal Swab,,Escherichia coli,131,2020-01-10
+M8834,2018-01-21,Blood,,Klebsiella quasipneumoniae,196,2018-01-21
+M85132,2018-05-26,Rectal swab,,Klebsiella pneumoniae,3393,2018-05-26
+M98161_1,2019-08-04,Rectal Swab,,Escherichia coli,1494,2019-08-02
+M16337,2021-05-27,Blood,,Staphylococcus aureus,5189,2021-05-27
+M06117,2020-06-16,Rectal Swab,,Enterobacter chengduensis,414,2020-06-08
+M13782,2021-04-06,Rectal Swab,,Enterococcus faecium,NF,2021-03-31
+M98154,2019-07-22,Rectal Swab,,Escherichia coli,410,2019-07-20
+M93663,2019-03-21,Rectal Swab,,Escherichia coli,10,2019-03-21
+M98707,2019-08-02,Blood,,Staphylococcus hominis,1,
+M06116,2020-06-17,Rectal Swab,,Klebsiella pneumoniae,17,
+M912092,2019-12-10,Perianal Swab,,Escherichia coli,131,2019-12-09
+M01538,2019-10-27,"Arm,Right Blood",,Escherichia coli,Ingham Hospital
+M97948,2019-07-22,Nasal Swab,,Staphylococcus aureus,30,2019-07-19
+M92497,2019-02-14,Perianal Swab,,Staphylococcus aureus,5,2019-02-14
+M94944,2019-04-18,Nasal Swab,,Staphylococcus aureus,NF,2019-04-18
+M85781,2018-06-12,Wound / skin / soft tissue,,Staphylococcus aureus,30,2018-06-07
+M97560,2019-07-12,Perianal Swab,,Escherichia coli,10,2019-06-12
+M13567_1,2021-04-08,Rectal Swab,,Klebsiella pneumoniae,219,2021-04-07
+M81382,2018-02-07,Rectal swab,,Escherichia coli,636,2018-02-07
+M95532,2019-05-10,Nostril Abscess Swab,,Staphylococcus aureus,25,
+M87660_1,2018-08-13,Urine,,Escherichia coli,167,
+M87343,2018-08-05,Rectal swab,,Escherichia coli,963,2018-07-25
+M8832,2018-01-29,Rectal swab,,Escherichia coli,349,2018-01-26
+M96715,2019-06-07,Urine,,Escherichia coli,648,
+M911380,2019-11-24,Cardiac Drain Swab,,Klebsiella pneumoniae,39,2019-11-08
+M05852_2,2020-05-09,Blood,,Enterobacter cloacae,NF,2020-04-12
+M96703,2019-06-12,Urine,,Escherichia coli,131,2019-06-12
+M01233,2020-01-26,Catheter Urine,,Escherichia coli,131,
+M92819,2019-03-03,Rectal Swab,,Klebsiella pneumoniae,3009,2019-03-02
+M910485,2019-10-24,Axilla Abscess Swab,,Staphylococcus aureus,93,2019-10-23
+M89287,2018-10-08,Perianal,,Escherichia coli,131,2018-09-04
+M99061,2019-08-26,Rectal Swab,,Klebsiella pneumoniae,1801,2019-08-26
+M84006,2018-04-18,Rectal swab,,Escherichia coli,131,2018-04-18
+M96914,2019-06-17,Urine,,Escherichia coli,95,2019-06-09
+M13340,2021-04-05,Rectal Swab,,Klebsiella pneumoniae,13,2021-03-24
+M16215,2021-07-18,Rectal Swab,,Enterococcus faecium,1424,2021-07-02
+M94415_2,2019-04-08,Bronchial Washings,,Klebsiella pneumoniae,14,2019-04-05
+M04933,2020-02-24,Rectal Swab,,Klebsiella pneumoniae,37,2020-01-27
+M00075,2019-12-23,Blood,,Enterobacter hormaechei,415,2019-11-25
+M910256,2019-10-17,Urine,,Escherichia coli,131,
+M86929,2018-07-11,Rectal swab,,Enterococcus faecium,203,
+M95146_1,2019-05-04,Urine,,Escherichia coli,131,
+M14303_1,2021-04-30,Peripheral Blood,,Escherichia coli,127,
+M910009,2019-10-11,Pleural Fluid,,Staphylococcus aureus,93,2019-10-11
+M97088,2019-06-27,Rectal Swab,,Escherichia coli,656,2019-06-26
+M97760,2019-07-21,Groin Tissue,,Escherichia coli,131,2019-07-19
+M00669,2019-12-28,Pus Swab,,Acinetobacter baumannii,NF,
+M91421,2019-01-10,Anal Swab,,Enterococcus faecium,1421,2019-01-09
+M911167,2019-11-18,Axilla Abscess Swab,,Staphylococcus aureus,93,2019-11-17
+M82624,2018-03-08,Other,"""ICU Detergent Brush""",Klebsiella michiganensis,-,
+M97762,2019-07-15,Urine,,Escherichia coli,131,2019-07-15
+M01215,2019-07-27,Blood,,Enterococcus faecium,17,2019-07-26
+M98507,2019-08-14,Perinephritic Fluid,,Enterococcus faecium,17,2019-08-05
+M93667,2019-03-12,Left Toe Tissue,,Enterobacter hormaechei,90,2019-02-19
+M84015,2018-04-11,Rectal swab,,Escherichia coli,224,2018-04-09
+M96907,2019-06-21,Nasal Swab,,Staphylococcus aureus,188,2019-06-21
+M01601,2020-01-27,Nasal Swab,,Staphylococcus aureus,97,2020-01-27
+M8632_2,2017-12-17,Urine,,Enterobacter hormaechei,830,2017-11-16
+M92831,2019-03-01,Sternum Wound Swab,,Staphylococcus aureus,22,2019-03-01
+M13991,2021-04-19,Rectal Swab,,Enterococcus faecium,78,2021-04-07
+M1553,2021-01-04,Rectal Swab,,Klebsiella pneumoniae,307,2021-01-04
+M91539,2019-01-21,Rectal Swab,,Klebsiella pneumoniae,719,2019-01-21
+M910497,2019-10-29,Nasal Swab,,Staphylococcus aureus,22,2019-08-06
+M98886,2019-08-25,Nasal Swab,,Staphylococcus aureus,93,2019-08-25
+M94220,2019-04-04,Nasal Swab,,Staphylococcus aureus,97,2019-04-04
+M96002,2019-03-03,Faeces,,Enterococcus faecium,1424,2019-02-28
+M82241,2018-03-01,Blood,,Escherichia coli,10,2018-03-01
+M01228_1,2019-03-10,Blood,,Enterococcus faecium,1108,2019-01-31
+M89065_1,2018-09-26,? Collection,,Escherichia coli,155,2018-09-26
+M910023,2019-10-09,Rectal Swab,,Escherichia coli,131,
+M97756,2019-07-15,Nasal Swab,,Staphylococcus aureus,5,2019-07-13
+M09097,2020-11-27,Rectal Swab,,Escherichia coli,457,2020-11-27
+M96698,2019-06-12,Urine,,Corynebacterium striatum,-,
+M81640,2018-02-13,Rectal swab,,Escherichia coli,131,2018-02-13
+M87889_R,2018-08-27,Rectal swab,,N/A,N/A,
+M91877,2019-02-08,Rectal Swab,,Escherichia coli,354,2019-01-13
+M96252,2019-01-25,Joint Fluid,,Burkholderia cenocepacia,1626,
+M910886_1,2019-11-05,Perianal Swab,,Klebsiella pneumoniae,3049,2019-11-03
+M87329,2018-08-02,Blood,,Escherichia coli,349,2018-08-02
+M98193,2019-06-24,Isolate,,Staphylococcus aureus,97,
+M99629,2019-09-28,Buttock Abscess Swab,,Staphylococcus aureus,1,
+M85988,2018-06-13,Blood,,Acinetobacter radioresistens,-,
+M94926,2019-04-21,Rectal Swab,,Enterococcus faecium,78,2019-04-20
+M13798,2021-04-13,Rectal Swab,,Escherichia coli,131,2021-04-01
+M8848,2018-01-25,Other,"""Baby bath drain 1""",Klebsiella michiganensis,-,
+M06376,2020-07-09,Blood,,Escherichia coli,131,
+M85553,2018-05-09,Blood,,Serratia marcescens,-,2018-05-09
+M98863,2019-08-28,Urine,,Escherichia coli,131,
+M09090,2020-11-20,Urine,,Enterobacter hormaechei,175,2020-11-13
+M89061,2018-09-30,Tonsil Swab,,Staphylococcus aureus,6,2018-09-25
+M86166,2018-07-01,Respiratory,,Staphylococcus aureus,5,2018-07-01
+M97301,2019-07-05,Left Hand Tissue,,Staphylococcus aureus,1232,2019-07-05
+M01626,2020-01-30,Blood,,Escherichia coli,131,2020-01-29
+M96911,2019-06-19,Nasal Swab,,Staphylococcus aureus,5,2019-06-19
+M91512,2019-01-29,Left Leg Swab,,Staphylococcus aureus,5,2018-12-28
+M97094,2019-07-01,Perianal Swab,,Escherichia coli,1193,2019-04-04
+M12160,2021-02-20,Endotracheal Aspirate,,Pseudomonas aeruginosa,3118,2021-02-13
+M13987,2021-04-23,Rectal Swab,,Enterococcus faecium,1424,2021-04-11
+M910498,2019-10-21,Rectal Swab,,Enterobacter hormaechei,175,2019-09-30
+M96257,2019-05-29,Urine,,Escherichia coli,69,2019-05-29
+M95139,2019-04-30,Urine,,Escherichia coli,12,2019-04-30
+M810163_R,2018-11-05,Urine,,N/A,N/A,2018-10-25
+M910266,2019-10-19,Foot Tissue,,Staphylococcus aureus,1,2019-10-16
+M97941,2019-07-28,Blood,,Escherichia coli,131,2019-07-28
+M00386,2019-12-28,Fracture Swab,,Staphylococcus aureus,15,
+M97932,2019-07-26,Urine,,Escherichia coli,131,2019-07-08
+M06510,2020-06-30,Blood,,Staphylococcus capitis,NF,
+M89493_R,2018-10-15,Blood,,N/A,N/A,2018-10-16
+M82242,2018-02-26,Other,,Escherichia coli,141,2018-02-22
+M91498,2019-01-03,Nasal Swab,,Staphylococcus aureus,93,2018-12-31
+M99068,2019-09-04,Rectal Swab,,Escherichia coli,224,2019-09-04
+M13980,2021-04-19,Rectal Swab,,Enterococcus faecium,1424,2021-04-05
+M95150,2019-05-07,Rectal Swab,,Klebsiella pneumoniae,13,2019-03-26
+M99060,2019-09-05,Nasal Swab,,Staphylococcus aureus,97,
+M98339,2019-08-08,Perianal Swab,,Staphylococcus aureus,93,2019-08-08
+M82250,2018-02-28,Rectal swab,,Klebsiella pneumoniae,36,2018-02-17
+M84472,2018-05-05,Wound / skin / soft tissue,,Staphylococcus aureus,5,2018-05-01
+M86367,2018-05-26,Urine,,Enterococcus faecium,1424,
+M94942,2019-04-16,Nasal Swab,,Staphylococcus aureus,30,2019-04-14
+M910034,2019-10-12,Nasal Swab,,Staphylococcus aureus,25,
+M97741,2019-07-16,Rectal Swab,,Escherichia coli,131,2019-07-16
+M95756,2018-12-27,Blood,,Corynebacterium striatum,-,
+M86359,2018-04-13,Urine,,Enterococcus faecium,1421,
+M14172,2021-04-26,Rectal Swab,,Klebsiella pneumoniae,846,2021-04-08
+M910014,2019-10-07,Rectal Swab,,Enterococcus faecium,78,2019-09-29
+M87138,2018-07-27,Rectal swab,,Enterococcus faecium,203,2018-06-29
+M92520,2019-02-18,Left Knee Tissue,,Acinetobacter baumannii,195,2019-01-21
+M912102,2019-12-11,Rectal Swab,,Enterococcus faecium,78,2019-10-02
+M910666,2019-11-02,Abscess Swab,,Staphylococcus aureus,30,2019-11-01
+M96463_2,2019-05-31,Stoma Swab,,Enterococcus faecium,203,
+M91880,2019-02-10,Groin Drain Fluid,,Staphylococcus aureus,59,2019-01-23
+M01521,2019-02-05,Blood,,Escherichia coli,131,
+M97748,2019-07-22,Rectal Swab,,Escherichia coli,4553,2019-07-19
+M99404,2019-09-23,Urine,,Escherichia coli,131,
+M910261,2019-10-16,Nasal Swab,,Staphylococcus aureus,239,2019-09-25
+M04952,2020-02-12,Hand Tissue,,Staphylococcus aureus,93,2020-02-07
+M00957,2020-01-20,Rectal Swab,,Escherichia coli,131,2020-01-18
+M99632,2019-09-29,Nasal Swab,,Staphylococcus aureus,5,2019-09-28
+M06250_R,2020-06-23,Rm 4 Drain,ENVRB000318,Enterobacter hormaechei,66,
+M8633,2018-01-04,Urine,,Enterobacter hormaechei,415,2017-12-29
+M00955,2020-01-15,Axilla Abscess Swab,,Staphylococcus aureus,93,2020-01-14
+M00084_2,2019-12-24,Periph.Ins.Central Catheter Tip,,Escherichia coli,131,2019-12-03
+M07217,2020-08-20,W2E Shower Sink Room,ENVCPA200820,Pseudomonas aeruginosa,620,
+M11207,2021-01-28,Urine,,Enterobacter hormaechei,133,
+M91846,2019-02-04,Perianal Swab,,Escherichia coli,648,2018-12-20
+M05855,2020-06-14,Blood,,Escherichia coli,131,
+M95133,2019-04-15,Urine,,Staphylococcus aureus,5,
+M11908,2021-02-17,Rectal Swab,,Klebsiella pneumoniae,4007,2021-02-12
+M95740_2,2019-05-18,Abdomen Fluid,,Klebsiella pneumoniae,23,2019-05-05
+M92206,2019-02-15,Urine,,Klebsiella pneumoniae,429,2019-02-15
+M81094,2018-01-30,Rectal swab,,Escherichia coli,12,2018-01-29
+M05577,2020-05-29,Blood,,Escherichia coli,131,2020-05-24
+M99414,2019-09-16,Rectal Swab,,Klebsiella pneumoniae,348,2019-06-05
+M92551,2019-02-24,Nasal Swab,,Staphylococcus aureus,93,2019-02-24
+M91419,2019-01-06,Rectal Swab,,Enterococcus faecium,17,2018-12-30
+M910263,2019-10-18,Pleural Fluid,,Staphylococcus aureus,93,2019-10-17
+M82240,2018-03-03,Blood,,Klebsiella pneumoniae,13,2018-02-23
+M85787,2018-06-18,Rectal swab,,Klebsiella pneumoniae,133,2018-06-15
+M1240,2020-12-25,Urine,,Enterobacter hormaechei,68,2020-12-18
+M99259,2019-09-14,Blood,,Staphylococcus aureus,22,2019-09-14
+M16336,2021-05-13,Blood,,Staphylococcus aureus,398,
+M04953,2020-03-17,Rectal Swab,,Klebsiella pneumoniae,515,2019-12-27
+M98348,2019-08-12,Perianal Swab,,Klebsiella pneumoniae,1198,2019-07-25
+M00093_2,2019-12-28,Kidney Urine,,Klebsiella oxytoca,NF,2019-12-28
+M12675,2021-03-06,Rectal Swab,,Enterococcus faecium,1424,2021-03-03
+M13979,2021-04-16,Rectal Swab,,Enterococcus faecium,1424,2021-04-15
+M93102,2019-03-10,Rectal Swab,,Klebsiella pneumoniae,NF,2019-03-10
+M86931,2018-07-21,Respiratory,,Staphylococcus aureus,5,2018-07-21
+M84248,2018-04-25,Rectal swab,,Escherichia coli,131,2018-04-25
+M810156,2018-11-04,Rectal Swab,,Enterococcus faecium,1421,2018-11-04
+M1962,2021-01-25,Perianal Swab,,Escherichia coli,131,2021-01-22
+M13794_2,2021-04-10,Rectal Swab,,Enterobacter hormaechei,NF,2021-04-10
+M01605,2020-01-31,Rectal Swab,,Enterococcus faecium,80,2020-01-31
+M91499,2019-01-03,Retroperitoneal Aspirate,,Staphylococcus aureus,93,2019-01-03
+M910490,2019-10-22,Abdomen Swab,,Staphylococcus aureus,634,2019-10-22
+M91500,2019-01-04,Nasal Swab,,Staphylococcus aureus,5,2019-01-01
+M87131,2018-07-25,Blood,,Escherichia coli,648,2018-06-21
+M95530,2019-05-10,Nasal Swab,,Staphylococcus aureus,1,2019-05-10
+M99828,2019-09-30,Rectal Swab,,Enterobacter hormaechei,415,2019-09-01
+M911614,2019-11-28,Nasal Swab,,Staphylococcus aureus,93,2019-11-27
+M97077,2019-06-24,Nasal Swab,,Staphylococcus aureus,93,2019-06-24
+M912091,2019-12-09,Perianal Swab,,Escherichia coli,69,2019-12-07
+M12148,2021-02-24,Anal Swab,,Enterococcus faecium,1424,2021-02-12
+M88199,2018-09-06,Respiratory,,Staphylococcus aureus,1,2018-09-06
+M96260_1,2019-05-26,Urine,,Escherichia coli,38,
+M93114,2019-03-04,Nasal Swab,,Staphylococcus aureus,5,2019-02-10
+M84898,2018-05-21,Rectal swab,,Klebsiella pneumoniae,1661,2018-05-17
+M96012,2019-05-22,Nasal Swab,,Staphylococcus aureus,5,2019-05-22
+M84001,2018-04-02,Respiratory,,Staphylococcus aureus,88,2018-03-18
+M13360,2021-03-30,Rectal Swab,,Enterococcus faecium,1424,2021-03-29
+M91495,2019-01-18,Forearm Swab,,Staphylococcus aureus,93,2019-01-18
+M98705,2019-08-23,Urine,,Escherichia coli,131,2019-08-23
+M00695,2020-01-10,Rectal Swab,,Escherichia coli,457,2020-01-10
+M84259,2018-04-26,Respiratory,,Staphylococcus aureus,5,2018-04-22
+M00368_2,2020-01-01,Urine,,Escherichia coli,10,2019-12-12
+M12956_2,2021-03-16,Environmental Swab,Rooms 7-10 Drains,Enterobacter hormaechei,110,
+M96248,2019-05-29,Leg wound Fluid,,Staphylococcus aureus,93,2019-05-27
+M810630,2018-11-19,Nasal Swab,,Staphylococcus aureus,22,2018-11-18
+M85340_2,2018-05-31,Rectal swab,,Klebsiella pneumoniae,353,2018-05-31
+M911379,2019-11-20,Rectal Swab,,Escherichia coli,3877,
+M94952,2019-04-15,Perianal Swab,,Escherichia coli,73,2019-02-26
+M88657,2018-09-22,Wound / skin / soft tissue,,Staphylococcus aureus,NF,
+M81636,2018-02-16,Rectal swab,,Escherichia coli,648,2018-02-15
+M96906,2019-06-20,Nasal Swab,,Staphylococcus aureus,59,2019-06-19
+M01616,2020-02-02,Foot Wound Swab,,Staphylococcus aureus,93,
+M91486,2018-12-15,Rectal Swab,,Escherichia coli,131,2018-03-25
+M94223,2019-04-01,Rectal Swab,,Enterococcus faecium,1424,2019-03-22
+M92500,2019-02-17,Nasal Swab,,Staphylococcus aureus,1,2019-02-17
+M86930,2018-07-17,Respiratory,,Staphylococcus aureus,22,2018-07-16
+M04936_2,2020-02-11,Rectal Swab,,Citrobacter freundii,18,2020-02-10
+M910031,2019-10-11,Rectal Swab,,Escherichia coli,38,2019-10-11
+M00092,2019-12-15,Nasal Swab,,Staphylococcus aureus,5,2019-12-14
+M87333,2018-08-05,Blood,,Klebsiella pneumoniae,17,2018-08-03
+M810380,2018-11-11,Urine,,Citrobacter freundii,125,
+M06973,2020-08-04,Rectal Swab,,Klebsiella pneumoniae,1927,2020-08-04
+M910487,2019-10-28,Abscess Swab,,Staphylococcus aureus,30,
+M08142,2020-10-07,Anal Swab,,Enterobacter cloacae,191,2020-10-07
+M95748,2019-05-18,Rectal Swab,,Enterococcus faecium,17,2019-05-17
+M85134_1,2018-05-22,Rectal swab,,Escherichia coli,156,2018-05-21
+M16211,2021-08-08,Rectal Swab,,Enterococcus faecium,1424,2021-07-24
+M84681,2018-05-13,Respiratory,,Staphylococcus aureus,NF,2018-04-24
+M93922,2019-03-25,Nasal Swab,,Staphylococcus aureus,30,2019-03-25
+M82257,2018-03-05,Other,"""Detergent Nurses Station""",Klebsiella michiganensis,-,
+M85548,2018-06-11,Rectal swab,,Escherichia coli,131,2018-04-27
+M98353,2019-08-07,Nasal Swab,,Staphylococcus aureus,5,2019-08-07
+M92832,2019-03-02,Axilla Swab,,Staphylococcus aureus,93,2019-03-02
+M91533,2019-01-09,Urine,,Escherichia coli,69,2018-12-28
+M87666,2018-08-16,Urine,,Escherichia coli,131,2018-08-16
+M910933_3,2019-11-04,Drain Swab,,Escherichia coli,1193,2019-10-18
+M13791,2021-04-13,Rectal Swab,,Enterococcus faecium,1424,2021-04-05
+M86927,2018-07-14,Rectal swab,,Enterococcus faecium,1421,2018-07-10
+M98190,2019-06-18,Isolate,,Staphylococcus aureus,88,
+M11454,2021-02-01,Rectal Swab,,Enterobacter bugandensis,599,2021-01-04
+M85545,2018-06-07,Rectal swab,,Escherichia coli,12,2018-06-06
+M83130,2018-03-26,Wound / skin / soft tissue,,Staphylococcus aureus,8,2018-03-14
+M97742,2019-07-22,Rectal Swab,,Escherichia coli,10,2019-07-17
+M89053,2018-10-02,Perianal,,Staphylococcus aureus,1,2018-05-20
+M14299,2021-05-09,Perianal Swab,,Escherichia coli,131,2021-05-09
+M92837,2019-03-01,Knee Lesion Swab,,Staphylococcus aureus,1,2019-02-28
+M14310,2021-05-06,Anal Swab,,Enterobacter asburiae,24,2021-05-06
+M14170,2021-04-27,Blood,,Staphylococcus aureus,93,
+M99420,2019-09-23,Perianal Swab,,Escherichia coli,131,2019-09-23
+M92822,2019-03-01,Blood,,Staphylococcus aureus,93,2019-02-27
+M82249,2018-02-27,Rectal swab,,Escherichia coli,4553,2018-02-27
+M910665_1,2019-10-29,Rectal Swab,,Enterococcus faecium,78,2019-10-22
+M86376,2018-06-20,Blood,,Enterococcus faecium,1424,2018-05-28
+M95147,2019-05-06,Perianal Swab,,Escherichia coli,131,2019-04-06
+M00389,2019-12-27,Nasal Swab,,Staphylococcus aureus,188,2019-12-27
+M84010,2018-04-04,Rectal swab,,Escherichia coli,131,2018-04-04
+M87678,2018-08-11,Blood,,Klebsiella pneumoniae,4411,
+M16212,2021-08-05,Rectal Swab,,Klebsiella pneumoniae,147,2021-07-13
+M810886,2018-11-28,Rectal Swab,,Klebsiella pneumoniae,29,2018-11-28
+M15791,2021-06-15,Rectal Swab,,Enterococcus faecium,1424,2021-06-07
+M94228,2019-03-13,Nasal Swab,,Staphylococcus aureus,97,2019-03-13
+M86652,2018-07-09,Rectal swab,,Klebsiella pneumoniae,NF,2018-06-28
+M911385,2019-11-19,Axilla Abscess Swab,,Staphylococcus aureus,93,
+M05579,2020-05-30,Blood,,Escherichia coli,648,
+M87353,2018-08-05,Rectal swab,,Escherichia coli,131,
+M93659,2019-03-26,Rectal Swab,,Escherichia coli,131,
+M910672,2019-10-31,Nasal Swab,,Staphylococcus aureus,93,2019-10-29
+M98523,2019-08-12,Urine,,Escherichia coli,131,2019-08-01
+M99257,2019-09-11,Blood,,Staphylococcus aureus,5,
+M06002,2020-06-21,Blood,,Escherichia coli,N/A,
+M95128,2019-04-29,Rectal Swab,,Enterococcus faecium,623,2019-04-29
+M92827,2019-03-01,Rectal Swab,,Escherichia coli,1193,2019-03-01
+M96261,2019-05-26,Urine,,Klebsiella pneumoniae,340,2019-05-26
+M98149,2019-07-27,Rectal Swab,,Enterococcus faecium,17,2019-07-27
+M810377,2018-11-20,Blood,,Enterococcus faecium,1421,2018-10-25
+M810624,2018-11-26,Rectal Swab,,Enterococcus faecium,80,2018-11-22
+M93934,2019-03-05,Urine,,Escherichia coli,131,2019-02-04
+M95764,2019-05-15,Rectal Swab,,Enterococcus faecium,555,2019-05-15
+M13569,2021-04-09,Rectal Swab,,Escherichia coli,1312,2021-04-02
+M911377,2019-11-18,Endotracheal Aspirate,,Klebsiella pneumoniae,1412,2019-09-10
+M94414,2019-04-04,Urine,,Escherichia coli,405,2019-04-04
+M8846,2018-01-21,Rectal swab,,Escherichia coli,88,2018-01-16
+M89493,2018-10-15,Blood,,Escherichia coli,1193,2018-10-16
+M95528,2019-05-08,Nasal Swab,,Staphylococcus aureus,5,2019-05-08
+M99249,2019-09-09,Rectal Swab,,Enterococcus faecium,1424,2019-08-29
+M910502,2019-10-22,Urine,,Escherichia coli,1193,
+M910661_2,2019-10-28,Toe Swab,,Staphylococcus aureus,5,2019-10-08
+M07095,2020-08-14,Urine,,Enterobacter hormaechei,415,
+M00081,2019-12-14,Urine,,Escherichia coli,69,
+M911611,2019-11-29,Rectal Swab,,Escherichia coli,69,
+M88421,2018-09-06,Rectal swab,,Klebsiella pneumoniae,54,2018-09-06
+M84013,2018-04-07,Rectal swab,,Escherichia coli,10,2018-04-07
+M88425_1,2018-09-04,Rectal swab,,Klebsiella pneumoniae,147,
+M01617,2020-02-03,Head Wound Swab,,Staphylococcus aureus,88,
+M93115,2019-03-05,Nasal Swab,,Staphylococcus aureus,1,
+M99819,2019-10-03,Nasal Swab,,Staphylococcus aureus,1,2019-10-03
+M96001,2019-02-25,Faeces,,Enterococcus faecium,1424,2019-02-07
+M99815,2019-10-07,Nasal Swab,,Staphylococcus aureus,78,2019-10-07
+M911846,2019-12-05,Urine,,Escherichia coli,12,
+M01621,2020-01-29,Rectal Swab,,Escherichia coli,131,2020-01-28
+M97751,2019-07-15,Abscess Swab,,Staphylococcus aureus,1232,
+M89505,2018-10-15,Nasal Swab,,Staphylococcus aureus,97,2018-10-12
+M91501,2019-01-07,Nasal Swab,,Staphylococcus aureus,78,2018-07-10
+M87351,2018-08-02,Rectal swab,,Escherichia coli,131,
+M94943,2019-04-08,Manubrium Tissue,,Staphylococcus aureus,93,2019-03-26
+M96908,2019-06-21,Skin Swab,,Staphylococcus aureus,1232,2019-06-21
+M88037,2018-09-03,Rectal swab,,Escherichia coli,963,2018-07-25
+M81637,2018-02-19,Rectal swab,,Escherichia coli,131,2018-02-15
+M00068,2019-12-23,Toe Bone,,Corynebacterium striatum,-,
+M910258,2019-10-17,Perianal Swab,,Citrobacter freundii,22,2019-10-17
+M89280,2018-10-06,,,Staphylococcus aureus,59,2018-10-05
+M13346,2021-03-29,Perianal Swab,,Escherichia coli,1193,2021-03-27
+M01513,2019-07-31,Blood,,Escherichia coli,131,2019-07-30
+M15787,2021-05-19,Rectal Swab,,Enterococcus faecium,1424,2021-05-09
+M95754,2016-08-02,Blood,,Corynebacterium striatum,-,
+M8838,2018-01-29,Rectal swab,,Escherichia coli,2165,2018-01-25
+M910935,2019-11-05,Nasal Swab,,Staphylococcus aureus,1,2019-10-11
+M99058,2019-09-02,Blood,,Staphylococcus aureus,5,2019-08-30
+M99811,2019-10-01,Lip Wound Swab,,Staphylococcus aureus,93,
+M82652,2018-03-11,Rectal swab,,Escherichia coli,1193,2018-03-09
+M89666,2018-10-23,Perianal Swab,,Escherichia coli,131,2018-10-18
+M96009,2019-05-21,Rectal Swab,,Enterococcus faecium,1421,2019-05-21
+M89064,2018-10-04,Wound,,Klebsiella pneumoniae,15,2018-10-04
+M97936,2019-07-23,Endotracheal Aspirate,,Escherichia coli,131,2019-07-21
+M82253,2018-02-26,Rectal swab,,Escherichia coli,131,2018-02-02
+M99613,2019-09-21,Vitreous Fluid,,Staphylococcus aureus,5,2019-09-21
+M910048,2019-09-21,Blood,,Enterococcus faecium,17,2019-09-12
+M91510,2018-12-28,Sternum Tissue,,Staphylococcus aureus,5,2018-12-28
+M92840,2019-03-03,Tracheostomy Swab,,Staphylococcus aureus,15,2019-02-13
+M88411,2018-09-11,Respiratory,,Staphylococcus aureus,1,
+M1239,2020-12-21,Rectal Swab,,Escherichia coli,1193,2020-12-21
+M96696,2019-06-07,Finger Tissue,,Corynebacterium striatum,-,
+M96477,2019-06-06,Perineum Swab,,Escherichia coli,1722,2019-06-06
+M89672_R,2018-10-26,Nasal Swab,,N/A,N/A,2018-10-26
+M92829,2019-03-04,Rectal Swab,,Escherichia coli,38,2019-03-02
+M87672,2018-08-05,Rectal swab,,Enterococcus faecium,17,2018-08-03
+M04931,2020-02-10,Rectal Swab,,Klebsiella pneumoniae,497,2020-01-22
+M95753,2019-05-13,Foot Bone,,Corynebacterium striatum,-,
+M97081,2019-07-02,Abscess Swab,,Staphylococcus aureus,93,2019-07-02
+M87128,2018-07-20,Urine,,Escherichia coli,69,2018-07-20
+M97575,2019-07-11,Nasal Swab,,Staphylococcus aureus,1,2019-07-10
+M94928,2019-04-25,Rectal Swab,,Enterococcus faecium,39,2019-04-24
+M910894,2019-11-05,Nasal Swab,,Staphylococcus aureus,149,2019-11-03
+M13789,2021-04-16,Blood,,Escherichia coli,131,
+M89288,2018-10-08,? Collection,,Enterobacter bugandensis,599,2018-10-07
+M85544,2018-06-12,Rectal swab,,Escherichia coli,1193,2018-06-08
+M95763,2019-05-15,Rectal Swab,,Enterococcus faecium,17,2019-05-10
+M910676_1,2019-10-29,Urine,,Escherichia coli,38,
+M93668,2019-03-18,Blood,,Escherichia coli,131,2019-03-19
+M07324,2020-09-01,No Site specified Isolate,,Pseudomonas aeruginosa,235,
+M91886,2019-02-04,Rectal Swab,,Escherichia coli,38,2018-12-11
+M92498,2019-02-14,Nasal Swab,,Staphylococcus aureus,87,2019-02-14
+M8829,2018-01-29,Rectal swab,,Klebsiella pneumoniae,133,2018-01-26
+M93378,2019-03-11,Endotracheal Aspirate,,Klebsiella aerogenes,-,2019-02-26
+M911857,2019-12-02,Urine,,Escherichia coli,131,
+M87341,2018-08-03,Wound / skin / soft tissue,,Acinetobacter baumannii,1050,2018-08-04
+M95149,2019-05-07,Nasal Swab,,Staphylococcus aureus,97,2019-05-07
+M96015,2019-05-20,Urine,,Escherichia coli,12,2019-05-16
+M81387,2018-02-05,Rectal swab,,Escherichia coli,315,2018-02-04
+M88659,2018-09-21,Endotracheal Aspirate,,Acinetobacter baumannii,1050,2018-09-06
+M93664,2019-03-21,Rectal Swab,,Escherichia coli,223,
+M99393,2019-09-13,Nasal Swab,,Staphylococcus aureus,1,2019-09-12
+M01618_1,2020-01-31,Peg Site Wound Swab,,Staphylococcus aureus,1,2020-01-31
+M910007,2019-10-09,Faeces,,Proteus mirabilis,-,
+M911597,2019-12-02,Buttock Abscess Swab,,Staphylococcus aureus,93,2019-12-02
+M910938_2,2019-10-29,Rectal Swab,,Escherichia coli,1316,2019-10-29
+M94955,2019-04-25,Rectal Swab,,Escherichia coli,38,2019-04-24
+M09081,2020-11-25,Perianal Swab,,Escherichia coli,636,2020-11-25
+M87890_R,2018-08-28,Respiratory,,N/A,N/A,
+M96469,2019-06-09,Abscess Swab,,Staphylococcus aureus,93,2019-06-09
+M07967,2020-10-07,Rectal Swab,,Klebsiella pneumoniae,870,2020-10-07
+M05285,2020-05-07,Rectal Swab,,Enterobacter hormaechei,66,2020-05-06
+M910013,2019-10-07,Rectal Swab,,Staphylococcus aureus,22,2019-09-19
+M01613,2020-01-31,Leg Abscess Swab,,Staphylococcus aureus,93,2020-01-31
+M09437,2020-12-12,Perianal Swab,,Escherichia coli,10,2020-12-09
+M98162,2019-08-05,Rectal Swab,,Escherichia coli,131,2019-06-26
+M01597,2020-01-28,Blood,,Escherichia coli,1193,
+M04923,2020-04-15,Urine,,Klebsiella pneumoniae,15,2020-04-02
+M13576,2021-04-05,Rectal Swab,,Enterococcus faecium,1424,2021-03-22
+M84243,2018-04-20,Rectal swab,,Escherichia coli,131,2018-04-20
+M91850,2019-01-29,Urine,,Escherichia coli,131,2019-01-29
+M911373,2019-11-18,Rectal Swab,,Enterococcus faecium,78,2019-11-05
+M910888,2019-11-04,Rectal Swab,,Enterococcus faecium,78,2019-10-31
+M810154,2018-11-07,Rectal Swab,,Enterococcus faecium,78,2018-11-05
+M92839,2019-03-02,Nasal Swab,,Staphylococcus aureus,188,2019-02-28
+M98698,2019-08-21,Nasal Swab,,Staphylococcus aureus,72,
+M86431,2018-07-09,Rectal swab,,Escherichia coli,38,2018-07-08
+M86923,2018-07-23,Blood,,Escherichia coli,131,2018-07-23
+M93924,2019-03-23,Rectal Swab,,Enterococcus faecium,78,2019-03-23
+M92496,2019-02-22,Nasal Abscess Pus,,Staphylococcus aureus,93,2019-02-22
+M00671,2020-01-09,Ankle Wound Tissue,,Escherichia coli,131,2020-01-09
+M85777,2018-06-14,Urine,,Klebsiella pneumoniae,22,2018-06-05
+M00968,2020-01-15,Perianal Abscess Swab,,Escherichia coli,1193,2020-01-15
+M912099,2019-12-12,Nasal Swab,,Staphylococcus aureus,93,2019-11-24
+M15941,2021-07-15,Rectal Swab,,Enterococcus faecium,1424,2021-07-15
+M89054,2018-10-02,Nasal,,Staphylococcus aureus,78,2018-09-20
+M98506,2019-08-15,Perianal Swab,,Escherichia coli,7514,2019-08-14
+M16210,2021-08-02,Rectal Swab,,Enterococcus faecium,80,2021-07-16
+M92508,2019-02-18,Perianal Swab,,Escherichia coli,131,2019-02-15
+M99623,2019-09-25,Nasal Swab,,Staphylococcus aureus,5,2019-09-25
+M00062,2019-12-20,Blood,,Enterococcus faecium,17,2019-12-05
+M911844,2019-12-05,Urine,,Escherichia coli,1193,2019-12-05
+M910278,2019-10-14,Rectal Swab,,Enterobacter hormaechei,90,2019-10-07
+M910276,2019-10-14,Ileostomy Bag 1 Swab,,Escherichia coli,167,2019-10-02
+M81093_2,2018-01-31,Rectal swab,,Escherichia coli,38,2018-01-31
+M811149,2018-12-03,Rectal Swab,,Klebsiella pneumoniae,307,2018-11-26
+M94209,2019-04-02,Nasal Swab,,Staphylococcus aureus,22,2019-04-02
+M84009,2018-04-16,Rectal swab,,Escherichia coli,10,2018-04-07
+M95540,2019-05-12,Urine,,Escherichia coli,657,2019-05-12
+M94948,2019-04-26,Nasal Swab,,Staphylococcus aureus,NF,2019-04-25
+M87656_1,2017-05-17,Urine,,Enterobacter bugandensis,-,2018-05-17
+M92495,2019-02-22,Blood,,Pseudomonas aeruginosa,235,2019-02-22
+M01602,2020-01-27,Rectal Swab,,Klebsiella oxytoca,178,2020-01-13
+M89498,2018-10-22,Perianal Swab,,Escherichia coli,131,2018-10-19
+M14304,2021-04-25,Blood,,Escherichia coli,131,2021-04-25
+M07323,2020-08-25,Rectal Swab,,Citrobacter freundii,185,2020-08-25
+M12155,2020-12-28,Rectal Swab,,Enterococcus faecium,1424,2020-12-04
+M89501,2018-10-14,Blood,,Staphylococcus aureus,97,2018-09-02
+M910901,2019-10-31,Nasal Swab,,Staphylococcus aureus,1,2019-10-31
+M87140_3,2018-07-27,Wound / skin / soft tissue,,Staphylococcus aureus,22,2018-07-25
+M810159,2018-11-12,"Right,Hip Tissue",,Staphylococcus aureus,Princess Alexandra Hospital
+M00945,2020-01-12,Rectal Swab,,Enterococcus faecium,78,2020-01-08
+M12164,2021-02-02,Rectal Swab,,Enterococcus faecium,1424,2021-02-02
+M811153,2018-12-04,Rectal Swab,,Enterococcus faecium,1421,2018-12-03
+M95142,2019-04-30,Rectal Swab,,Escherichia coli,131,2019-04-30
+M91497,2019-01-18,Axilla Swab,,Staphylococcus aureus,30,2019-01-18
+M84019,2018-04-14,Urine,,Klebsiella oxytoca,135,2018-03-21
+M91865,2019-02-03,Nasal Swab,,Staphylococcus aureus,93,2019-02-02
+M14300,2021-05-02,Rectal Swab,,Klebsiella pneumoniae,29,2021-04-29
+M81090,2018-01-30,Other,"""Baby Bath 1""",Klebsiella michiganensis,-,
+M95749,2019-05-14,Nasal Swab,,Staphylococcus aureus,97,2019-01-29
+M88663_1,2018-09-24,Rectal swab,,Escherichia coli,1193,
+M97755,2019-07-20,Abscess Swab,,Staphylococcus aureus,93,2019-07-21
+M94410,2019-03-27,Nasal Swab,,Staphylococcus aureus,5,2019-03-27
+M05851,2020-06-12,Swab,,Klebsiella pneumoniae,13,2020-06-12
+M96701,2019-06-17,Nasal Swab,,Staphylococcus aureus,5,2019-06-12
+M95745,2019-05-21,Urine,,Corynebacterium striatum,-,
+M911845,2019-12-03,Rectal Swab,,Klebsiella pneumoniae,133,2019-12-03
+M91487,2018-12-21,7BW - Swab RM 32-36 Shower Drain,,Enterobacter hormaechei,175,
+M1963,2021-01-25,Perianal Swab,,Escherichia coli,131,2021-01-22
+M85542,2018-06-11,Rectal swab,,Escherichia coli,141,2018-06-07
+M810367,2018-11-14,Perianal Swab,,Staphylococcus aureus,22,2018-10-22
+M11909,2021-02-17,Urine,,Escherichia coli,14,2021-02-17
+M86338,2018-02-16,Rectal swab,,Enterococcus faecium,1421,2018-02-15
+M14174,2021-04-26,Rectal Swab,,Klebsiella pneumoniae,307,2021-04-21
+M89662,2018-10-23,Urine,,Enterobacter hormaechei,90,2018-10-22
+M98874,2019-08-29,Urine,,Escherichia coli,1193,2019-08-29
+M82657,2018-03-08,Rectal swab,,Escherichia coli,131,2018-03-08
+M92178_1,2019-02-11,Rectal Swab,,Escherichia coli,68,2018-12-28
+M89916,2018-10-22,Rectal Swab,,Acinetobacter baumannii,1418,2018-10-22
+M810887,2018-11-29,Rectal Swab,,Enterococcus faecium,1421,2018-11-29
+M86357,2018-04-03,Urine,,Enterococcus faecium,1424,2018-03-06
+M86436,2018-06-27,Rectal swab,,Escherichia coli,648,2018-06-27
+M89066_2,2018-09-30,? Collection,,Klebsiella pneumoniae,45,2018-09-30
+M98513,2019-08-19,Nasal Swab,,Staphylococcus aureus,1,2019-08-13
+M97572,2019-07-13,Heel Tissue,,Staphylococcus aureus,22,2019-06-05
+M01537,2019-10-23,Blood,,Escherichia coli,131,
+M12149,2021-01-25,Rectal Swab,,Enterococcus faecium,1424,2021-01-25
+M07586_1,2020-09-15,Sputum,,Klebsiella pneumoniae,N/A,2020-09-12
+M88408,2018-09-11,Respiratory,,Staphylococcus aureus,78,
+M98868,2019-09-02,Rectal Swab,,Escherichia coli,73,2019-08-10
+M98879_2,2019-08-27,Urine,,Escherichia coli,131,
+M97569,2019-07-09,Rectal Swab,,Escherichia coli,2852,2019-07-09
+M05117,2019-10-05,Pancreatic Tissue,,Pseudomonas aeruginosa,214,2019-06-26
+M99262,2019-09-15,Urine,,Escherichia coli,131,
+M810627,2018-11-26,Rectal Swab,,Enterococcus faecium,1421,2018-11-06
+M08773,2020-11-12,Urine,,Enterobacter hormaechei,415,
+M86078,2018-01-26,Blood,,Staphylococcus aureus,93,2018-01-25
+M93108,2019-03-04,Finger Swab,,Staphylococcus aureus,93,2019-03-05
+M00672,2020-01-09,Rectal Swab,,Escherichia coli,131,2019-12-27
+M00097,2019-12-26,Elbow Wound Swab,,Staphylococcus aureus,5,2019-12-22
+M95767,2019-05-09,Rectal Swab,,Enterobacter hormaechei,66,2019-05-09
+M95538,2019-05-10,Urine,,Escherichia coli,131,
+M97302,2019-06-28,Rectal Swab,,Klebsiella pneumoniae,2167,
+M81373,2018-01-28,Wound / skin / soft tissue,,Klebsiella pneumoniae,395,2018-01-17
+M85989,2018-06-20,Blood,,Escherichia coli,131,2018-06-20
+M99623_R,2019-09-25,Nasal Swab,,N/A,N/A,2019-09-25
+M911861,2019-12-03,Perineum Swab,,Escherichia coli,1722,2019-12-03
+M01244,2020-01-21,Urine,,Escherichia coli,12,
+M87336_2,2018-08-02,Rectal swab,,Klebsiella pneumoniae,37,2018-07-22
+M82755,2018-03-16,Rectal,,Escherichia coli,8590,2018-03-15
+M911382,2019-11-17,Nasal Swab,,Staphylococcus aureus,22,2019-11-12
+M96904,2019-06-18,Nasal Swab,,Staphylococcus aureus,30,2019-06-18
+M91863,2019-02-07,Deep Buttock Swab,,Staphylococcus aureus,239,2019-02-07
+M91536,2018-12-29,Blood,,Escherichia coli,68,2018-12-30
+M01515,2019-11-30,Blood,,Escherichia coli,131,
+M09096,2020-11-26,Baby Bath Drain Special Care Nursery,ENVCB000986,Escherichia coli,6897,
+M97085,2019-06-29,Urine,,Escherichia coli,131,2019-06-29
+M96921,2019-06-19,Rectal Swab,,Escherichia coli,131,2019-06-12
+M85546,2018-06-11,Rectal swab,,Escherichia coli,131,2018-05-31
+M16432,2021-08-19,Rectal Swab,,Enterococcus faecium,1424,2021-08-15
+M00371,2020-01-03,Urine,,Escherichia coli,1193,2019-12-30
+M87656_2,2017-05-17,Urine,,Citrobacter freundii,125,2017-05-17
+M06254_1,2020-07-01,Rm 14 Drain,ENVRB000318,Enterobacter hormaechei,66,
+M85135,2018-05-23,Rectal swab,,Klebsiella pneumoniae,45,2018-05-31
+M15794,2021-06-28,Rectal Swab,,Enterococcus faecium,1424,2021-06-14
+M911169,2019-11-18,Abscess Swab,,Staphylococcus aureus,93,
+M13580,2021-04-05,Rectal Swab,,Enterococcus faecium,1424,2021-03-12
+M910049,2019-09-17,Blood,,Enterococcus faecium,17,2019-09-07
+M96480_1,2019-06-07,Urine,,Escherichia coli,73,2019-05-30
+M01509,2019-07-07,Venous Blood,,Escherichia coli,131,
+M13786,2021-04-13,Rectal Swab,,Escherichia coli,131,2021-03-30
+M83141,2018-03-25,Rectal swab,,Escherichia coli,714,2018-03-25
+M07468,2020-09-13,Rectal Swab,,Enterobacter chengduensis,414,2020-09-13
+M86336,2018-02-09,Urine,,Enterococcus faecium,203,2018-02-07
+M96912,2019-06-17,Perianal Swab,,Staphylococcus aureus,78,2019-06-16
+M810150,2018-11-05,Perianal Swab,,Escherichia coli,401,2018-10-29
+M08914,2020-03-19,Rectal Swab,,Enterococcus faecium,80,2020-03-15
+M93107,2019-03-04,Nasal Swab,,Staphylococcus aureus,45,2019-03-02
+M910507,2019-10-24,Rectal Swab,,Escherichia coli,349,
+M12437,2021-03-07,Blood,,Staphylococcus aureus,93,
+M810382,2018-11-18,Urine,,Escherichia coli,131,
+M05853,2020-06-01,Room 8 Drain,ENVRB000318,Klebsiella oxytoca,NF,
+M12167,2021-01-03,Rectal Swab,,Enterococcus faecium,1424,2020-12-31
+M05118,2020-04-28,Rectal Swab,,Klebsiella pneumoniae,37,2020-04-14
+M87660_2,2018-08-13,Urine,,Escherichia coli,167,
+M84891,2018-05-18,Respiratory,,Staphylococcus aureus,59,2018-05-02
+M911367,2019-11-16,Graft Tissue,,Escherichia coli,38,2019-11-16
+M14309,2021-05-05,Rectal Swab,,Escherichia coli,224,2021-05-01
+M912082,2019-12-11,Rectal Swab,,Klebsiella pneumoniae,17,2019-12-10
+M82627,2018-03-08,Other,"""ICU Detergent""",Klebsiella michiganensis,-,
+M911617,2019-12-02,Perianal Swab,,Klebsiella pneumoniae,1198,2019-10-09
+M09082,2020-11-26,Perianal Swab,,Escherichia coli,131,
+M99388,2019-09-23,Urine,,Proteus vulgaris,-,
+M910897,2019-11-04,Abscess Swab,,Staphylococcus aureus,93,2019-11-04
+M98871,2019-08-26,Nasal Swab,,Staphylococcus aureus,59,2019-08-26
+M86916,2018-07-19,Respiratory,,Staphylococcus aureus,97,2018-07-17
+M00364,2019-12-31,Rectal Swab,,Enterococcus faecium,1421,2019-12-08
+M05289,2020-04-04,Tibia Tissue,,Serratia marcescens,-,2020-04-03
+M98880,2019-08-27,Urine,,Escherichia coli,1193,
+M04939,2020-02-18,Lip Tissue,,Staphylococcus aureus,93,2020-02-18
+M96708,2019-06-10,Urine,,Escherichia coli,131,
+M85138,2018-05-28,Rectal swab,,Escherichia coli,69,2018-05-27
+M96711,2019-06-17,Rectal Swab,,Escherichia coli,131,2019-06-02
+M96008,2019-05-20,Rectal Swab,,Enterococcus faecium,80,2019-04-21
+M93371,2019-03-13,Rectal Swab,,Staphylococcus aureus,93,2019-03-12
+M13358,2021-04-02,Rectal Swab,,Enterococcus faecium,1424,
+M11703,2021-02-15,Rectal Swab,,Enterobacter hormaechei,45,2021-02-11
+M05857,2020-06-15,Perianal Swab,,Klebsiella pneumoniae,1079,2019-12-31
+M13982,2021-04-21,Rectal Swab,,Enterococcus faecium,1424,2021-04-03
+M07327_2,2020-08-31,Retroperitoneal Fluid,,Enterobacter hormaechei,415,2020-06-23
+M91488,2018-12-22,Forearm Swab,,Acinetobacter baumannii,1050,2018-12-12
+M88201,2018-09-03,Rectal swab,,Citrobacter freundii,185,
+M12150,2021-02-21,Rectal Swab,,Klebsiella pneumoniae,13,2021-02-21
+M910273,2019-10-17,Rectal Swab,,Enterococcus faecium,1424,2019-10-17
+M86331,2018-01-29,Cerebrospinal fluid,,Enterococcus faecium,80,2017-12-23
+M12156,2020-12-28,Rectal Swab,,Enterococcus faecium,1424,2020-12-15
+M93651,2019-03-22,Urine,,Escherichia coli,998,2019-03-02
+M91491,2019-01-17,Nasal Swab,,Staphylococcus aureus,97,2019-01-16
+M912108,2019-12-14,Blood,,Escherichia coli,1193,2019-12-14
+M97577,2019-07-11,Nasal Swab,,Staphylococcus aureus,1232,2019-07-08
+M92518_2,2019-02-24,Rectal Swab,,Klebsiella pneumoniae,13,2019-02-22
+M12684,2021-03-14,Rectal Swab,,Escherichia coli,69,2021-03-13
+M99397,2019-09-19,Rectal Swab,,Escherichia coli,38,2019-09-19
+M87665,2018-08-15,Urine,,Escherichia coli,131,2018-08-11
+M87355,2018-08-02,Urine,,Escherichia coli,393,
+M96234,2019-05-28,Perianal Swab,,Escherichia coli,131,2019-05-28
+M89665,2018-10-23,Blood,,Enterobacter chengduensis,414,2018-09-25
+M86439,2018-06-29,Rectal swab,,Enterococcus faecium,1421,2018-06-29
+M86155,2018-06-26,Blood,,Escherichia coli,131,2018-06-26
+M911151,2019-11-11,Urine,,Escherichia coli,10,
+M98514,2019-08-17,Urine,,Enterococcus faecium,1424,2019-08-07
+M98192,2019-06-24,Isolate,,Staphylococcus aureus,97,
+M810376,2018-11-16,Rectal Swab,,Enterococcus faecium,1421,2018-11-08
+M89921,2018-11-02,Perianal Swab,,Escherichia coli,131,2018-11-02
+M89069,2018-10-02,Perianal,,Escherichia coli,46,2018-09-28
+M98889,2019-08-26,Rectal Swab,,Enterococcus faecium,78,2019-08-04
+M01519,2019-12-27,Blood,,Escherichia coli,131,
+M1233,2020-12-21,Environmental Swab,Room 3 Drain,Enterobacter hormaechei,68,
+M92825_R,2019-02-23,Rectal Swab,,N/A,N/A,2019-02-23
+M88655,2018-09-17,Rectal swab,,Enterococcus faecium,203,2018-09-12
+M84897,2018-05-21,,,Escherichia coli,131,2018-05-18
+M81102,2018-01-30,Rectal swab,,Escherichia coli,131,2018-01-30
+M95144,2019-05-01,Blood,,Escherichia coli,131,2019-04-23
+M86369,2018-05-31,Rectal swab,,Enterococcus faecium,1421,2018-05-30
+M84252,2018-04-30,Rectal swab,,Escherichia coli,209,2018-04-24
+M83142,2018-03-26,Rectal swab,,Escherichia coli,131,2017-04-03
+M92514,2019-02-19,Perianal Swab,,Escherichia coli,10,2019-02-12
+M87347,2018-08-04,Urine,,Escherichia coli,1193,2018-08-04
+M17466,2021-10-11,Rectal Swab,,Enterobacter hormaechei,459,2021-09-27
+M89663_2,2018-10-22,Perianal Swab,,Staphylococcus aureus,78,2018-07-10
+M911370,2019-11-18,Catheter Urine,,Escherichia coli,131,2019-11-21
+M06114_3,2020-06-25,Blood,,Enterococcus faecium,78,
+M87891,2018-08-23,Urine,,Escherichia coli,847,2018-08-23
+M13566,2021-04-12,Rectal Swab,,Klebsiella pneumoniae,45,2021-04-01
+M06618,2020-07-23,Rectal Swab,,Enterobacter hormaechei,90,2020-07-15
+M13572_1,2021-04-08,Abscess Fluid,,Staphylococcus aureus,93,2021-04-07
+M99817,2019-10-01,Seroma Fluid,,Staphylococcus aureus,5,2019-09-28
+M99256_1,2019-09-09,Blood,,Staphylococcus aureus,93,2019-09-09
+M97306,2019-07-01,Rectal Swab,,Escherichia coli,1193,2019-06-29
+M87675,2018-08-19,Rectal swab,,Enterococcus faecium,1424,2018-08-19
+M93653,2019-03-26,Nasal Swab,,Staphylococcus aureus,5,2019-03-25
+M87339,2018-08-02,Environmental Swab,"""ECU Room 41""",Enterococcus faecium,78,
+M04932,2020-04-08,Urostomy Device,,Klebsiella pneumoniae,17,2020-04-06
+M99813,2019-10-05,Abscess Swab,,Staphylococcus aureus,93,2019-10-05
+M97563,2019-07-10,Rectal Swab,,Escherichia coli,131,2019-07-10
+M89664,2018-10-22,Perianal Swab,,Escherichia coli,1193,2018-10-19
+M13362,2021-04-01,Rectal Swab,,Enterococcus faecium,1424,2021-03-15
+M810384,2018-11-15,Urine,,Escherichia coli,38,2018-11-15
+M89060,2018-10-02,Rectal,,Acinetobacter baumannii,NF,2018-09-07
+M12688,2021-03-16,Environmental Swab,Room 1-4 Bathroom/Toilet,Klebsiella pneumoniae,13,
+M96712,2019-06-11,Rectal Swab,,Enterobacter bugandensis,-,2019-05-05
+M04926,2020-04-01,Rectal Swab,,Klebsiella pneumoniae,1774,2020-04-01
+M09084,2020-11-22,Rectal Swab,,Klebsiella pneumoniae,17,2020-11-21
+M85782,2018-06-15,Rectal swab,,Escherichia coli,196,2018-06-15
+M910681,2019-10-30,Nasal Swab,,Staphylococcus aureus,97,2019-10-24
+M8837,2018-01-22,Rectal swab,,Klebsiella pneumoniae,45,2017-12-19
+M08776,2020-11-14,Blood,,Escherichia coli,450,2020-11-02
+M06616,2020-07-20,Urine,,Enterobacter hormaechei,415,2020-07-06
+M82656,2018-03-08,Urine,,Escherichia coli,131,2018-03-06
+M91517,2018-12-12,Urine,,Escherichia coli,131,2018-12-04
+M86921,2018-07-21,Urine,,Escherichia coli,131,2018-07-15
+M93932,2019-03-23,Blood,,Klebsiella pneumoniae,45,2019-03-17
+M91885,2019-02-04,Wound Swab,,Klebsiella pneumoniae,NF,2018-12-27
+M99812,2019-10-05,Breast Abscess Swab,,Staphylococcus aureus,93,2019-10-06
+M96006,2019-04-22,Faeces,,Enterococcus faecium,78,2019-03-07
+M99245_1,2019-08-27,Urine,,Enterobacter hormaechei,415,2019-08-14
+M98157,2019-07-29,Rectal Swab,,Escherichia coli,NF,2019-07-24
+M910016,2019-10-08,Nasal Swab,,Staphylococcus aureus,22,2019-10-07
+M88422,2018-09-09,Urine,,Escherichia coli,131,2018-09-09
+M82629,2018-03-12,Rectal swab,,Klebsiella michiganensis,-,2018-02-09
+M05850,2020-06-08,Rectal Swab,,Klebsiella pneumoniae,17,2020-06-08
+M95755,2018-11-03,Blood,,Corynebacterium striatum,-,
+M01516,2019-12-12,Venous Blood,,Escherichia coli,131,
+M83135,2018-03-12,Rectal swab,,Citrobacter farmeri,-,2018-01-27
+M92494,2019-02-14,Blood,,Escherichia coli,88,2019-01-26
+M89497,2018-10-18,Rectal,,Escherichia coli,405,
+M98710,2019-08-26,Rectal Swab,,Escherichia coli,354,2019-08-23
+M98152,2019-07-30,Foot Tissue,,Staphylococcus aureus,15,2019-07-25
+M98160,2019-08-02,Blood,,Escherichia coli,543,
+M01625,2020-01-29,Perianal Swab,,Escherichia coli,1193,2020-01-29
+M91524,2019-01-07,Perianal Swab,,Escherichia coli,38,2018-12-11
+M01529,2019-01-13,Blood,,Escherichia coli,131,
+M91873,2019-02-04,Perineum,,Enterobacter hormaechei,90,
+M82247,2018-02-27,Rectal swab,,Escherichia coli,131,2018-02-24
+M99823,2019-10-05,Rectal Swab,,Staphylococcus aureus,5,
+M910932,2019-11-06,Rectal Swab,,Escherichia coli,131,2019-11-05
+M99624,2019-09-26,Anal Swab,,Enterococcus faecium,78,2019-09-25
+M912083,2019-12-12,Rectal Swab,,Klebsiella pneumoniae,1801,2019-12-11
+M94935,2019-04-21,Nasal Swab,,Staphylococcus aureus,1,2019-04-21
+M88409,2018-09-11,Rectal swab,,Staphylococcus aureus,78,
+M98350,2019-08-12,Rectal Swab,,Escherichia coli,131,2019-08-08
+M86924,2018-07-18,Urine,,Escherichia coli,131,2018-07-18
+M81639,2018-02-20,Rectal swab,,Escherichia coli,200,2018-02-16
+M92512,2019-02-21,Nasal Swab,,Staphylococcus aureus,97,2019-02-20
+M00676,2020-01-10,Rectal Swab,,Escherichia coli,131,
+M01517_2,2019-12-20,Venous Blood,,Escherichia coli,131,
+M88200,2018-09-05,Wound / skin / soft tissue,,Staphylococcus aureus,834,2018-09-02
+M16072,2021-07-17,Rectal Swab,,Enterobacter hormaechei,88,2021-07-17
+M910269,2019-10-16,Nasal Swab,,Staphylococcus aureus,22,2019-10-15
+M87886,2018-08-22,Rectal swab,,Staphylococcus aureus,93,
+M910493,2019-10-25,Throat Swab,,Staphylococcus aureus,NF,2019-10-08
+M00680,2020-01-05,Rectal Swab,,Enterococcus faecium,78,2019-12-19
+M05580,2020-05-31,Blood,,Escherichia coli,131,
+M910018,2019-10-08,Perianal Swab,,Escherichia coli,38,2019-10-04
+M96245,2019-05-28,Rectal Swab,,Klebsiella pneumoniae,17,2019-04-17
+M86361,2018-04-19,Urine,,Enterococcus faecium,NF,
+M86432,2018-07-09,Rectal swab,,Acinetobacter baumannii,1050,2018-04-15
+M99072,2019-09-10,Rectal Swab,,Klebsiella pneumoniae,405,2019-09-08
+M81375,2018-01-23,Rectal swab,,Escherichia coli,38,
+M910505,2019-10-24,Urine,,Escherichia coli,1193,
+M94957,2019-04-26,Rectal Swab,,Escherichia coli,131,
+M99836,2019-09-30,Nasal Swab,,Staphylococcus aureus,45,2019-09-24
+M810385,2018-11-16,Urine,,Klebsiella pneumoniae,219,2018-11-14
+M83136,2018-03-13,Rectal swab,,Klebsiella pneumoniae,3393,2018-03-05
+M92203,2019-02-11,Rectal Swab,,Staphylococcus aureus,5,2019-02-11
+M911607,2019-12-02,Rectal Swab,,Klebsiella variicola,3144,2019-11-05
+M09095,2020-11-24,Rectal Swab,,Escherichia coli,131,2020-10-30
+M14317_1R,2021-05-05,Metatarsal Bone,,Corynebacterium striatum,N/A,2021-04-30
+M83129_2,2018-03-15,Wound / skin / soft tissue,,Staphylococcus aureus,15,2018-03-22
+M89063,2018-10-04,Rectal,,Escherichia coli,69,2018-10-04
+M810163,2018-11-05,Urine,,Escherichia coli,1193,2018-10-25
+M92506,2019-02-19,Rectal Swab,,Enterococcus faecium,203,2019-02-18
+M96905,2019-06-19,Nasal Swab,,Staphylococcus aureus,1,
+M99635_R,2019-09-23,Epidural Tissue,,N/A,N/A,2019-09-23
+M91503,2018-12-23,Nasal Swab,,Staphylococcus aureus,1,2018-12-23
+M1746,2021-01-04,Rectum Swab,,Klebsiella pneumoniae,70,2020-12-24
+M910680,2019-11-02,Urine,,Staphylococcus aureus,45,2019-10-27
+M1964,2021-01-19,Rectal Swab,,Escherichia coli,543,2021-01-12
+M84255,2018-04-25,Rectal swab,,Klebsiella pneumoniae,309,2018-04-19
+M01593,2020-01-23,Urine,,Escherichia coli,131,
+M08774,2020-11-09,Rectal Swab,,Klebsiella pneumoniae,42,2020-11-08
+M92177,2019-02-13,Urine,,Klebsiella pneumoniae,392,2019-02-13
+M96714,2019-06-07,Rectal Swab,,Escherichia coli,3018,2019-06-03
+M96922,2019-06-20,Urine,,Escherichia coli,410,
+M97757,2019-07-22,Blood,,Staphylococcus aureus,5,2019-07-22
+M81105,2018-01-30,Rectal swab,,Escherichia coli,5455,2018-01-30
+M8438,2017-12-04,Rectal swab,,Klebsiella quasipneumoniae,-,2017-11-28
+M910041,2019-10-08,Urine,,Escherichia coli,131,2019-10-08
+M87674,2018-08-13,Rectal swab,,Enterococcus faecium,1421,2018-08-02
+M00953,2020-01-10,Femoral Artery Tissue,,Staphylococcus aureus,59,2020-01-09
+M810378,2018-11-14,Anal Swab,,Klebsiella pneumoniae,3435,2018-11-09
+M87136,2018-07-05,Respiratory,,Acinetobacter baumannii,218,
+M810625,2018-11-24,Rectal Swab,,Enterococcus faecium,17,2018-11-21
+M04949,2020-02-13,Foot Tissue,,Staphylococcus aureus,149,2020-02-13
+M93375,2019-03-18,Blood,,Enterobacter bugandensis,1052,2019-03-12
+M912087,2019-12-12,Aorta Tissue Clot,,Staphylococcus aureus,93,2019-12-12
+M94202,2019-04-03,Rectal Swab,,Staphylococcus aureus,5,2019-04-02
+M15814_1,2021-07-14,Rectal Swab,,Acinetobacter baumannii,2,2021-07-13
+M17320,2021-10-01,Sputum,,Pseudomonas aeruginosa,233,2021-09-08
+M01533,2019-09-05,Blood,,Escherichia coli,131,2019-09-05
+M810152,2018-11-07,Perianal Swab,,Escherichia coli,69,2018-11-07
+M84247,2018-04-24,Rectal swab,,Klebsiella pneumoniae,2715,2018-04-24
+M04941_2,2020-02-22,Hip Fluid,,Staphylococcus aureus,5,2020-02-19
+M06621,2020-07-20,Perianal Swab,,Klebsiella pneumoniae,17,2020-07-03
+M96913,2019-06-24,Nasal Swab,,Staphylococcus aureus,834,2019-06-23
+M94204,2019-04-02,Rectal Swab,,Klebsiella pneumoniae,133,2019-03-20
+M86917,2018-07-18,Respiratory,,Staphylococcus aureus,5,2018-07-18
+M95129,2019-04-29,Rectal Swab,,Enterococcus faecium,761,2019-04-17
+M89062,2018-10-01,Nasal,,Staphylococcus aureus,834,2018-10-01
+M96464,2019-06-03,Rectal Swab,,Enterococcus faecium,555,2019-05-23
+M99835,2019-10-08,Rectal Swab,,Escherichia coli,131,2019-10-08
+M95742,2019-05-20,Urine,,Klebsiella pneumoniae,661,2019-05-15
+M91530,2018-12-16,Perianal Swab,,Escherichia coli,38,2018-12-11
+M97559,2019-07-11,Rectal Swab,,Escherichia coli,1642,
+M1241_1,2020-12-29,Rectal Swab,,Enterobacter hormaechei,66,2020-12-24
+M98881,2019-08-28,Nasal Swab,,Staphylococcus aureus,59,2019-08-27
+M99260,2019-09-09,Rectal Swab,,Enterobacter hormaechei,415,2019-08-28
+M84258,2018-04-29,Respiratory,,N/A,N/A,2018-03-26
+M12168,2021-02-07,Rectal Swab,,Enterococcus faecium,1424,
+M86343,2017-12-12,Urine,,Enterococcus faecium,1421,2017-12-09
+M86158,2018-07-02,Rectal swab,,Escherichia coli,421,2018-07-02
+M01525,2019-03-15,Venous Blood,,Escherichia coli,131,
+M95738,2019-05-19,Nasal Swab,,Staphylococcus aureus,93,2019-05-19
+M00940,2020-01-19,Right Elbow Aspirate,,Staphylococcus aureus,93,
+M910880,2019-11-02,Abscess Swab,,Staphylococcus aureus,93,
+M911383,2019-11-24,Finger Swab,,Staphylococcus aureus,93,2019-11-22
+M00383,2019-12-31,Leg Abscess Swab,,Staphylococcus aureus,93,2019-12-30
+M910033,2019-10-12,Abscess Swab,,Staphylococcus aureus,22,2019-10-11
+M01534,2019-09-09,Blood,,Escherichia coli,131,
+M911384,2019-11-23,Abscess Swab,,Staphylococcus aureus,30,
+M00969,2020-01-12,Rectal Swab,,Enterococcus faecium,80,2020-01-09
+M93112,2019-02-27,Ulcer Swab,,Staphylococcus aureus,5,
+M07097,2020-08-17,Rectal Swab,,Citrobacter werkmanii,17,2020-08-17
+M91489,2018-12-13,Nasal Swab,,Staphylococcus aureus,93,2018-12-12
+M12683,2021-03-14,Perianal Swab,,Escherichia coli,394,2021-03-12
+M14301,2021-05-07,Blood,,Escherichia coli,131,
+M86928,2018-07-07,Rectal swab,,Enterococcus faecium,1421,2018-07-06
+M00375,2020-01-06,Perianal Swab,,Escherichia coli,62,2020-01-06
+M910482,2019-10-22,Nasal Swab,,Staphylococcus aureus,1,2019-10-22
+M96239,2019-05-29,Rectal Swab,,Escherichia coli,2015,2019-05-29
+M15788,2021-06-09,Rectal Swab,,Enterococcus faecium,1424,2021-05-10
+M810628,2018-11-16,Nasal Swab,,Staphylococcus aureus,8,2018-11-16
+M91413,2019-01-20,Rectal Swab,,Enterococcus faecium,1421,2019-01-17
+M92824,2019-02-24,Rectal Swab,,Enterococcus faecium,203,2019-02-24
+M87884,2018-08-20,Respiratory,,Staphylococcus argenteus,2250,2018-08-21
+M00387,2020-01-03,Nasal Swab,,Staphylococcus aureus,59,2020-01-03
+M95132,2019-05-03,Nasal Swab,,Staphylococcus aureus,93,2019-05-03
+M84254,2018-04-25,Rectal swab,,Escherichia coli,2851,2018-04-25
+M01539,2019-11-06,Venous Blood,,Escherichia coli,131,2018-10-10
+M00685,2020-01-06,Rectal Swab,,Staphylococcus aureus,1,2019-12-21
+M8833_2,2018-01-22,Rectal swab,,Escherichia coli,617,2018-01-17
+M97931_2,2019-07-24,Endotracheal Aspirate,,Acinetobacter nosocomialis,1066,2019-07-04
+M98713,2019-08-22,Blood,,Escherichia coli,131,2019-08-17
+M96249,2019-01-04,Disc Tissue,,Burkholderia cenocepacia,1626,
+M94224,2019-04-02,Rectal Swab,,Enterococcus faecium,1281,2019-04-02
+M08915,2020-04-02,Rectal Swab,,Enterococcus faecium,80,
+M97950,2019-07-26,Blood,,Staphylococcus aureus,22,2019-07-27
+M910027,2019-10-09,Nasal Swab,,Staphylococcus aureus,45,2019-10-08
+M00369,2019-12-31,Urine,,Escherichia coli,1193,2019-12-30
+M910685,2019-11-01,Rectal Swab,,Escherichia coli,131,2019-10-03
+M86351,2017-12-25,Rectal swab,,Enterococcus faecium,1421,
+M87676,2018-08-15,Blood,,Enterococcus faecium,203,2018-07-17
+M910491,2019-10-22,Axilla Abscess Swab,,Staphylococcus aureus,93,2019-10-22
+M98714,2019-08-22,Blood,,Klebsiella pneumoniae,NF,2019-08-14
+M910021,2019-10-09,Rectal Swab,,Staphylococcus argenteus,1850,2019-10-08
+M06843,2020-08-03,Rectal Swab,,Klebsiella pneumoniae,307,2020-07-27
+M85341,2018-05-28,Respiratory,,Staphylococcus aureus,5,2018-05-19
+M87668,2018-08-11,Blood,,Acinetobacter baumannii,1050,2018-06-30
+M85543,2018-06-11,Rectal swab,,Escherichia coli,131,2018-06-09
+M94945,2019-04-19,Right Arm Burn Swab,,Staphylococcus aureus,1035,
+M86933,2018-07-19,Wound / skin / soft tissue,,Staphylococcus aureus,93,
+M8437,2018-01-08,Rectal swab,,Klebsiella variicola,1563,2018-01-01
+M99816,2019-09-26,Blood,,Staphylococcus aureus,239,
+M97753,2019-07-17,Nasal Swab,,Staphylococcus aureus,1,2019-07-17
+M86932,2018-07-18,Respiratory,,Staphylococcus aureus,5,
+M00382,2020-01-01,Hand Abscess Swab,,Staphylococcus aureus,30,
+M09266_1,2020-12-01,Sputum Swab,,Escherichia coli,131,
+M91884,2019-02-07,Blood,,Acinetobacter baumannii,1050,2019-02-07
+M87130,2018-07-28,Rectal swab,,Klebsiella pneumoniae,661,2018-07-20
+M88662,2018-09-25,Rectal swab,,Escherichia coli,131,2018-09-24
+M99627,2019-09-27,Perianal Swab,,Escherichia coli,131,2019-09-27
+M91513,2019-01-31,Finger Wound Swab,,Staphylococcus aureus,93,2018-12-31
+M13581,2021-04-06,Rectal Swab,,Enterococcus faecium,1424,2021-03-30
+M910940,2019-11-08,Rectal Swab,,Enterococcus faecium,NF,2019-11-08
+M93925,2019-03-25,Rectal Swab,,Enterococcus faecium,80,2019-03-15
+M88036,2018-09-01,Rectal swab,,Klebsiella pneumoniae,13,2018-08-10
+M910501,2019-10-23,Rectal Swab,,Klebsiella pneumoniae,348,2019-10-15
+M05114_2,2020-05-06,Rectal Swab,,Klebsiella pneumoniae,1412,2020-03-30
+M01246,2020-01-24,Urine,,Escherichia coli,69,2020-01-15
+M94205,2019-04-02,Urine,,Escherichia coli,224,2019-03-30
+M95537,2019-05-09,Urine,,Escherichia coli,131,
+M82653,2018-03-12,Rectal swab,,Klebsiella pneumoniae,45,2018-02-21
+M15792,2021-06-15,Rectal Swab,,Enterococcus faecium,1424,2021-05-29
+M92199,2019-02-12,Rectal Swab,,Escherichia coli,131,2019-02-03
+M09260,2020-11-29,Rectal Swab,,Enterobacter hormaechei,204,2020-11-23
+M97934,2019-07-27,Urine,,Escherichia coli,131,2019-07-23
+M99241,2019-09-14,Urine,,Escherichia coli,1193,2019-09-14
+M97939,2019-07-25,Blood,,Escherichia coli,131,2019-07-25
+M96709,2019-06-16,Rectal Swab,,Escherichia coli,1193,2019-06-16
+M810151,2018-11-07,Rectal Swab,,Escherichia coli,453,2018-11-07
+M97949,2019-07-22,Bone Tissue Foot,,Staphylococcus aureus,5,2019-07-12
+M04947,2020-04-23,Rectal Swab,,Klebsiella pneumoniae,1662,2020-04-23
+M93113,2019-02-28,Wrist Wound Swab,,Staphylococcus aureus,93,2019-02-27
+M96700,2019-06-15,Nasal Swab,,Staphylococcus aureus,30,2019-06-14
+M8843,2018-01-19,Rectal swab,,Klebsiella michiganensis,50,2018-01-15
+M96710,2019-06-17,Perianal Swab,,Escherichia coli,1193,2019-06-15
+M15940,2021-07-11,Rectal Swab,,Klebsiella pneumoniae,39,2021-07-11
+M910043,2019-10-10,Urine,,Escherichia coli,131,2019-09-23
+M08918,2020-11-20,Perianal Swab,,Escherichia coli,69,2020-11-19
+M910270,2019-10-18,Buttock Abscess Swab,,Staphylococcus aureus,1,2019-10-17
+M98867,2019-09-01,Urine,,Escherichia coli,131,
+M00076,2019-12-23,Urine,,Escherichia coli,131,
+M00687_2,2020-01-07,Nephrostomy Urine,,Staphylococcus aureus,1,2020-01-07
+M01532,2019-01-03,Blood,,Escherichia coli,38,
+M87650,2015-11-04,Wound / skin / soft tissue,,Enterobacter hormaechei,145,
+M911606,2019-11-25,Rectal Swab,,Escherichia coli,457,2019-11-20
+M87345,2018-08-06,Rectal swab,,Escherichia coli,405,2018-08-05
+M910677_2,2019-10-29,Urine,,Proteus mirabilis,-,
+M14175_2,2021-04-30,Buttock Drain Fluid,,Escherichia coli,38,2021-04-14
+M96003,2019-03-03,Faeces,,Enterococcus faecium,1424,2019-02-05
+M89918,2018-10-29,Rectal Swab,,Klebsiella pneumoniae,429,2018-10-28
+M04958,2020-02-10,Rectal Swab,,Klebsiella pneumoniae,711,2019-11-15
+M98161_2,2019-08-04,Rectal Swab,,Klebsiella pneumoniae,643,2019-08-02
+M01506,2019-07-01,Blood,,Escherichia coli,131,
+M810381,2018-11-16,Urine,,Escherichia coli,130,
+M09086,2020-11-24,Rectal Swab,,Klebsiella pneumoniae,15,2020-11-19
+M14305,2021-05-11,Rectal Swab,,Escherichia coli,131,2021-05-03
+M911159,2019-11-11,Rectal Swab,,Klebsiella pneumoniae,15,2019-11-11
+M96239_R,2019-05-29,Rectal Swab,,N/A,N/A,2019-05-29
+M98148,2019-07-31,Rectal Swab,,Enterococcus faecium,203,2019-07-31
+M01512,2019-01-23,Blood,,Escherichia coli,131,2019-01-21
+M93930,2019-03-30,Rectal Swab,,Klebsiella pneumoniae,17,2019-03-29
+M81635_1,2018-02-17,Rectal swab,,Escherichia coli,10,2018-02-17
+M92836,2019-02-25,Rectal Swab,,Staphylococcus aureus,5,2019-02-21
+M84467,2018-05-03,Rectal swab,,Escherichia coli,349,2018-04-30
+M04946,2020-04-20,Rectal Swab,,Klebsiella pneumoniae,711,2020-03-30
+M86344,2017-12-10,Rectal swab,,Enterococcus faecium,80,2017-12-10
+M14317_1,2021-05-05,Metatarsal Bone,,Corynebacterium striatum,-,2021-04-30
+M86352,2018-03-10,Rectal swab,,Enterococcus faecium,17,
+M85775,2018-06-12,Rectal swab,,Klebsiella pneumoniae,22,2018-06-06
+M86922,2018-07-09,Rectal swab,,Klebsiella pneumoniae,14,
+M811671,2018-12-27,Blood,,Salmonella enterica,1,2018-12-28
+M85779,2018-06-19,Wound / skin / soft tissue,,Staphylococcus aureus,30,2018-06-14
+M82254,2018-02-20,Blood,,Klebsiella pneumoniae,348,2018-02-20
+M09439,2020-12-15,Rectal Swab,,Escherichia coli,131,2020-12-07
+M92510,2019-02-21,Rectal Swab,,Escherichia coli,38,
+M910891,2019-11-05,Rectal Swab,,Enterococcus faecium,78,2019-10-29
+M8845,2018-01-20,Rectal swab,,Escherichia coli,131,2018-01-17
+M91504,2018-12-31,Rectal Swab,,Enterobacter hormaechei,415,2018-12-03
+M88418,2018-09-17,Rectal swab,,Klebsiella pneumoniae,133,
+M00690,2020-01-06,Rectal Swab,,Klebsiella variicola,365,2019-11-25
+M810882,2018-11-27,Rectal Swab,,Klebsiella pneumoniae,37,2018-11-15
+M91483_R,2019-01-15,Urine,,Citrobacter freundii,396,2018-12-28
+M910879,2019-10-31,Urine,,Escherichia coli,2562,
+M96235_2,2019-05-31,Perianal Swab,,Klebsiella pneumoniae,893,2019-05-31
+M811170,2018-12-03,Perianal Swab,,Escherichia coli,131,2018-10-29
+M06253,2020-07-03,Blood,,Escherichia coli,636,
+M09089,2020-11-18,Urine,,Klebsiella pneumoniae,258,2020-11-18
+M13781,2021-04-16,Rectal Swab,,Enterococcus faecium,80,2021-04-14
+M00668,2019-12-23,No Site specified Swab,,Acinetobacter pittii,1923,
+M99246,2019-08-27,No Site specified Swab,,Enterobacter hormaechei,415,2019-08-27
+M1230,2020-12-14,Environmental Swab,7D Room 11 Sink,Klebsiella oxytoca,151,
+M13575,2021-04-06,Rectal Swab,,Enterococcus faecium,1424,2021-03-11
+M01526,2019-03-31,Venous Blood,,Escherichia coli,131,2019-03-30
+M85348,2018-06-04,Respiratory,,Staphylococcus aureus,5,2018-05-23
+M89913,2018-11-05,Perianal Swab,,Staphylococcus aureus,5,2018-10-25
+M09268,2020-12-04,Blood,,Escherichia coli,1340,2020-12-03
+M00947,2020-01-15,Chest Abscess Swab,,Staphylococcus aureus,93,2020-01-14
+M86173,2018-07-02,Respiratory,,N/A,N/A,
+M13985_1,2021-04-19,Perianal Swab,,Escherichia coli,131,2021-04-13
+M97090_1,2019-06-29,Right Leg Fluid,,Escherichia coli,1193,2019-06-28
+M86354,2018-03-26,Blood,,Enterococcus faecium,78,
+M95143,2019-05-01,Rectal Swab,,Escherichia coli,2851,2019-05-01
+M08922,2020-10-02,Urine,,Enterococcus faecium,1424,2020-10-02
+M08919_3,2020-07-18,Peritoneal Swab,,Enterococcus faecium,1424,2020-07-11
+M93929,2019-03-23,Sputum,,Klebsiella pneumoniae,45,2019-02-25
+M93670,2019-02-22,Blood,,Escherichia coli,131,2019-02-19
+M81104_2,2018-01-30,Rectal swab,,Escherichia coli,131,2017-08-22
+M81095,2018-01-31,Rectal swab,,Escherichia coli,38,2018-01-31
+M82649,2018-03-13,Rectal swab,,Escherichia coli,773,2018-03-13
+M12163,2021-02-24,Ventilator Swab External,ICU Bed 17,Pseudomonas aeruginosa,3118,
+M12441_1,2021-02-16,Environmental Swab,7A Room 1 Toilet Shower,Enterobacter hormaechei,113,
+M13784,2021-04-13,Rectum Swab,,Enterococcus faecium,NF,2021-03-23
+M98188,2019-07-26,Isolate,,Staphylococcus aureus,872,
+M99830,2019-10-05,Rectal Swab,,Escherichia coli,69,2019-10-02
+M08430,2020-11-02,Rectal Swab,,Klebsiella pneumoniae,15,2020-11-01
+M810158,2018-11-05,Rectal Swab,,Enterococcus faecium,78,2018-10-02
+M910257,2019-10-17,Rectal Swab,,Escherichia coli,131,2019-10-14
+M00683,2020-01-06,Nasal Swab,,Staphylococcus aureus,5,2020-01-06
+M910678,2019-10-28,Nasal Swab,,Staphylococcus aureus,NF,2019-10-09
+M86345,2017-12-14,Blood,,Enterococcus faecium,78,
+M88413,2018-09-13,Respiratory,,Staphylococcus aureus,5,
+M92823,2019-02-26,Rectal Swab,,Escherichia coli,744,2019-02-11
+M1236,2020-12-23,Blood,,Escherichia coli,131,2020-12-10
+M99252,2019-09-09,Abscess Swab,,Staphylococcus aureus,30,2019-09-08
+M911144,2019-11-14,Rectal Swab,,Enterococcus faecium,78,2019-11-09
+M911610,2019-11-20,Nasal Swab,,Staphylococcus aureus,239,2019-11-19
+M97946,2019-07-27,Nasal Swab,,Staphylococcus aureus,93,2019-07-27
+M91534,2018-12-27,Perianal Swab,,Escherichia coli,131,2018-12-27
+M93660,2019-03-25,Rectal Swab,,Klebsiella variicola,2388,2019-03-23
+M95533,2019-05-14,Rectal Swab,,Klebsiella pneumoniae,65,2019-05-05
+M97573,2019-07-09,Nasal Swab,,Staphylococcus aureus,93,2019-07-09
+M16213,2021-06-06,Rectal Swab,,Enterococcus faecium,1424,2021-05-18
+M85992_2,2018-06-25,Rectal swab,,Klebsiella pneumoniae,1878,2018-06-22
+M06975,2020-08-09,Perianal Swab,,Klebsiella pneumoniae,15,2020-08-07
+M99253,2019-09-09,Abscess Tissue,,Staphylococcus aureus,93,2019-09-08
+M91521,2018-12-20,Rectal Swab,,Klebsiella pneumoniae,1408,2018-12-20
+M86428,2018-07-05,Rectal swab,,Escherichia coli,131,2018-07-05
+M87340,2018-08-03,Wound / skin / soft tissue,,Acinetobacter baumannii,1050,2018-07-08
+M04927,2020-03-10,Blood,,Enterobacter hormaechei,45,2020-03-09
+M01518,2019-12-25,Blood,,Escherichia coli,131,
+M06974,2020-08-07,Perianal Swab,,Klebsiella pneumoniae,27,2020-07-28
+M00067,2019-12-17,Rectal Swab,,Enterococcus faecium,80,2019-12-17
+M01623,2020-01-27,Rectal Swab,,Escherichia coli,501,
+M85345,2018-05-29,Rectal swab,,Klebsiella pneumoniae,45,2018-05-14
+M94208,2019-04-01,Rectal Swab,,Enterococcus faecium,1424,2019-03-20
+M00074_2,2019-12-27,Rectal Swab,,Klebsiella pneumoniae,1412,2019-11-30
+M911362,2019-11-18,Rectal Swab,,Enterococcus faecium,78,2019-11-04
+M911622,2019-11-23,Rectal Swab,,Enterobacter hormaechei,68,2019-11-08
+M8628,2018-01-15,Urine,,Escherichia coli,69,2018-01-15
+M04907,2020-03-09,Rectal Swab,,Klebsiella pneumoniae,17,2020-03-02
+M82252,2018-02-26,Rectal swab,,Klebsiella pneumoniae,515,2018-02-22
+M87662,2018-08-10,Urine,,Klebsiella pneumoniae,37,2018-08-10
+M96020,2019-05-24,Blood,,Enterococcus faecium,203,2019-05-24
+M83128,2018-04-02,Rectal swab,,Klebsiella pneumoniae,1741,2018-03-29
+M87677,2018-07-21,Blood,,Klebsiella pneumoniae,4411,
+M00956,2020-01-13,Buttock Abscess Swab,,Staphylococcus aureus,93,2020-01-13
+M92183,2019-02-11,Blood,,Klebsiella pneumoniae,2498,
+M95733,2019-05-17,Buttock Abscess Swab,,Staphylococcus aureus,93,2019-05-17
+M99395,2019-09-18,Blood,,Escherichia coli,69,
+M97933,2019-07-26,Rectal Swab,,Klebsiella pneumoniae,1290,2019-07-26
+M810374,2018-11-14,Anal Swab,,Enterococcus faecium,203,2018-11-14
+M89504,2018-10-15,Rectal Swab,,Enterococcus faecalis,-,2018-10-07
+M912094,2019-12-09,Rectal Swab,,Escherichia coli,131,2019-12-08
+M84003,2018-04-10,Rectal swab,,Escherichia coli,648,2018-04-09
+M89282,2018-10-09,Rectal,,Enterococcus faecalis,-,2018-10-07
+M94961,2019-04-27,Rectal Swab,,Klebsiella pneumoniae,37,2019-04-26
+M86441,2018-07-02,Rectal swab,,Enterococcus faecium,203,2018-07-02
+M910889,2019-10-29,Nasal Swab,,Staphylococcus aureus,97,
+M82655,2018-03-06,Rectal swab,,Escherichia coli,3268,2018-03-06
+M86163,2018-06-28,Respiratory,,Staphylococcus aureus,93,
+M96899_1,2019-06-16,Rectal Swab,,Enterococcus faecium,NF,2019-06-16
+M01604,2020-01-31,Unspecified Site Swab,,Enterococcus faecium,80,2020-01-31
+M84245_2,2018-04-21,Rectal swab,,Escherichia coli,501,2018-04-21
+M87892_1,2018-08-23,Urine,,Klebsiella pneumoniae,948,2018-07-27
+M98711_1,2019-08-23,Rectal Swab,,Escherichia coli,636,2019-08-21
+M91849,2019-02-04,Rectal Swab,,Escherichia coli,88,2019-01-26
+M910488,2019-10-21,Buttock Abscess Swab,,Staphylococcus aureus,93,2019-10-21
+M810386,2018-11-05,Rectal Swab,,Klebsiella pneumoniae,15,2018-10-22
+M911154,2019-11-13,Foot Tissue,,Staphylococcus aureus,239,2019-11-13
+M00960,2020-01-21,Rectal Swab,,Escherichia coli,442,2020-01-21
+M04937,2020-02-11,Urine,,Enterobacter hormaechei,415,2020-02-05
+M912093,2019-12-09,Rectal Swab,,Escherichia coli,1193,2019-12-03
+M98521,2019-08-08,Sputum,,Klebsiella pneumoniae,348,2019-08-02
+M00089,2019-12-18,Finger Abscess Swab,,Staphylococcus aureus,93,2019-12-18
+M93105,2019-03-05,Rectal Swab,,Escherichia coli,131,2019-03-04
+M911381,2019-11-17,Nasal Swab,,Staphylococcus aureus,1,2019-11-17
+M82625,2018-03-08,Other,"""2A Pan Room Detergent""",Klebsiella michiganensis,-,
+M99065_2,2019-09-02,Urine,,Escherichia coli,354,
+M92826,2019-03-04,Rectal Swab,,Klebsiella sp. FDAARGOS 511,-,2019-02-11
+M12685_2,2021-03-07,Urine,,Enterobacter hormaechei,134,
+M13571,2021-04-06,Rectal Swab,,Enterococcus faecium,1424,2021-03-16
+M15942,2021-07-15,Rectal Swab,,Enterococcus faecium,1424,2021-07-15
+M8437R,2018-01-08,Rectal swab,,Klebsiella variicola,1563,2018-01-01
+M97763,2019-07-15,Urine,,Escherichia coli,38,2019-06-17
+M97557,2019-07-12,Nasal Swab,,Staphylococcus aureus,1,2019-07-12
+M94953,2019-04-15,Perianal Swab,,Escherichia coli,73,2019-02-05
+M87889,2018-08-27,Rectal swab,,Staphylococcus aureus,88,
+M00366,2020-01-04,Rectal Swab,,Enterococcus faecium,1421,2020-01-03
+M96243,2019-05-28,Nasal Swab,,Staphylococcus aureus,149,2019-05-28
+M93650,2019-03-22,Rectal Swab,,Klebsiella pneumoniae,1788,2019-03-21
+M17172,2021-09-30,Rectal Swab,,Enterococcus faecium,1424,2021-09-19
+M83133,2018-03-26,Rectal swab,,Citrobacter farmeri,-,2017-12-23
+M08431,2020-10-23,Rectal Swab,,Klebsiella pneumoniae,557,2020-10-19
+M97299,2019-07-07,Abscess Swab,,Staphylococcus aureus,93,2019-07-05
+M01242,2020-01-23,Rectal Swab,,Escherichia coli,1193,
+M810144_R,2018-11-05,Mid stream Urine,,N/A,N/A,
+M810369,2018-11-17,Nasal Swab,,Staphylococcus aureus,1,2018-11-17
+M15814_2,2021-07-14,Rectal Swab,,Klebsiella pneumoniae,147,2021-07-13
+M89059,2018-09-26,Rectal,,Acinetobacter baumannii,195,2018-09-26
+M1554,2021-01-07,Blood,,Escherichia coli,131,2021-01-07
+M81106,2018-01-30,Rectal swab,,Escherichia coli,69,2017-12-24
+M84892,2018-04-23,Blood,,Klebsiella pneumoniae,188,2018-04-23
+M96900,2019-06-17,Rectal Swab,,Enterococcus faecium,1424,2019-06-12
+M911598_1,2019-11-30,Ankle Bone,,Staphylococcus haemolyticus,-,2019-11-26
+M911847,2019-12-05,Urine,,Escherichia coli,69,
+M12151,2021-02-15,Urine,,Pseudomonas aeruginosa,262,2020-12-01
+M04917,2020-02-22,Rectal Swab,,Klebsiella pneumoniae,469,2020-02-22
+M96242,2019-05-28,Nasal Swab,,Staphylococcus aureus,22,2019-05-27
+M89673,2018-10-23,Rectal Swab,,Escherichia coli,457,2018-10-17
+M8630,2018-01-18,Rectal swab,,Klebsiella michiganensis,-,2018-01-15
+M94929,2019-04-25,Rectal Swab,,Enterococcus faecium,80,2019-04-23
+M99258,2019-09-13,Blood,,Staphylococcus aureus,93,
+M810632,2018-11-22,Rectal Swab,,Klebsiella pneumoniae,37,2018-11-21
+M911842,2019-12-06,Rectal Swab,,Enterococcus faecium,78,2019-12-06
+M92194,2019-02-09,Nasal Swab,,Staphylococcus aureus,8,2019-02-09
+M92509,2019-02-20,Rectal Swab,,Escherichia coli,131,2019-02-19
+M97747,2019-07-11,Rectal Swab,,Enterobacter hormaechei,90,2019-07-11
+M91868,2019-02-05,Nasal Swab,,Staphylococcus aureus,78,2018-07-10
+M82650,2018-03-08,Rectal swab,,Escherichia coli,617,2018-03-08
+M97564_2,2019-07-01,Rectal Swab,,Escherichia coli,4088,2019-05-16
+M99639,2019-09-23,Urine,,Escherichia coli,73,
+M99409,2019-09-17,Abscess Swab,,Staphylococcus aureus,93,
+M811159,2018-11-29,Rectal Swab,,Enterobacter hormaechei,45,2018-11-29
+M13793_1,2021-04-07,Bronchial Washing,,Klebsiella oxytoca,151,2021-04-07
+M06623,2020-07-22,Rectal Swab,,Klebsiella pneumoniae,309,2020-07-22
+M82751,2018-03-18,Rectal swab,,Escherichia coli,226,2018-03-18
+M82750,2018-03-14,Rectal swab,,Escherichia coli,131,2018-03-13
+M00374,2019-12-28,Wound Swab,,Klebsiella pneumoniae,14,
+M910877,2019-11-04,Rectal Swab,,Enterococcus faecium,1421,2016-06-27
+M84016,2018-04-13,Rectal swab,,Escherichia coli,405,2018-04-12
+M91857,2019-02-05,Perianal Swab,,Klebsiella pneumoniae,15,2018-07-10
+M912109,2019-12-05,Blood,,Escherichia coli,1193,2019-12-04
+M00077,2019-12-19,Blood,,Escherichia coli,38,2019-12-14
+M01620,2020-02-03,Nasal Swab,,Staphylococcus aureus,NF,2020-02-03
+M811157,2018-12-05,Nasal Swab,,Staphylococcus aureus,97,2018-12-05
+M91423,2019-01-17,Anal Swab,,Enterococcus faecium,1421,2019-01-17
+M99407,2019-09-23,Urine,,Escherichia coli,1340,
+M87135,2018-07-26,Environmental Swab,"""SWAB 4C (Bath3 Floor Trap)""",Leclercia adecarboxylata,-,2018-07-26
+M92204,2019-02-11,Nose Swab,,Staphylococcus aureus,22,2019-02-11
+M07971,2020-10-10,Perianal Swab,,Klebsiella pneumoniae,307,2020-10-09
+M00949,2020-01-17,Skin Swab,,Staphylococcus aureus,93,2020-01-15
+M86918_2,2018-07-18,Urine,,Escherichia coli,131,2018-07-18
+M00950,2020-01-17,Axilla Abscess Swab,,Staphylococcus aureus,30,
+M04910,2020-02-26,Blood,,Staphylococcus aureus,834,2020-02-21
+M04915,2020-02-11,Rectal Swab,,Escherichia coli,2851,2020-02-07
+M00094,2019-12-23,Blood,,Staphylococcus aureus,93,
+M01223,2019-01-13,Blood,,Enterococcus faecium,17,2019-01-10
+M97744,2019-07-22,Kidney Swab,,Escherichia coli,131,2019-07-20
+M96011,2019-05-22,Rectal Swab,,Enterococcus faecium,78,2019-05-22
+M85346,2018-05-29,Rectal swab,,Escherichia coli,131,2018-05-28
+M86443,2016-11-06,Blood,,Klebsiella pneumoniae,86,2016-11-06
+M93665,2019-03-20,Urine,,Klebsiella pneumoniae,15,
+M91845,2019-02-04,Rectal Swab,,Escherichia coli,1193,2019-01-31
+M87352,2018-08-05,Rectal swab,,Escherichia coli,131,
+M87349,2018-07-28,Rectal swab,,Escherichia coli,131,
+M95525,2019-05-07,Rectal Swab,,Enterococcus faecium,262,2019-05-07
+M97304,2019-07-03,Urine,,Escherichia coli,131,2019-07-03
+M97092,2019-07-02,Faeces,,Escherichia coli,131,2019-07-02
+M912107,2019-12-10,Femur Tissue,,Enterococcus faecium,761,2019-11-09
+M96235_1,2019-05-31,Perianal Swab,,Escherichia coli,115,2019-05-31
+M811158,2018-12-08,Nasal Swab,,Staphylococcus aureus,93,2018-12-08
+M84022,2018-04-17,Rectal swab,,Escherichia coli,131,2018-04-15
+M12681,2021-03-08,Perianal Swab,,Escherichia coli,131,2021-03-07
+M99615,2019-09-22,Sputum,,Escherichia coli,648,2019-09-20
+M93111,2019-02-26,Toe Wound Swab,,Staphylococcus aureus,1,
+M06622,2020-07-22,Blood,,Staphylococcus aureus,634,
+M98703,2019-08-19,Rectal Swab,,Enterococcus faecium,78,2019-08-19
+M89675,2018-10-26,Urine,,Escherichia coli,9138,2018-10-26
+M93117,2019-03-11,Blood,,Escherichia coli,1193,2019-03-08
+M86084,2018-06-11,Blood,,Staphylococcus aureus,93,
+M13338,2021-03-22,Environmental Swab,Rooms 7-10 Shower-floor Drain,Klebsiella pneumoniae,13,
+M910274,2019-10-15,Anal Swab,,Enterococcus faecium,1424,
+M86368,2018-05-22,Rectal swab,,Enterococcus faecium,80,
+M04908,2020-03-13,Rectal Swab,,Klebsiella pneumoniae,193,2020-03-13
+M06254_2,2020-07-01,Rm 14 Drain,ENVRB000318,Klebsiella pneumoniae,753,
+M01610,2020-01-30,Rectal Swab,,Enterococcus faecium,787,2020-01-30
+M01216_1,2019-07-28,Blood,,Enterococcus faecium,NF,2019-06-16
+M95759,2019-05-13,Urine,,Escherichia coli,1193,
+M81388,2018-02-06,Rectal swab,,Escherichia coli,7013,2018-01-31
+M98354,2019-08-12,Nasal Swab,,Staphylococcus aureus,1,2019-07-22
+M01527,2019-04-08,Blood,,Escherichia coli,131,2019-04-08
+M89286,2018-10-08,Rectal,,Escherichia coli,95,2018-10-07
+M98337,2019-08-09,Nasal Swab,,Staphylococcus aureus,97,2019-08-08
+M89919,2018-10-31,Urine,,Escherichia coli,12,2018-10-19
+M82656R,2018-03-08,Urine,,N/A,N/A,2018-03-06
+M96005,2019-04-15,Faeces,,Enterococcus faecium,1424,2019-04-03
+M00060,2019-12-25,Rectal Swab,,Enterococcus faecium,17,2019-12-20
+M05284_1,2020-05-14,Ankle Tissue,,Serratia marcescens,-,2020-05-11
+M06369_1,2020-07-13,In/Out Catheter Urine,,Enterobacter hormaechei,415,
+M92505,2019-02-19,Wound Swab,,Staphylococcus aureus,45,2019-02-18
+M910883,2019-10-28,Rectal Swab,,Klebsiella pneumoniae,348,2019-10-23
+M05123,2020-04-28,Blood,,Escherichia coli,131,
+M06620,2020-07-17,Rectal Swab,,Atlantibacter hermannii,-,
+M05115_2,2020-05-11,Blood,,Klebsiella pneumoniae,405,
+M99421,2019-09-23,Rectal Swab,,Escherichia coli,131,2019-09-21
+M86372,2018-06-08,Urine,,Enterococcus faecium,78,
+M99398,2019-09-20,Urine,,Escherichia coli,NF,
+M82752,2018-03-15,Rectal swab,,Escherichia coli,409,2017-10-04
+M00946_2,2020-01-13,Cheek Abscess Swab,,Staphylococcus aureus,5,2020-01-13
+M81380,2018-02-06,Rectal swab,,Escherichia coli,6900,2018-02-02
+M99403,2019-09-22,Urine,,Escherichia coli,131,2019-09-22
+M88414,2018-09-14,Blood,,Escherichia coli,1193,2018-09-04
+M91506_2,2019-01-21,Rectal Swab,,Escherichia coli,648,2019-01-21
+M91851,2019-02-02,Rectal Swab,,Klebsiella pneumoniae,22,2019-02-02
+M91522,2019-01-07,Anal Swab,,Klebsiella pneumoniae,1997,2019-01-07
+M810157,2018-11-04,Rectal Swab,,Enterococcus faecium,17,2018-11-04
+M00365,2019-12-30,Rectal Swab,,Enterococcus faecium,NF,2019-12-16
+M07469,2020-09-07,Toe Bone,,Enterobacter hormaechei,269,2020-09-07
+M81376,2018-02-05,Rectal swab,,Klebsiella pneumoniae,395,
+M06841,2020-08-03,Rectal Swab,,Klebsiella pneumoniae,405,2020-08-02
+M910050,2019-09-17,Blood,,Enterococcus faecium,78,2019-07-08
+M910899,2019-11-04,Blood,,Escherichia coli,131,2019-11-04
+M06001,2019-05-31,Blood,,Pseudomonas aeruginosa,N/A,
+M01606,2020-01-25,Nasal Swab,,Staphylococcus aureus,872,2020-01-24
+M92195,2019-02-12,Shin Swab,,Staphylococcus aureus,1,
+M96468,2019-06-05,Nasal Swab,,Staphylococcus aureus,93,2019-06-05
+M81377,2018-01-29,Rectal swab,,Hafnia paralvei,-,
+M810622,2018-11-16,Rectal Swab,,Enterococcus faecium,1421,2018-11-06
+M00096,2019-12-23,Groin Abscess Swab,,Staphylococcus aureus,59,
+M94939,2019-04-26,Nasal Swab,,Staphylococcus aureus,149,2019-04-26
+M01624,2020-01-31,Rectal Swab,,Escherichia coli,69,2020-01-31
+M85340_1,2018-05-31,Rectal swab,,Escherichia coli,69,2018-05-31
+M00693,2020-01-06,Rectal Swab,,Klebsiella pneumoniae,133,2019-12-20
+M97754,2019-07-18,Nasal Swab,,Staphylococcus aureus,93,2019-07-18
+M910882,2019-10-22,Rectal Swab,,Enterococcus faecium,78,2019-10-21
+M82240R,2018-03-03,Blood,,N/A,N/A,2018-02-23
+M89506,2018-10-16,Nose Swab,,Staphylococcus aureus,93,2018-10-15
+M92201,2019-02-11,Nasal Swab,,Staphylococcus aureus,93,
+M912097,2019-12-10,Nasal Swab,,Staphylococcus aureus,1,2019-12-07
+M12953,2021-03-11,Rectal Swab,,Enterococcus faecium,1424,2021-03-09
+M97300,2019-06-28,Rectal Swab,,Staphylococcus aureus,5,2019-06-21
+M810145,2018-11-04,Rectal Swab,,Klebsiella pneumoniae,1031,2018-08-01
+M00064,2019-12-18,Rectal Swab,,Enterococcus faecium,80,2019-12-15
+M86348,2017-12-26,Wound / skin / soft tissue,,Enterococcus faecium,1424,
+M98708,2019-08-18,Blood,,Pseudomonas aeruginosa,NF,2019-08-02
+M87667,2018-08-07,Blood,,Escherichia coli,131,2018-08-07
+M910679,2019-10-30,Rectal Swab,,Klebsiella pneumoniae,45,2019-10-23
+M00080,2019-12-16,Rectal Swab,,Enterobacter hormaechei,175,2019-12-11
+M04957,2020-03-17,Rectal Swab,,Klebsiella pneumoniae,37,2020-03-17
+M91424,2019-01-03,Rectal Swab,,Enterococcus faecium,1421,2018-12-27
+M91878,2019-02-11,Nose Swab,,Staphylococcus aureus,5,2019-02-08
+M910885,2019-11-04,Perianal Swab,,Klebsiella pneumoniae,1198,2019-07-25
+M13350_2,2021-04-01,Urine,,Klebsiella oxytoca,NF,
+M87657,2016-11-10,Wound / skin / soft tissue,,Enterobacter hormaechei,114,
+M910484,2019-10-22,Nasal Swab,,Staphylococcus aureus,NF,2019-10-16
+M09433,2020-12-08,Screening Swab,7D Room 1 Outside Bed Area,Enterobacter hormaechei,415,
+M83134_1,2018-03-09,Urine,,Enterobacter bugandensis,599,2018-02-07
+M04911,2020-02-18,Rectal Swab,,Escherichia coli,38,2020-02-18
+M8841,2018-01-24,Rectal swab,,Klebsiella pneumoniae,17,2017-12-24
+M92205,2019-02-12,Perianal Swab,,Escherichia coli,349,2019-02-12
+M85995,2018-06-25,Rectal swab,,N/A,N/A,
+M88412,2018-09-11,Rectal swab,,Staphylococcus aureus,1,
+M86169,2018-06-27,Respiratory,,Acinetobacter pittii,1875,2018-06-19
+M00100,2019-12-23,Blood,,Escherichia coli,421,2019-10-29
+M91523,2019-01-09,Urine,,Escherichia coli,38,2019-01-09
+M07099,2020-08-17,Rectal Swab,,Escherichia coli,N/A,2020-08-16
+M94927,2019-04-23,Rectal Swab,,Enterococcus faecium,78,2019-04-17
+M96466,2019-06-04,Nasal Swab,,Staphylococcus aureus,30,2019-06-03
+M07325,2020-08-31,Aortic Tissue,,Escherichia coli,410,2020-08-27
+M910684,2019-10-24,Rectum Swab,,Serratia marcescens,-,2019-10-09
+M95130_R,2019-05-01,Rectal Swab,,N/A,N/A,2019-04-30
+M95136,2019-04-30,Face Swab,,Staphylococcus aureus,188,
+M93109,2019-03-05,Thumb Tissue,,Staphylococcus aureus,93,2019-03-03
+M810373,2018-11-12,Rectal Swab,,Enterococcus faecium,80,2018-10-22
+M91511,2018-12-31,Nasal Swab,,Staphylococcus aureus,188,2018-12-30
+M910686,2019-10-30,Rectal Swab,,Klebsiella pneumoniae,25,2019-10-22
+M97746,2019-07-12,Rectal Swab,,Escherichia coli,58,2019-07-12
+M910492_1,2019-10-24,Perianal Swab,,Escherichia coli,144,
+M88660,2018-09-22,Rectal swab,,Escherichia coli,131,
+M05283,2020-05-18,Blood,,Staphylococcus aureus,30,
+M93931,2019-03-30,Rectal Swab,,Klebsiella pneumoniae,17,2019-03-30
+M04925,2020-03-30,Rectal Swab,,Klebsiella pneumoniae,869,2020-03-24
+M13568,2021-04-09,Blood,,Escherichia coli,998,
+M910941,2019-11-08,Rectal Swab,,Klebsiella pneumoniae,1243,2019-10-23
+M91855,2019-02-06,Urine,,Escherichia coli,131,2019-02-06
+M89672,2018-10-26,Nasal Swab,,Staphylococcus aureus,15,2018-10-26
+M89923,2018-10-25,Rectal Swab,,Klebsiella oxytoca,NF,2018-10-24
+M910010,2019-09-28,Rectal Swab,,Klebsiella pneumoniae,17,2019-09-28
+M85992_1,2018-06-25,Rectal swab,,Escherichia coli,10,2018-06-22
+M96465,2019-06-04,Rectal Swab,,Enterococcus faecium,78,2019-06-04
+M92182,2019-02-11,Perianal Swab,,Escherichia coli,38,2019-02-07
+M06115,2020-06-20,Rectal Swab,,Enterobacter hormaechei,830,2020-06-17
+M94933,2019-04-22,Nasal Swab,,Staphylococcus aureus,672,2019-03-18
+M12443,2021-02-22,Environmental Swab,ICU Bed 8 Outside Bed Area,Streptococcus pyogenes,-,
+M910042,2019-10-08,Urine,,Escherichia coli,131,2019-10-01
+M99625,2019-09-26,Rectal Swab,,Escherichia coli,224,2019-09-25
+M13363,2021-04-03,Rectal Swab,,Enterococcus faecium,1424,2021-03-20
+M98158,2019-07-31,Blood,,Escherichia coli,393,2019-07-27
+M91520,2018-12-19,Rectal Swab,,Klebsiella pneumoniae,429,2018-12-15
+M85785,2018-06-13,Rectal swab,,Escherichia coli,131,2018-06-12
+M92197,2019-02-18,Scalp Wound Swab,,Staphylococcus aureus,93,2019-02-17
+M94938,2019-04-26,Axillary Abscess Swab,,Staphylococcus aureus,30,2019-04-22
+M910275,2019-10-08,Faeces,,Escherichia coli,648,2019-09-26
+M82749,2018-03-14,Rectal swab,,Escherichia coli,38,2018-03-13
+M00959,2020-01-20,Rectal Swab,,Escherichia coli,131,2020-01-14
+M04940,2020-02-19,Thigh Tissue,,Staphylococcus aureus,30,2020-02-19
+M99833,2019-10-08,Rectal Swab,,Escherichia coli,394,2019-10-06
+M91481,2018-12-24,Urine,,Escherichia coli,405,2018-12-23
+M92517,2019-02-23,Rectal Swab,,Klebsiella pneumoniae,15,2019-02-22
+M99834,2019-10-08,Rectal Swab,,Escherichia coli,131,2019-10-08
+M98340,2019-08-05,Nasal Swab,,Staphylococcus aureus,45,2019-08-04
+M84250,2018-04-26,Rectal swab,,Escherichia coli,131,2018-04-16
+M99827,2019-10-03,Rectal Swab,,Enterococcus faecium,1421,2019-10-01
+M97303,2019-07-02,Rectal Swab,,Klebsiella pneumoniae,1967,2019-07-02
+M05575,2020-06-01,Rectal Swab,,Enterobacter hormaechei,459,2020-05-06
+M00678,2020-01-14,Rectal Swab,,Escherichia coli,648,
+M99064,2019-09-05,Rectum Swab,,Klebsiella pneumoniae,459,2019-09-04
+M95743,2019-05-05,Rectal Swab,,Enterobacter hormaechei,109,2019-05-05
+M94405,2019-04-11,Urine,,Escherichia coli,1193,
+M04951,2020-02-11,Blood,,Staphylococcus aureus,22,
+M98866,2019-08-30,Rectal Swab,,Escherichia coli,131,2019-08-28
+M06619,2020-07-22,Rectal Swab,,Enterobacter hormaechei,90,2020-07-22
+M15797,2021-06-29,Rectal Swab,,Enterococcus faecium,1424,2021-06-19
+M8828,2018-02-27,Rectal swab,,Escherichia coli,1193,2018-01-27
+M91484_3,2018-12-31,Rectal Swab,,Escherichia coli,131,2018-12-28
+M99814,2019-10-06,Nasal Swab,,Staphylococcus aureus,1,2019-10-06
+M86328,2018-01-12,Other,,Enterococcus faecium,80,
+M911595,2019-11-26,Pleura Tissue,,Staphylococcus aureus,93,2019-11-19
+M97570,2019-07-09,Urine,,Escherichia coli,127,2019-07-09
+M94404,2019-04-12,Rectal Swab,,Escherichia coli,1193,
+M89494,2018-10-18,Perianal,,Escherichia coli,38,2018-10-18
+M13354,2021-03-24,Rectal Swab,,Enterococcus faecium,654,2020-12-31
+M95751,2019-05-10,Tibia Bone Swab,,Corynebacterium striatum,-,
+M96928,2019-06-15,Rectal Swab,,Enterococcus faecium,17,2019-06-15
+M98517,2019-08-15,Rectal Swab,,Escherichia coli,410,2019-08-07
+M97567,2019-07-01,Urine,,Escherichia coli,131,2019-07-01
+M96478,2019-06-07,Urine,,Escherichia coli,131,
+M06374,2020-05-16,Blood,,Pseudomonas aeruginosa,244,
+M911856,2019-12-05,Buttock Abscess Swab,,Staphylococcus aureus,1482,2019-12-04
+M96484,2019-06-07,Urine,,Escherichia coli,131,2019-06-07
+M810153,2018-11-12,Pink Blood,,Escherichia coli,12,2018-10-19
+M01622,2020-01-28,Rectal Swab,,Escherichia coli,362,2020-01-25
+M97745,2019-06-23,Rectal Swab,,Klebsiella oxytoca,NF,2019-06-23
+M84682,2018-05-14,Respiratory,,Staphylococcus aureus,88,2018-04-18
+M8839,2018-01-28,Rectal swab,,Escherichia coli,131,2018-01-28
+M89058,2018-10-03,Anal,,Enterococcus faecium,796,
+M91538,2019-01-07,Perianal Swab,,Escherichia coli,410,2019-01-01
+M96927,2019-06-13,Urine,,Enterococcus faecium,1424,
+M99059,2019-09-04,Nasal Swab,,Staphylococcus aureus,1,2019-09-03
+M88210,2018-09-06,Faeces,,Klebsiella pneumoniae,188,
+M12956_1,2021-03-16,Environmental Swab,Rooms 7-10 Drains,Enterobacter hormaechei,110,
+M85778,2018-06-13,Wound / skin / soft tissue,,Staphylococcus aureus,93,2018-06-12
+M911602,2019-12-02,Rectal Swab,,Escherichia coli,69,2019-11-28
+M910029,2019-10-09,Nasal Swab,,Staphylococcus aureus,NF,2019-10-08
+M91859,2019-01-28,Blood,,Staphylococcus aureus,5,2019-01-28
+M84475,2018-05-05,Wound / skin / soft tissue,,Staphylococcus aureus,93,2018-05-03
+M910892,2019-11-06,Throat Swab,,Staphylococcus aureus,762,2019-11-06
+M98701,2019-08-22,Nasal Swab,,Staphylococcus aureus,6,2019-08-22
+M93655,2019-03-20,Nasal Swab,,Staphylococcus aureus,834,2019-03-16
+M13787,2021-04-15,Perianal Swab,,Escherichia coli,NF,2021-04-15
+M05122,2020-04-28,Rectal Swab,,Klebsiella aerogenes,181,2020-04-28
+M8438R,2017-12-04,Rectal swab,,Klebsiella quasipneumoniae,-,2017-11-28
+M910936,2019-11-04,Rectal Swab,,Enterococcus faecium,1424,
+M86648,2018-07-13,Respiratory,,Staphylococcus aureus,5,2018-07-09
+M87670,2018-08-13,Respiratory,,Staphylococcus aureus,NF,2018-08-12
+M13577,2021-04-05,Rectal Swab,,Enterococcus faecium,1424,2021-03-31
+M910881,2019-10-30,Rectal Swab,,Enterococcus faecium,78,2019-10-24
+M17171,2021-09-19,Rectal Swab,,Enterococcus faecium,1424,2021-09-11
+M89070,2018-10-04,Rectal,,Escherichia coli,2851,2018-10-04
+M94958,2019-04-27,Blood,,Escherichia coli,131,2019-04-27
+M89924,2018-10-23,Rectal Swab,,Citrobacter freundii,185,2018-10-22
+M810147,2018-11-10,Urine,,Escherichia coli,131,2019-11-10
+M86936,2018-07-19,Other,,Enterococcus faecium,78,2018-06-15
+M88035_1,2018-08-27,Rectal swab,,Escherichia coli,8346,2018-08-24
+M08260_2,2020-10-20,Endotracheal Aspirate,,Stenotrophomonas maltophilia,199,2020-10-10
+M13984,2021-04-21,Rectal Swab,,Enterococcus faecium,1424,2021-04-17
+M911168,2019-11-17,Wound Swab,,Staphylococcus aureus,93,
+M99400,2019-09-21,Abscess Swab,,Staphylococcus aureus,93,2019-09-21
+M911854,2019-12-04,Thumb Swab,,Staphylococcus aureus,93,2019-12-04
+M14315,2021-05-04,Rectal Swab,,Klebsiella pneumoniae,48,2021-04-29
+M911839,2019-12-06,Urine,,Escherichia coli,73,
+M83137,2018-03-21,Rectal swab,,Escherichia coli,73,2018-03-20
+M06370_2,2020-07-10,Urine,,Enterobacter hormaechei,90,2020-06-22
+M84899,2018-05-04,Rectal swab,,Citrobacter farmeri,-,2018-04-28
+M86157,2018-06-28,Rectal swab,,Escherichia coli,349,
+M95526,2019-05-07,Rectal Swab,,Enterococcus faecium,17,2019-05-04
+M01241,2020-01-20,Neck Abscess Pus,,Staphylococcus aureus,93,2020-01-20
+M94416,2019-04-08,Perianal Swab,,Klebsiella pneumoniae,17,2019-02-20
+M94409,2019-04-07,Nasal Swab,,Staphylococcus aureus,97,2019-04-06
+M93935,2019-03-25,Perianal Swab,,Escherichia coli,1193,2019-03-23
+M86162,2018-06-27,Respiratory,,Staphylococcus aureus,36,2018-06-27
+M89068,2018-09-21,Urine,,Escherichia coli,131,2018-09-18
+M09264,2020-11-30,Perianal Swab,,Escherichia coli,131,2020-11-21
+M96251,2019-05-22,Disc Tissue,,Burkholderia cenocepacia,1627,
+M06367,2020-07-10,Anal Swab,,Enterobacter hormaechei,415,2020-06-18
+M97749,2019-07-16,Rectal Swab,,Enterococcus faecium,1421,2019-06-05
+M87328,2018-08-06,Respiratory,,Staphylococcus aureus,NF,2018-08-02
+M91422,2019-01-14,Rectal Swab,,Enterococcus faecium,17,2019-01-05
+M93110,2019-02-25,Foot Swab,,Staphylococcus aureus,NF,2019-02-25
+M81104_1,2018-01-30,Rectal swab,,Escherichia coli,131,2017-08-22
+M00088,2019-12-29,Abdomen Abscess Swab,,Staphylococcus aureus,1,2019-12-29
+M97079,2019-06-29,Abscess Pus,,Staphylococcus aureus,93,2019-06-28
+M14313,2021-05-02,Rectal Swab,,Enterococcus faecium,NF,2021-04-29
+M87887,2018-08-22,Respiratory,,Staphylococcus aureus,NF,2018-08-27
+M912089_4,2019-12-09,Hip Tissue,,Corynebacterium striatum,-,
+M95536,2019-05-09,Urine,,Escherichia coli,131,2019-05-09
+M97087,2019-06-25,Perianal Swab,,Escherichia coli,10,2019-06-12
+M911603,2019-12-02,Rectal Swab,,Enterococcus faecium,78,2019-11-17
+M910044,2019-10-11,Urine,,Klebsiella pneumoniae,NF,2019-10-10
+M84251,2018-04-28,Blood,,Klebsiella pneumoniae,4341,2018-04-28
+M99422,2019-09-23,Rectal Swab,,Escherichia coli,127,2019-09-21
+M94215,2019-04-04,Rectal Swab,,Escherichia coli,10,2019-04-04
+M91854,2018-12-23,Rectal Swab,,Klebsiella pneumoniae,101,2019-02-04
+M85342,2018-05-28,Rectal swab,,Acinetobacter baumannii,1050,2018-05-18
+M810160,2018-11-06,Nose Swab,,Staphylococcus aureus,93,2018-11-06
+M810388,2018-11-19,Rectal Swab,,Escherichia coli,1423,2018-11-12
+M1228,2020-12-14,Environmental Swab,5F Bed 27 Outside Bed Area,Enterobacter hormaechei,831,
+M15943,2021-07-17,Rectal Swab,,Enterococcus faecium,1424,2021-07-17
+M95535,2019-05-07,Perianal Swab,,Escherichia coli,69,2019-05-07
+M87669,2018-08-16,Other,"""SWAB 4C Room 2 Toilet""",Acinetobacter baumannii,NF,
+M911146,2019-11-12,Rectal Swab,,Enterococcus faecium,78,2019-11-08
+M87139,2018-07-27,Respiratory,,Staphylococcus aureus,5,2018-07-27
+M95148,2019-05-04,Nasal Swab,,Staphylococcus aureus,239,2019-05-04
+M05116,2020-05-02,Endotracheal Aspirate,,Pseudomonas aeruginosa,NF,2020-04-12
+M12952,2021-03-18,Rectal Swab,,Klebsiella pneumoniae,13,2021-03-09
+M01600,2020-01-27,Rectal Swab,,Klebsiella pneumoniae,711,2020-01-27
+M00083,2019-12-19,Urine,,Escherichia coli,131,
+M84470,2018-05-04,Rectal swab,,Klebsiella pneumoniae,133,2018-05-04
+M910006,2019-10-09,Faeces,,Enterobacter hormaechei,90,
+M96901,2019-06-15,Rectal Swab,,Enterococcus faecium,17,2019-06-15
+M82753,2018-03-16,Rectal swab,,Escherichia coli,59,2018-03-15
+M98349_2,2019-08-12,Rectal Swab,,Escherichia coli,349,2019-07-24
+M85784,2018-06-14,Rectal swab,,Escherichia coli,156,2018-06-13
+M910481,2019-10-26,Rectum Swab,,Enterococcus faecium,203,2019-10-25
+M91852,2019-02-04,Rectal Swab,,Klebsiella pneumoniae,416,2019-01-30
+M94216,2019-04-04,Urine,,Escherichia coli,131,2019-04-02
+M94225,2019-04-06,Rectal Swab,,Enterococcus faecium,17,2019-01-21
+M09087_1,2020-11-30,Rectal Swab,,Klebsiella pneumoniae,392,2020-11-28
+M97562,2019-07-10,Perianal Swab,,Escherichia coli,131,2019-07-10
+M87337,2018-08-02,Respiratory,,Staphylococcus aureus,5,2018-07-30
+M91519,2018-11-18,Urine,,Escherichia coli,141,2018-12-18
+M96013,2019-05-17,Catheter Tip,,Staphylococcus aureus,188,2019-05-08
+M911855,2019-12-06,Abscess Swab,,Staphylococcus aureus,93,2019-12-04
+M06249,2020-06-23,Rm 7 Drain,ENVRB000318,Enterobacter bugandensis,599,
+M13797,2021-04-11,Urine,,Enterococcus faecium,NF,2021-03-30
+M95135,2019-04-27,Boil Wound Swab,,Staphylococcus aureus,93,2019-03-28
+M13986_1,2021-04-23,Rectal Swab,,Enterococcus faecium,1283,2021-04-19
+M910026,2019-10-09,Rectal Swab,,Enterococcus faecium,780,2019-10-09
+M87354,2018-08-05,Rectal swab,,Escherichia coli,131,
+M06251,2020-06-23,RM 3 Drain,ENVRB000318,Enterobacter hormaechei,90,
+M94931,2019-04-08,Rectal Swab,,Enterococcus faecium,1424,2019-04-06
+M82748,2018-03-14,Rectal swab,,Escherichia coli,131,2018-03-06
+M92521,2019-02-21,Urine,,Klebsiella pneumoniae,392,2019-02-21
+M12674,2021-03-08,Blood,,Staphylococcus aureus,93,
+M91502,2019-01-13,Rectal Swab,,Staphylococcus aureus,97,2019-01-13
+M811160,2018-12-04,Wound Swab,,Escherichia coli,218,
+M86341,2017-12-04,Rectal swab,,Enterococcus faecium,1421,2017-12-29
+M89065_2,2018-09-26,? Collection,,Klebsiella pneumoniae,37,2018-09-26
+M09093,2020-11-24,Rectal Swab,,Escherichia coli,131,2020-11-11
+M910937,2019-11-10,Urine,,Escherichia coli,410,2019-11-11
+M99392,2019-09-13,Nasal Swab,,Staphylococcus aureus,5,2019-09-11
+M910272,2019-10-17,Rectal Swab,,Enterococcus faecium,1424,2019-10-16
+M91526,2018-12-17,Groin Swab,,Enterobacter hormaechei,415,2018-12-10
+M86081,2018-04-13,Blood,,Staphylococcus aureus,97,2018-03-26
+M94218,2019-04-08,Rectal Swab,,Escherichia coli,131,2019-04-08
+M95741,2019-05-18,Urine,,Escherichia coli,131,2019-05-18
+M86350,2017-12-30,Wound / skin / soft tissue,,Enterococcus faecium,1421,2017-12-29
+M8434,2018-01-12,Rectal swab,,Klebsiella michiganensis,-,2018-01-06
+M05120,2020-05-08,Rectal Swab,,Klebsiella pneumoniae,17,2020-05-08
+M09080,2020-11-21,Blood,,Escherichia coli,131,2020-11-21
+M86440,2018-07-02,Rectal swab,,Enterococcus faecium,1421,2018-05-03
+M15790,2021-06-14,Rectal Swab,,Enterococcus faecium,1424,2021-06-01
+M87659,2017-05-17,Urine,,Enterobacter hormaechei,45,
+M00967,2020-01-16,Faeces,,Escherichia coli,131,
+M81092,2018-01-29,Rectal swab,,Klebsiella michiganensis,-,2018-01-15
+M88424,2018-09-16,Rectal swab,,Klebsiella pneumoniae,37,2018-09-16
+M89495,2018-10-18,Rectal,,Escherichia coli,69,2018-10-17
+M810635,2018-11-21,Nasal Swab,,Staphylococcus aureus,22,2018-11-20
+M86339,2018-02-17,Rectal swab,,Enterococcus faecium,1478,2018-02-16
+M84469,2018-05-04,Wound / skin / soft tissue,,Staphylococcus aureus,93,2018-05-03
+M98715,2019-08-19,Rectal Swab,,Klebsiella pneumoniae,515,2019-07-30
+M00072,2019-12-28,Urine,,Escherichia coli,1193,2019-12-10
+M94949,2017-07-02,Blood,,Escherichia coli,38,2017-06-17
+M92176,2019-02-13,Rectal Swab,,Enterococcus faecium,1424,2019-02-05
+M98882,2019-08-29,Nasal Swab,,Staphylococcus aureus,5,2019-08-22
+M00066,2019-12-16,Rectal Swab,,Enterococcus faecium,78,2019-12-03
+M87880_R,2018-08-13,Rectal swab,,N/A,N/A,2018-08-07
+M98519,2019-08-12,Urine,,Escherichia coli,131,2019-08-11
+M89502,2018-10-11,? Collection,,Citrobacter freundii,185,
+M910508,2019-10-24,Urine,,Klebsiella pneumoniae,45,2019-10-21
+M83129_1,2018-03-15,Wound / skin / soft tissue,,Staphylococcus aureus,15,2018-03-22
+M910663,2019-10-27,Urine,,Escherichia coli,131,
+M15799,2021-07-13,Rectal Swab,,Enterococcus faecium,1424,2021-07-07
+M99818,2019-10-03,Nasal Swab,,Staphylococcus aureus,5,2019-10-03
+M93104,2019-03-04,Rectal Swab,,Enterobacter hormaechei,90,2019-02-26
+M86165,2018-07-01,Respiratory,,Staphylococcus aureus,5,2018-06-21
+M05996,2020-01-26,Blood,,Pseudomonas aeruginosa,N/A,
+M87336_1,2018-08-02,Rectal swab,,Escherichia coli,88,2018-07-22
+M89922,2018-11-05,Perianal Swab,,Escherichia coli,410,2018-10-24
+M99067,2019-09-04,Blood,,Escherichia coli,131,
+M912096_1,2019-12-13,Perianal Swab,,Escherichia coli,10,2019-12-12
+M97075,2019-06-26,Rectal Swab,,Enterococcus faecium,80,2019-06-25
+M8840,2018-01-25,Rectal swab,,Klebsiella pneumoniae,35,2018-01-25
+M911600_2,2019-11-29,Calcaneus Bone,,Staphylococcus aureus,149,2019-11-28
+M06509,2020-06-26,Blood,,Staphylococcus capitis,NF,
+M99626,2019-09-27,Nasal Swab,,Staphylococcus aureus,NF,
+M91882,2019-02-06,Groin Swab,,Staphylococcus aureus,5,2019-02-06
+M13793_3,2021-04-07,Bronchial Washing,,Klebsiella oxytoca,NF,2021-04-07
+M96480_2,2019-06-07,Urine,,Klebsiella pneumoniae,25,2019-05-30
+M86934,2018-07-19,Rectal swab,,Staphylococcus aureus,5,2018-07-18
+M93106,2019-03-07,Rectal Swab,,Klebsiella pneumoniae,45,
+M92504,2019-02-19,Nasal Swab,,Staphylococcus aureus,1,2019-02-17
+M84246_2,2018-04-21,Rectal swab,,Klebsiella pneumoniae,501,2018-04-21
+M85554,2018-05-27,Blood,,Serratia marcescens,-,2018-05-18
+M86377,2018-06-18,Rectal swab,,Enterococcus faecium,1421,2018-05-30
+M910506,2019-10-24,Urine,,Escherichia coli,38,2019-10-14
+M04956,2020-03-23,Rectal Swab,,Enterococcus faecium,78,2020-02-20
+M810370,2018-11-12,Rectal Swab,,Enterococcus faecium,17,2018-10-22
+M96470,2019-06-03,Nasal Swab,,Staphylococcus aureus,834,2019-06-03
+M86347,2017-12-20,Rectal swab,,Enterococcus faecium,1424,
+M99069,2019-09-05,Rectal Swab,,Escherichia coli,131,
+M04930,2020-02-06,Rectal Swab,,Klebsiella pneumoniae,711,2020-01-26
+M99628,2019-09-27,Perianal Swab,,Escherichia coli,NF,2019-09-26
+M94950,2019-04-14,Urine,,Escherichia coli,714,2019-03-01
+M87655,2016-12-04,Other,,Klebsiella pneumoniae,584,
